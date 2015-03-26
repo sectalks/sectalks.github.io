@@ -1,0 +1,12 @@
+# Site settings
+title: SecTalks
+email: guru@sectalks.org
+description: >
+  Monthly technical (in)security talks and hands-on challenges, no bullshit!
+baseurl: ""
+url: "https://www.sectalks.org"
+twitter_username: sectalks
+github_username:  sectalks
+
+# Build settings
+markdown: kramdown
