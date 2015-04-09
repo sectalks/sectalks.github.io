@@ -1,6 +1,7 @@
 ---
 layout: page
 title: [+]
+menu: yes
 ---
 
 SecTalks helps to foster establishment of technical security meetups around the world. SecTalks meetups are
