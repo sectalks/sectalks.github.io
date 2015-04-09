@@ -14,8 +14,8 @@ Meetup: [http://www.meetup.com/SecTalks/]()
 
 # Organising team 
 
-<img src="https://pbs.twimg.com/profile_images/1677302890/ph_logo_twitter-s.png" border="1" width="100" height="100" /> | <img src="https://pbs.twimg.com/profile_images/1099426639/34670_408041423620_724463620_4663894_2933674_n.jpg" width="100" height="100" border="1"/> | <img src="http://i.imgur.com/qV2xxFc.jpg" border="1" width="100" height="100" alt="no photo available" /> 
-[@pi3ch](https://twitter.com/pi3ch) | [@joshlemon](https://twitter.com/joshlemon) | Norman
+<img src="https://pbs.twimg.com/profile_images/1677302890/ph_logo_twitter-s.png" border="1" width="100" height="100" /> | <img src="https://pbs.twimg.com/profile_images/1099426639/34670_408041423620_724463620_4663894_2933674_n.jpg" width="100" height="100" border="1"/> | <img src="https://media.licdn.com/mpr/mpr/shrink_100_100/p/7/005/095/124/28d6223.jpg" border="1" width="100" height="100" /> 
+[@pi3ch](https://twitter.com/pi3ch) | [@joshlemon](https://twitter.com/joshlemon) | [Norman](https://au.linkedin.com/in/createremotethread)
 
 # Date & Time 
 
