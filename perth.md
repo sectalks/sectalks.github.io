@@ -2,16 +2,19 @@
 layout: page
 title: Perth
 ---
-### Perth SecTalks 
+## Perth SecTalks 
 
 # Contact
 Twitter: [SecTalks](https://twitter.com/sectalks)
 
-# Organiser
+Email: [perth@sectalks.org](mailto:perth@sectalks.org)
 
-[@nanomebia](https://twitter.com/nanomebia)
+# Organising team
 
-# Venue
+<img src="https://pbs.twimg.com/profile_images/570032547543793664/JidNy3p_.jpeg" width="100" height="100" border="1" /> |
+[@nanomebia](https://twitter.com/nanomebia) |
+
+# Location
 
 Perth CBD (available to members only)
 

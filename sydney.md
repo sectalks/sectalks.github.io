@@ -8,17 +8,14 @@ title: Sydney
 
 Twitter: [SecTalks](https://twitter.com/sectalks)
 
-Email: [guru@sectalks.org](mailto:guru@sectalks.org)
-
-Linkedin: [https://www.linkedin.com/groups/SecTalks-6934607]()
+Email: [sydney@sectalks.org](mailto:sydney@sectalks.org)
 
 Meetup: [http://www.meetup.com/SecTalks/]()
 
-IRC: irc.sectalks.org:6697 (SSL) channel: #sectalks
+# Organising team 
 
-# Organisers 
-
-[@pi3ch](https://twitter.com/pi3ch), Norman, [@joshlemon](https://twitter.com/joshlemon)
+<img src="https://pbs.twimg.com/profile_images/1677302890/ph_logo_twitter-s.png" border="1" width="100" height="100" /> | <img src="https://pbs.twimg.com/profile_images/1099426639/34670_408041423620_724463620_4663894_2933674_n.jpg" width="100" height="100" border="1"/> | <img src="http://i.imgur.com/qV2xxFc.jpg" border="1" width="100" height="100" alt="no photo available" /> 
+[@pi3ch](https://twitter.com/pi3ch) | [@joshlemon](https://twitter.com/joshlemon) | Norman
 
 # Date & Time 
 

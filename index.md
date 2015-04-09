@@ -46,7 +46,8 @@ we will assist you to run a successful meetup.
 # How can I contact you?
 
 You can either contact SecTalks organiser in your local area or
-email us at guru@sectalks.org.
+email us at guru@sectalks.org or hop on our IRC channel 
+*irc.sectalks.org:6697 (SSL) channel: #sectalks*
 
 # What does 'no bullshit' mean?
 
