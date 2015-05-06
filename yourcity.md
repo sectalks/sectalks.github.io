@@ -13,12 +13,8 @@ Through SecTalks CTF people learn and share solutions. The goal is not just awar
 understand their problem and find a solution. This is make our CTF different from 
 from a *typical CTF* event where the goal is to harvest flags as fast as possible.
 
-<span class="bg-dark-gray white"> The 'no bullshit' clause means we strictly keep SecTalks away from bullshits!</span>
-The SecTalks organising team strictly aims for a harassment-free event experience for everyone 
-and does not tolerate harassment in any form related to gender, sexual orientation, disability, 
-gender identity, age, race, or religion. If an attendee engages in harassing behaviour, the team may 
-take any action they deem appropriate (including asking the person to leave the event immediately 
-and banning him or her from future events).
+<span class="bg-dark-gray white"> The 'no bullshit' clause means we strictly keep SecTalks away from bullshits!</span> 
+(politics, vendor pitch, harassment, your know it!)
 
 <span class="bg-dark-gray white">Start planing a local SecTalks meetup today. We will provide you with a quick leg-up on getting 
 organised and get going. You are 4 steps away from organising a local SecTalks meetup!</span>

@@ -1,8 +1,8 @@
 # Site settings
-title:       SecTalks
-email:       guru@sectalks.org
-author:      SecTalks Founders
-description: "Monthly technical security talks and hands-on CTF, no bullshit!"
+title:       "SecTalks - Monthly technical (in)security taslks and hands-on CTF"
+email:       "guru@sectalks.org"
+author:      "SecTalks Founders"
+description: "Monthly technical (in)security talks and hands-on CTF, no bullshit!"
 baseurl:     ""
 url:         "https://www.sectalks.org"
 
@@ -19,8 +19,8 @@ show_post_footers:  false
 disqus_shortname:
 
 # Social icons
-show_social_icons: false
-github_username:
+show_social_icons: true
+github_username: sectalks
 stackoverflow_id:
 twitter_username: sectalks
 google_plus_id:
