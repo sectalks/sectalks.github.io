@@ -6,37 +6,46 @@ menu: yes
 
 SecTalks is being held in three formats.
 
-#1. Presentation & monthly CTF
+#1. Talk & long CTF
 
-This meetup starts with 15 to 25 minutes a presentation on a technical security topic (no vendor pitch!).
-Following with a question and answer. The session continues with description of monthly challenge e.g.
-challenge description, rules, how to submit flags etc. 
+1. Presentation on a technical IT security topic for 15 to 25 minutes
+1. Q&A for 5 to 10 minutes
+1. Title, description, & rules of engagements of the CTF will be presented
+1. Participants names are taken
+1. Participants will be randomly group to a team
 
-Participant names will be added to [the team generator script]() and people will be randomly assigned
-to different teams to work together in coming month to solve the CTF.
+Teams have time **until the next meetup** to solve the CTF and submit the flag.
+The winning team will also go through their solution in an informal presentation.
 
-There is also a second presentation but informal for the winning team to go through their solution
-of past CTF.
 
-#2. Presentation & 60min CTF
+#2. Talk & short CTF
 
-Similar to the first format, this meetup starts with 15 to 25 minutes a presentation on a technical security topic (no vendor pitch!).
-Following with a question and answer. The session continues with description of 60min challenge e.g.
+1. Presentation on a technical IT security topic for 15 to 25 minutes
+1. Q&A for 5 to 10 minutes
+1. Title, description, & rules of engagements of the CTF will be presented
+1. Participants names are taken
+1. Participants will be randomly group to a team
 
-Participant names will be added to [the team generator script]() and people will be randomly assigned
-to different teams.
-
-60min CTF challenge is presented to all the teams. The objective is to find a flag in less than 60min 
-and the first team who solves the challenge will present their solution. 
+Teams have **60 minutes** to solve the CTF. The winning team will talk through their solution in the same session.
 
 #3. Ninja night
 
-This is a night where you show off your ninja skills. A typical night goes like this, we rock-up at a pub, 
-grab some beers, write our name down, get randomly assigned to a team, mini CTF challenge 
-is presented to all the teams, we start doing coolshit and drink more beers. The objective is to find a flag
- in less than 60min and the first team who solves the challenge will be a winner and will 
-present their way through the challenge. 
+There is **no presentation** at a Ninja Night. 
+This is a session where you show off your ninja skills. A typical evenning goes like this, we rock-up at a pub
+(or any other venue), grab some beers, write our name down, get randomly assigned to a team,  CTF challenge 
+is presented to all the teams, we start doing coolshit and drink more beers. The objective is to solve the CTF
+ in **60 minutes** and the first team who solves the challenge will be a winner and will 
+present their way through the challenge in the same session. 
 
-# Who creates a CTF?
+# FAQ
+
+## Who creates a CTF?
 The SecTalks CTFs are crowd sourced. This means the winning team has the opportunity to create the next CTF.
 This makes CTFs quite fun and evolving over the time.
+
+## How to randomly generate teams?
+Use your imaginations & remember your childhood games!
+There is also a [python script](../teamgen.py) that you can use to generate random teams.
+
+## What if a team becomes so strong?
+Find out who has experience playing CTF before, put them in a separate teams as a team lead.
