@@ -5,19 +5,19 @@ menu: yes
 ---
 
 SecTalks crew helps to foster establishment of technical security meetups around the world. <span class="bg-dark-gray white">
-SecTalks meetups are about participating in IT security discussions, learning from others, and improving problem-solving skills.
+SecTalks meetups are about participating in IT security discussions, learning from others, and improving problem-solving skills.</span>
 SecTalks offers an avenue where you can team-up with likeminded people to participate in solving
-a technical IT security challenge (i.e. Capture The Flag).</span>
+a technical IT security challenge (i.e. Capture The Flag).
 
 Through SecTalks CTF people learn and share solutions. The goal is not just award winners but to allow people 
 understand their problem and find a solution. This is make our CTF different from 
 from a *typical CTF* event where the goal is to harvest flags as fast as possible.
 
-<span class="bg-dark-gray white"> The 'no bullshit' clause means we strictly keep SecTalks away from bullshits!</span> 
+The 'no bullshit' clause means we strictly keep SecTalks away from bullshits!
 (politics, vendor pitch, harassment, your know it!)
 
-<span class="bg-dark-gray white">Start planing a local SecTalks meetup today. We will provide you with a quick leg-up on getting 
-organised and get going. You are 4 steps away from organising a local SecTalks meetup!</span>
+<span class="bg-dark-gray white">Start planing for a local SecTalks meetup. We help you with a quick leg-up on getting 
+organised and get going.</span>
 
 #Step 1 - Say 'Hi!'
 
@@ -30,7 +30,7 @@ a ninja night in any public places like a pub or a bar which is not going to cos
 
 After the first session, you can think to have your upcoming sessions in a [different format](../formats/).
 
-We will help you to find or create a CTF for your first session.
+We will help you to create a CTF for your first session.
 
 #Step 3 - Venue, date and time
 

@@ -21,8 +21,8 @@ and hands-on security challenges! A forum to learn & discuss technical
 (in)security stuff. 
 
 <div class="mt3 center">
-  <a href="#where" class="button button-blue button-big">I want to join!</a>
-  <a href="{{ site.baseurl }}/yourcity/" class="button button-blue button-big">Run a local session</a>
+  <a href="#where" class="button button-blue button-big"><strong>I want to join!</strong></a>
+  <a href="{{ site.baseurl }}/yourcity/" class="button button-blue button-big"><strong>Run a local session</strong></a>
 </div>
 
 # What
@@ -34,8 +34,8 @@ their problem and find a solution.
 
 # How
 
-SecTalks has three formats, Presentation & monthly CTF, Presentation &
-60min CTF, and Ninja Nights. You can read about them [here](./formats).
+SecTalks has three formats, Talk & long CTF, Talk &
+short CTF, and a Ninja Night. Read more [here](./formats).
 
 # Who
 
