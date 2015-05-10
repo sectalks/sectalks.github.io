@@ -41,7 +41,7 @@ present their way through the challenge in the same session.
 
 ## Who creates a CTF?
 The SecTalks CTFs are crowd sourced. This means the previously winning team has the opportunity to create the next CTF.
-This makes CTFs quite fun and keeps them evolving over the time.
+This makes CTFs quite fun and keeps them evolving over time.
 
 ## How do I randomly generate teams?
 Use your imagination & remember your childhood games!
