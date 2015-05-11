@@ -29,7 +29,7 @@ For location of each session visit our [Meetup page](http://www.meetup.com/SecTa
 
 # Upcoming meetup 
 
-Details of upcoming session will be sent to members mailinglist 
+Details of upcoming session will be sent to members mailing list 
 and also posted on our [Meetup group](http://www.meetup.com/SecTalks/).
 
 # How to join

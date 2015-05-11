@@ -24,7 +24,7 @@ Last Thursdays of each month at 5:30pm
 
 # Upcoming meetup
 
-Details will be send to members mailing list
+Details will be sent to members mailing list
 
 # How to join
 

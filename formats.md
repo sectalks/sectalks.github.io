@@ -4,7 +4,7 @@ title: Formats
 menu: yes
 ---
 
-SecTalks is being held in three formats.
+SecTalks events are currently held in three formats.
 
 #1. Talk & long CTF
 
@@ -12,7 +12,7 @@ SecTalks is being held in three formats.
 1. Q&A for 5 to 10 minutes
 1. Title, description, & rules of engagements of the CTF will be presented
 1. Participants names are taken
-1. Participants will be randomly group to a team
+1. Participants will be randomly grouped to a team
 
 Teams have time **until the next meetup** to solve the CTF and submit the flag.
 The winning team will also go through their solution in an informal presentation.
@@ -33,18 +33,18 @@ Teams have **60 minutes** to solve the CTF. The winning team will talk through t
 There is **no presentation** at a Ninja Night. 
 This is a session where you show off your ninja skills. A typical evenning goes like this, we rock-up at a pub
 (or any other venue), grab some beers, write our name down, get randomly assigned to a team,  CTF challenge 
-is presented to all the teams, we start doing coolshit and drink more beers. The objective is to solve the CTF
+is presented to all the teams, we start doing cool shit and drink more beers. The objective is to solve the CTF
  in **60 minutes** and the first team who solves the challenge will be a winner and will 
 present their way through the challenge in the same session. 
 
 # FAQ
 
 ## Who creates a CTF?
-The SecTalks CTFs are crowd sourced. This means the winning team has the opportunity to create the next CTF.
-This makes CTFs quite fun and evolving over the time.
+The SecTalks CTFs are crowd sourced. This means the previously winning team has the opportunity to create the next CTF.
+This makes CTFs quite fun and keeps them evolving over time.
 
-## How to randomly generate teams?
-Use your imaginations & remember your childhood games!
+## How do I randomly generate teams?
+Use your imagination & remember your childhood games!
 There is also a [python script](../teamgen.py) that you can use to generate random teams.
 
 ## What if a team becomes so strong?
