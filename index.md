@@ -48,14 +48,15 @@ SecTalks is organised in the following cities. Visit each city page to know more
  and instructions to attend:
 
 * [Perth, Australia](./perth)
-
 * [Sydney, Australia](./sydney)
 
 # Get in touch
 
 You can either contact SecTalks organiser in your local area or
-email us at [guru@sectalks.org](mailto:guru@sectalks.org) or hop on our IRC channel 
-*irc.sectalks.org:6697* (SSL) channel: *#sectalks*
+reach us at
+ 
+* [guru@sectalks.org](mailto:guru@sectalks.org) 
+* [irc.sectalks.org:6697](https://kiwiirc.com/client/irc.sectalks.org:+6697/sectalks) (SSL) channel: *#sectalks*
 
 
 #'no bullshit!' clause
