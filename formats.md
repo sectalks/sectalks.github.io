@@ -45,7 +45,8 @@ This makes CTFs quite fun and keeps them evolving over time.
 
 ## How do I randomly generate teams?
 Use your imagination & remember your childhood games!
-There is also a [python script](../teamgen.py) that you can use to generate random teams.
+There is also a **[python script](../teamgen.py)** that you can use to generate random teams
+and a **[countdown](../countdown.html)** script to display the time.
 
 ## What if a team becomes so strong?
 Find out who has experience playing CTF before, put them in a separate teams as a team lead.
