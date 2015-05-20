@@ -1,7 +1,7 @@
 ---
 layout: page
 ---
-
+```
 <pre class="logo">  
  _______  _______  _______  _______  _______  ___      ___   _  _______ 
 |       ||       ||       ||       ||   _   ||   |    |   | | ||       | 
@@ -15,7 +15,7 @@ Monthly technical (in)security talks and hands-on challenges,
 no bullshit!
 
 </pre>
-
+```
 SecTalks is a non-profit session for technical security talks, 
 and hands-on security challenges! A forum to learn & discuss technical 
 (in)security stuff. 
