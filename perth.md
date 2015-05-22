@@ -48,7 +48,7 @@ lets us know why you wanna join and we will be in touch.
 
 # Previous meetups
 
-* PER0x12 some stuff about fraud by toni
+* PER0x12 Exposing a Boiler Room Scam by t33b0ne
 * PER0x11 How important is your information security culture? Lessons learnt from secretive organisations… by Sven
 * PER0x10 Toto, I’ve a feeling we’re not in Kansas any more by Chris
 * PER0x0f Capturing the Flag (and in between) by sagi-
