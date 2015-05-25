@@ -33,6 +33,10 @@ For location of each session visit our [Meetup page](http://www.meetup.com/SecTa
 Details of upcoming session will be sent to members mailing list 
 and also posted on our [Meetup group](http://www.meetup.com/SecTalks/).
 
+# Looking to present?
+
+If you would like to present at SecTalks meetup, fill up [this](http://j.mp/sectalkscfp) form.
+
 # How to join
 
 We always like to get more awesome people in.
