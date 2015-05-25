@@ -28,14 +28,18 @@ For details of each session visit our [Meetup page](http://www.meetup.com/SecTal
 
 For location of each session visit our [Meetup page](http://www.meetup.com/SecTalks/)
 
+# Looking to present?
+
+If you would like to present at SecTalks meetup, fill up [this](http://j.mp/sectalkscfp) form.
+
+# Sponsors
+
+[PwC](http://www.pwc.com/), venue organiser
+
 # Upcoming meetup 
 
 Details of upcoming session will be sent to members mailing list 
 and also posted on our [Meetup group](http://www.meetup.com/SecTalks/).
-
-# Looking to present?
-
-If you would like to present at SecTalks meetup, fill up [this](http://j.mp/sectalkscfp) form.
 
 # How to join
 
