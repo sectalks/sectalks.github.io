@@ -11,6 +11,7 @@ to add your page.
 #0. Request for access
 
 Send us your **github account** to get access for adding or editing pages on SecTalks github pages.
+The invitations are sent by email and can be accepted at [https://github.com/sectalks](https://github.com/sectalk)
 
 #1. Create a page
 
@@ -46,7 +47,10 @@ Use the following template
     
     # Location
     ADDRESS
-
+    
+    # Looking to present?
+    [Put details for call for presentions (online form, email address, etc.).]
+    
     # Sponsors
     Sponsor name and link, what they offer
 
@@ -58,7 +62,7 @@ Use the following template
     Describe how someone can join. Do they need to go through an entrance challenge? 
     How about people new to security?     
 
-    ## Past events
+    ## Previous events
     
     * MEETUP ID (e.g. SYD0x01), PRESENTATION TITLE, SPEAKER
     
