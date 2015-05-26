@@ -19,11 +19,11 @@ Perth CBD (available to members only)
 
 # Date & Time
 
-Last Thursdays of each month at 5:30pm
+Second last Thursday of each month at 5:30pm.
 
 # Upcoming meetup
 
-Details will be sent to members mailing list
+Details will be sent to the members mailing list.
 
 # How to join
 
