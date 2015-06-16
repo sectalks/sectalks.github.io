@@ -49,6 +49,7 @@ SecTalks is organised in the following cities. Visit each city page to know more
 
 * [Perth, Australia](./perth)
 * [Sydney, Australia](./sydney)
+* [Brisbane, Australia](./brisbane)
 
 # Get in touch
 
