@@ -64,7 +64,9 @@ lets us know why you wanna join and we will be in touch.
 
 # Previous meetups 
 
-* SYD0x07 i <3 runtime tracing by TBA :)
+* SYD0x09 Practical SMEP Bypass Techniques on Linux by Vitaly Nikolenko
+* SYD0x08 newbie night (joint event with OWASP SYD)
+* SYD0x07 i <3 runtime tracing by Norman
 * SYD0x06 These aren't Androids you're looking for by [@PentestsPL](https://twitter.com/pentestspl)
 * SYD0x05 Docker - Insecurely Wrapping Secure Software by [@lordcyphar](https://twitter.com/lordcyphar)
 * SYD0x04 When full is only 99.9% full by [@0x6c73](https://twitter.com/0x6c73)
