@@ -34,23 +34,17 @@ and also posted on our [Meetup group](http://www.meetup.com/SecTalks-Brisbane/).
 # How to join
 
 We always like to get more awesome people in.
-We have an entry qualification challenge that you need
-to solve to show us your degree of awesomeness.
-
-## What is the entry challenge?
-
-1. Follow [@sectalks_BNE](https://twitter.com/sectalks_BNE) on Twitter.
-1. Tweet "@sectalks_BNE, V jnaan wbva...".
-1. The challenge details will be DMed to you.
-1. Have fun and DM us the flag.
-
-*Note: Twitter doesn't allow for DM, if you don't follow @sectalks_BNE.*
+Simply join the [Meetup group](http://www.meetup.com/SecTalks-Brisbane/),
+and RSVP to the sessions that you want to attend.
+You may also want to follow [@sectalks_BNE](https://twitter.com/sectalks_BNE) on Twitter.
 
 ## But I am new to security, can I still join?
 
-SecTalks is always open to anyone who is keen to learn infosec.
-The entry challenge is designed to be solvable by beginners. A little bit of effort will solve it. There will be people willing to mentor you on the day, and you'll be solving CTF's in no time flat.
+YES! SecTalks is always open to anyone who is keen to learn hands-on infosec.
+There will be people willing to mentor you on the day, and you'll be solving CTF's in no time flat.
 
 # Previous meetups 
 
-* None
+* BNE0x02 - "NTLM Hashes" by [Joshua Riesenweber](https://twitter.com/Joshua1909). Fuku CTF by [Bull](https://twitter.com/RobertWinkel).
+* BNE0x01 - "Taming the Bull" (Minotaur walkthru) by [GNU/Justin](https://twitter.com/justinsteven). Red Pill / Blue Pill CTF by [BluePill](https://twitter.com/llid3nlq).
+* BNE0x00 - Presentation by [Michael Gianarakis](https://twitter.com/mgianarakis). Minotaur CTF by [Bull](https://twitter.com/RobertWinkel).
