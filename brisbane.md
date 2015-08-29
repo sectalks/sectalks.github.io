@@ -45,6 +45,6 @@ There will be people willing to mentor you on the day, and you'll be solving CTF
 
 # Previous meetups 
 
-* BNE0x02 - "NTLM Hashes" by [Joshua Riesenweber](https://twitter.com/Joshua1909). Fuku CTF by [Bull](https://twitter.com/RobertWinkel).
+* BNE0x02 - "A Brief Intro to Windows LM Hashes" by [Joshua Riesenweber](https://twitter.com/Joshua1909). Fuku CTF by [Bull](https://twitter.com/RobertWinkel).
 * BNE0x01 - "Taming the Bull" (Minotaur walkthru) by [GNU/Justin](https://twitter.com/justinsteven). Red Pill / Blue Pill CTF by [BluePill](https://twitter.com/llid3nlq).
 * BNE0x00 - Presentation by [Michael Gianarakis](https://twitter.com/mgianarakis). Minotaur CTF by [Bull](https://twitter.com/RobertWinkel).
