@@ -4,17 +4,11 @@ title: Online Ninja Night
 menu: no
 ---
 
-#What
+Online Ninja Night is similar to the [Ninja Night](/formats) but we team up and play it online. Online Ninja Night is great way to team up with SecTalks members in other cities.
 
-Online Ninja Night is similar to the Ninja Night but we team up and play it online. 
+#When
 
-#Why
-
-Because Ninja Nights are cool and we want to play it more often! Also we can get a chance to team up with SecTalks members in other cities.
-
-# When
-
-19 September 2015 at 11am AEST
+NN0x00: 19 September 2015 at 11am AEST
 
 #Where
 
