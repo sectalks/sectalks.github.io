@@ -42,13 +42,13 @@ The winning team will create the next 60min CTF challenge and submit a short wri
 
 Send a private message to the channel moderator
 
-##Can I use a different IRC nick that the one I registered?
+##Can I use a different IRC nick than the one I registered?
 
 Unregistered IRC nicknames will be kicked out
 
 ##Where to send the write-up
 
-As usual, pull and push a commit to SecTalks github account.
+As usual, pull and push a commit to [SecTalks github account](https://github.com/nanomebia/sectalks).
 
 ## Would it be any hints?
 
