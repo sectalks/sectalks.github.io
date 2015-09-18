@@ -48,6 +48,8 @@ lets us know why you wanna join and we will be in touch.
 
 # Previous meetups
 
+* PER0x16 Robot Security: Where is it, where is it going? by michael
+* PER0x15 opps - stole ya identity by sam
 * PER0x14 Ninja Night
 * PER0x13 Why you should care about network forensics by chris
 * PER0x12 Exposing a Boiler Room Scam by t33b0ne
