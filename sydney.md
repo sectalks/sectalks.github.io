@@ -4,50 +4,42 @@ title: Sydney
 menu: yes
 ---
 
-# Contact 
+## Contact 
 
-Twitter: [SecTalks](https://twitter.com/sectalks)
+* Twitter: [SecTalks](https://twitter.com/sectalks)
+* Email: [sydney@sectalks.org](mailto:sydney@sectalks.org)
+* Meetup: [http://www.meetup.com/SecTalks/](http://www.meetup.com/SecTalks/)
 
-Email: [sydney@sectalks.org](mailto:sydney@sectalks.org)
-
-Meetup: [http://www.meetup.com/SecTalks/](http://www.meetup.com/SecTalks/)
-
-# Organising team 
+## Organising team 
 
 * [@pi3ch](https://twitter.com/pi3ch) 
 * [@joshlemon](https://twitter.com/joshlemon) 
 * [Norman](https://au.linkedin.com/in/createremotethread)
 
-# Date & Time 
-
-Second Tuesday of each month at 6pm
+## Date & Time 
 
 For details of each session visit our [Meetup page](http://www.meetup.com/SecTalks/)
 
-# Location 
+## Location 
 
 For location of each session visit our [Meetup page](http://www.meetup.com/SecTalks/)
 
-# Looking to present?
+## Looking to speak?
 
 If you would like to present at SecTalks meetup, fill up [this](http://j.mp/sectalkscfp) form.
 
-# Sponsors
-
-[PwC](http://www.pwc.com/), venue organiser
-
-# Upcoming meetup 
+## Upcoming meetup 
 
 Details of upcoming session will be sent to members mailing list 
 and also posted on our [Meetup group](http://www.meetup.com/SecTalks/).
 
-# How to join
+## How to join
 
 We always like to get more awesome people in.
 We have an entry qualification challenge that you need
 to solve to show us your degree of awesomeness.
 
-## What is the entry challenge?
+### What is the entry challenge?
 
 1. Follow [sectalks](https://twitter.com/sectalks) on Twitter.
 1. Tweet "@sectalks, V jnaan wbva...".
@@ -56,13 +48,13 @@ to solve to show us your degree of awesomeness.
 
 *Note: Twitter doesn't allow for DM, if you don't follow @sectalks.*
 
-## But I am new to security, can I still join?
+### But I am new to security, can I still join?
 
 SecTalks is always open to anyone who is keen to learn infosec.
 We run a mix of meetups for both beginners and people with experience.
 For more information, look into details of our events that are announced at our [MeetUp](http://www.meetup.com/SecTalks) group page.
 
-# Previous meetups 
+## Previous meetups 
 
 * SYD0x0a The first Online Ninja Night ([NN0x00](http://www.sectalks.org/online-ninja-night/)). CTF is accessible [here](https://github.com/sectalks/sectalks/tree/master/ctfs/NN0x00).
 * SYD0x09 Practical SMEP Bypass Techniques on Linux by [@vnik5287](https://twitter.com/vnik5287)
