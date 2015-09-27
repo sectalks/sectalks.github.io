@@ -59,12 +59,13 @@ to solve to show us your degree of awesomeness.
 ## But I am new to security, can I still join?
 
 SecTalks is always open to anyone who is keen to learn infosec.
-Ask a member to refer you (see our twitter followers) or email us and
-lets us know why you wanna join and we will be in touch.
+We run a mix of meetups for both beginners and people with experience.
+For more information, look into details of our events that are announced at our [MeetUp](http://www.meetup.com/SecTalks) group page.
 
 # Previous meetups 
 
-* SYD0x09 Practical SMEP Bypass Techniques on Linux by Vitaly Nikolenko
+* SYD0x0a The first Online Ninja Night ([NN0x00](http://www.sectalks.org/online-ninja-night/)). CTF is accessible [here](https://github.com/sectalks/sectalks/tree/master/ctfs/NN0x00).
+* SYD0x09 Practical SMEP Bypass Techniques on Linux by [@vnik5287](https://twitter.com/vnik5287)
 * SYD0x08 newbie night (joint event with OWASP SYD)
 * SYD0x07 i <3 runtime tracing by Norman
 * SYD0x06 These aren't Androids you're looking for by [@PentestsPL](https://twitter.com/pentestspl)
