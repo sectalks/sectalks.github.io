@@ -18,28 +18,36 @@ menu: yes
 
 ## Date & Time 
 
-For details of each session visit our [Meetup page](http://www.meetup.com/SecTalks/)
+We usually run meetups every third Tuesday of each month. But it subjects to change. Visit our [Meetup group](http://www.meetup.com/SecTalks/) for more details.
 
 ## Location 
 
-For location of each session visit our [Meetup page](http://www.meetup.com/SecTalks/)
+We run our meetups in different venues. visit our [Meetup group](http://www.meetup.com/SecTalks/) for more details.
 
 ## Looking to speak?
 
-If you would like to present at SecTalks meetup, fill up [this](http://j.mp/sectalkscfp) form.
+Whether it is a [lightning talk](https://en.wikipedia.org/wiki/Lightning_talk), 10min short presentation, or an hour long hands-on workshop, whether it is your first time to present, SecTalks is great place to get feedback and improve on.
+Fill up [SecTalks CFP](http://j.mp/sectalkscfp) form.
 
 ## Upcoming meetup 
 
-Details of upcoming session will be sent to members mailing list 
-and also posted on our [Meetup group](http://www.meetup.com/SecTalks/).
+Details of an upcoming meetup is sent to l33t members mailing list 
+and posted on our [Meetup group](http://www.meetup.com/SecTalks/).
 
 ## How to join
 
-We always like to get more awesome people in.
-We have an entry qualification challenge that you need
-to solve to show us your degree of awesomeness.
+SecTalks is always open to anyone who is keen to learn infosec.
+We run a mix of meetups for both beginners and people with experience.
+Join our [Meetup group](http://www.meetup.com/SecTalks/) and
+RSVP to upcoming meetups. 
 
-### What is the entry challenge?
+### I am l33t!
+
+If you are l33t, you may want
+to solve our l33t entry challenge to get yourself
+on our *l33t mailing list*. There is no harm, trying it.
+
+#### What is the l33t entry challenge?
 
 1. Follow [sectalks](https://twitter.com/sectalks) on Twitter.
 1. Tweet "@sectalks, V jnaan wbva...".
@@ -47,12 +55,6 @@ to solve to show us your degree of awesomeness.
 1. Have fun and email us the flag.
 
 *Note: Twitter doesn't allow for DM, if you don't follow @sectalks.*
-
-### But I am new to security, can I still join?
-
-SecTalks is always open to anyone who is keen to learn infosec.
-We run a mix of meetups for both beginners and people with experience.
-For more information, look into details of our events that are announced at our [MeetUp](http://www.meetup.com/SecTalks) group page.
 
 ## Previous meetups 
 
