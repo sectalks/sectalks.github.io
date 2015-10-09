@@ -43,6 +43,19 @@ You may also want to follow [@sectalks_BNE](https://twitter.com/sectalks_BNE) on
 YES! SecTalks is always open to anyone who is keen to learn hands-on infosec.
 There will be people willing to mentor you on the day, and you'll be solving CTF's in no time flat.
 
+## I am l33t!
+
+If you are l33t, you may want to solve our l33t entry challenge to get yourself on our *l33t mailing list*. There is no harm, trying it.
+
+### What is the l33t entry challenge?
+
+1. Follow [@sectalks_BNE](https://twitter.com/sectalks_BNE) on Twitter.
+1. Tweet "@sectalks_BNE, V nz y33g...".
+1. The challenge details will be DMed to you.
+1. Have fun and email us the flag.
+
+*Note: Twitter doesn't allow for DM, if you don't follow @sectalks_BNE.*
+
 # Previous meetups 
 
 * BNE0x02 - "A Brief Intro to Windows LM Hashes" by [Joshua Riesenweber](https://twitter.com/Joshua1909). Fuku CTF by [Bull](https://twitter.com/RobertWinkel).
