@@ -3,29 +3,28 @@ layout: page
 title: Perth
 menu: yes
 ---
+## Contact
 
-# Contact
-Twitter: [SecTalks](https://twitter.com/sectalks)
+* Twitter: [SecTalks](https://twitter.com/sectalks)
+* Email: [perth@sectalks.org](mailto:perth@sectalks.org)
 
-Email: [perth@sectalks.org](mailto:perth@sectalks.org)
-
-# Organising team
+## Organising team
 
 * [@nanomebia](https://twitter.com/nanomebia)
 
-# Location
+## Location
 
 Perth CBD (available to members only)
 
-# Date & Time
+## Date & Time
 
 Second last Thursday of each month at 5:30pm.
 
-# Upcoming meetup
+## Upcoming meetup
 
 Details will be sent to the members mailing list.
 
-# How to join
+## How to join
 
 We always like to get more awesome people in.
 We have an entry qualification challenge that you need
@@ -46,29 +45,10 @@ SecTalks is always open to anyone who is keen to learn infosec.
 Ask a member to refer you (see our twitter followers) or email us and
 lets us know why you wanna join and we will be in touch.
 
-# Previous meetups
+## Past meetups
 
-* PER0x16 Robot Security: Where is it, where is it going? by michael
-* PER0x15 opps - stole ya identity by sam
-* PER0x14 Ninja Night
-* PER0x13 Why you should care about network forensics by chris
-* PER0x12 Exposing a Boiler Room Scam by t33b0ne
-* PER0x11 How important is your information security culture? Lessons learnt from secretive organisations… by Sven
-* PER0x10 Toto, I’ve a feeling we’re not in Kansas any more by Chris
-* PER0x0f Capturing the Flag (and in between) by sagi-
-* PER0x0e Exchanging Demands Revisited by omnifocal
-* PER0x0d Xmas drinks!
-* PER0x0c Drony2012: Delays in the Drone Revolution by Eluul
-* PER0x0b 2001::/8 an address space oddity by [swarley](https://twitter.com/swarley)
-* PER0x0a Two guys explain exactly how hard it is to submit a simple talk title and description - by ...
-* PER0x09 SCADA – How the security times are changing... by [@NHardy](https://twitter.com/NHardy)
-* PER0x08 pwning meat: the impact of social engineering (open discussion) by Chris
-* PER0x07 When 2FA isn't implemented properly, I found a really simple way around it by [@1doles](https://twitter.com/1doles)
-* PER0x06 Script kiddie or an organized attack? Let me tell you about my observations into the world of darkness! by [@pi3ch](https://twitter.com/pi3ch)
-* PER0x05 Stop it or you will go blind by [@dave_au](https://twitter.com/dave_au)
-* PER0x04 JSON is why I drink by [@nanomebia](https://twitter.com/nanomebia) and [@munmap](https://twitter.com/munmap)
-* PER0x03 BROWSER Y U SO SLO? by [@xntrik](https://twitter.com/xntrik)
-* PER0x02 Shooting clay pidgins - a look at the libpurple IM library by [Matt](https://twitter.com/volvent)
-* PER0x01 TRACER T AND ZERO COOL by [@kronicd](https://twitter.com/kronicd), [@swarley](https://twitter.com/swarley) and @nextgenhacker101
-* PER0x00 Design Flaws: Pwning easy as one, two, three! by [@munmap](https://twitter.com/munmap) & Patch In The Middle: Subverting Client Upgrades by [@gman](https://twitter.com/gman)
-
+{% for post in site.posts %}
+{% if post.categories contains "meetup" and post.categories contains "perth" %}
+* <a href="{{ post.url | prepend: site.baseurl | prepend: site.url }}">{{ post.title }}{% if post.summary %} - {{ post.summary }}{% endif %}</a>
+{% endif %}
+{% endfor %}
