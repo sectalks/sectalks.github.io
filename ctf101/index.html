@@ -1,0 +1,24 @@
+---
+layout: default
+title: CTF 101
+---
+
+<div class="home">
+  <h3>Capture The Flag 101 Workshops</h3>
+  <p>Here you can get the materials for CTF101 workshops. These workshops are free to attend at SecTalks meetups</p>
+
+  <div class="posts">
+    {% for post in site.categories.ctf101 %}
+      <div class="post py3">
+        <p class="post-meta">{{ post.date | date: site.date_format }}</p>
+        <a href="{{ post.url | prepend: site.baseurl }}" class="post-link"><h4>{{ post.title }}</h4></a>
+        <p class="post-summary">
+          {% if post.summary %}
+            {{ post.summary }}
+          {% endif %}
+        </p>
+      </div>
+    {% endfor %}
+  </div>
+
+</div>
