@@ -7,7 +7,7 @@ menu: yes
 ## Contact 
 
 * Twitter: [SecTalks](https://twitter.com/sectalks_MEL)
-* Email: [sydney@sectalks.org](mailto:melbourne@sectalks.org)
+* Email: [melbourne@sectalks.org](mailto:melbourne@sectalks.org)
 * Meetup: [http://www.meetup.com/SecTalks/](http://www.meetup.com/SecTalks-Melbourne/)
 
 ## Organising team 
@@ -57,7 +57,7 @@ on our *l33t mailing list*. There is no harm, trying it.
 ## Past meetups 
 
 {% for post in site.posts %}
-{% if post.categories contains "meetup" and post.categories contains "sydney" %}
+{% if post.categories contains "meetup" and post.categories contains "melbourne" %}
 * <a href="{{ post.url | prepend: site.baseurl | prepend: site.url }}">{{ post.title }}{% if post.summary %} - {{ post.summary }}{% endif %}</a>
 {% endif %}
 {% endfor %}
