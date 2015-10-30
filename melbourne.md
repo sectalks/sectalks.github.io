@@ -6,7 +6,7 @@ menu: yes
 
 ## Contact 
 
-* Twitter: [SecTalks](https://twitter.com/sectalks_MEL)
+* Twitter: [@sectalks_MEL](https://twitter.com/sectalks_MEL)
 * Email: [melbourne@sectalks.org](mailto:melbourne@sectalks.org)
 * Meetup: [http://www.meetup.com/SecTalks-Melbourne/](http://www.meetup.com/SecTalks-Melbourne/)
 
