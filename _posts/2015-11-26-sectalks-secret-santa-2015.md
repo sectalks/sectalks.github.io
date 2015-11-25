@@ -32,4 +32,5 @@ Any time your receive your gift, take a photo and Tweet mention @SecTalks.
 If you have any questions, reach us at guru@sectalks.org
 
 Happy holidays and gift exchanging.
+
 SecTalks team
