@@ -1,9 +1,11 @@
 ---
 layout:     post
-title:      SYD0x0b
+title:      SYD0x0c
 summary:    Xmas catchup
 categories: meetup Sydney
 ---
+
+SYD0x0c (13th session)
 
 Friday, December 4, 2015
 6:00 PM
