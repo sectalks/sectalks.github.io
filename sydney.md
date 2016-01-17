@@ -13,8 +13,6 @@ menu: yes
 ## Organising team 
 
 * [@pi3ch](https://twitter.com/pi3ch) 
-* [@joshlemon](https://twitter.com/joshlemon) 
-* [Norman](https://au.linkedin.com/in/createremotethread)
 
 ## Date & Time 
 
