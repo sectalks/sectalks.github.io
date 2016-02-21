@@ -54,6 +54,15 @@ on our *l33t mailing list*. There is no harm, trying it.
 
 *Note: Twitter doesn't allow for DM, if you don't follow @sectalks.*
 
+## Sponsors
+#### Venue and catering
+<a href="http://www.pwc.com.au" 
+   title="PWC: 12 month venue and catering for SecTalks Sydney and Melbourne.">
+    <img src="{{ site.baseurl }}/images/sponsors/pwc.jpg" 
+         alt="PWC: 12 month venue and catering for SecTalks Sydney and Melbourne" 
+         class="sponsor">
+</a>
+
 ## Past meetups 
 
 {% for post in site.posts %}
