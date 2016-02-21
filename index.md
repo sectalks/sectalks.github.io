@@ -2,19 +2,7 @@
 layout: page
 ---
 
-<pre class="logo">  
- _______  _______  _______  _______  _______  ___      ___   _  _______ 
-|       ||       ||       ||       ||   _   ||   |    |   | | ||       | 
-|  _____||    ___||       ||_     _||  |_|  ||   |    |   |_| ||  _____| 
-| |_____ |   |___ |       |  |   |  |       ||   |    |      _|| |_____ 
-|_____  ||    ___||      _|  |   |  |       ||   |___ |     |_ |_____  | 
- _____| ||   |___ |     |_   |   |  |   _   ||       ||    _  | _____| | 
-|_______||_______||_______|  |___|  |__| |__||_______||___| |_||_______| 
-
-Monthly technical (in)security talks and hands-on challenges,
-no bullshit!
-
-</pre>
+<img src="{{ site.baseurl }}/images/logo.png" alt="SecTalks" class="img-responsive">
 
 SecTalks is a non-profit session for technical security talks, 
 and hands-on security challenges! A forum to learn & discuss technical 
@@ -61,6 +49,16 @@ reach us at
 * [irc.sectalks.org:6697](https://kiwiirc.com/client/irc.sectalks.org:+6697/sectalks) (SSL) channel: *#sectalks*
 
 
-#'no bullshit!' clause
+# 'no bullshit!' clause
 The ‘no bullshit’ clause means the SecTalks organising team strictly keeps
 SecTalks away from bullshit (politics, vendor pitch, harassment, you know it!).
+
+# Sponsors
+Thanks to our sponsors to continue supporting us. Contact your [SecTalks local organiser](#where) for the sponsorship benefits.
+
+<a href="http://www.pwc.com.au" 
+   title="PWC: 12 month venue and catering for SecTalks Sydney and Melbourne.">
+    <img src="{{ site.baseurl }}/images/sponsors/pwc.jpg" 
+         alt="PWC: 12 month venue and catering for SecTalks Sydney and Melbourne" 
+         class="sponsor">
+</a>

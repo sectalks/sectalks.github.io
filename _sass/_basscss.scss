@@ -645,7 +645,8 @@ strong, .bold {
 }
 
 .bg-blue {
-  background-color: #0096cc;
+  //background-color: #0096cc;
+  background-color: #00cd00;
 }
 
 .bg-light-gray {
@@ -678,11 +679,13 @@ body {
 }
 
 a {
-  color: #0096cc;
+  //color: #0096cc;
+  color: #00cd00;
   text-decoration: none;
 }
 a:hover {
-  color: #007199;
+  //color: #007199;
+  color: #00ff66;
 }
 
 .button {
@@ -698,11 +701,13 @@ a:hover {
 
 .button-blue {
   color: #fff;
-  background-color: #0096cc;
+  //background-color: #0096cc;
+  background-color: #00cd00;
 }
 .button-blue:hover {
   color: #fff;
-  background-color: #004b66;
+  //background-color: #004b66;
+  background-color: #00ff66;
 }
 
 .button-gray {
