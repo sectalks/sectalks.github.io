@@ -2,7 +2,7 @@
 layout:     post
 title:      SYD0x0c
 summary:    Xmas catchup
-categories: meetup Sydney
+categories: meetup sydney
 ---
 
 SYD0x0c (13th session)

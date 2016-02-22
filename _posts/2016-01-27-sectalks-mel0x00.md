@@ -2,7 +2,7 @@
 layout:     post
 title:      MEL0x00 
 summary:    First session
-categories: meetup Melbourne
+categories: meetup melbourne
 ---
 
 January 27 · 6:00 PM

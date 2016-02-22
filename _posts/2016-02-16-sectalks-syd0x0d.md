@@ -2,7 +2,7 @@
 layout:     post
 title:      SYD0x0d
 summary:    The Who Where and How of DDoS Attacks
-categories: meetup Sydney
+categories: meetup sydney
 ---
 
 SYD0x0d (14th session)

@@ -2,7 +2,7 @@
 layout:     post
 title:      MEL0x01
 summary:    Escape from SHELLcatraz breaking out of restricted Unix shells
-categories: meetup Melbourne
+categories: meetup melbourne
 ---
 
 Wednesday, February 24, 2016
