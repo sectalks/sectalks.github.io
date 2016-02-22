@@ -53,12 +53,6 @@ reach us at
 The ‘no bullshit’ clause means the SecTalks organising team strictly keeps
 SecTalks away from bullshit (politics, vendor pitch, harassment, you know it!).
 
-# Sponsors
-Thanks to our sponsors to continue supporting us. Contact your [SecTalks local organiser](#where) for the sponsorship benefits.
+# Sponsorship
+Visit [sponsorship](./sponsor) page for more information.
 
-<a href="http://www.pwc.com.au" 
-   title="PWC: 12 month venue and catering for SecTalks Sydney and Melbourne.">
-    <img src="{{ site.baseurl }}/images/sponsors/pwc.jpg" 
-         alt="PWC: 12 month venue and catering for SecTalks Sydney and Melbourne" 
-         class="sponsor">
-</a>
