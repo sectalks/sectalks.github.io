@@ -54,11 +54,10 @@ on our *l33t mailing list*. There is no harm, trying it.
 
 *Note: Twitter doesn't allow for DM, if you don't follow @sectalks_MEL.*
 
-## Past meetups 
+## Calendar
 
-{% for post in site.posts %}
-{% if post.categories contains "meetup" and post.categories contains "melbourne" %}
-* <a href="{{ post.url | prepend: site.baseurl | prepend: site.url }}">{{ post.title }}{% if post.summary %} - {{ post.summary }}{% endif %}</a>
-{% endif %}
-{% endfor %}
+Subscribe to [our calendar](http://www.meetup.com/SecTalks-Melbourne/events/) to view past and upcoming meetups:
 
+* [iCal](webcal://www.meetup.com/SecTalks-Melbourne/events/ical/)
+* [Outlook](http://www.meetup.com/SecTalks-Melbourne/events/ical/)
+* [RSS](http://www.meetup.com/SecTalks-Melbourne/events/rss/) or [Atom](http://www.meetup.com/SecTalks-Melbourne/events/atom/)

@@ -55,10 +55,10 @@ If you are l33t, you may want to solve our l33t entry challenge to get yourself 
 
 *Note: Twitter doesn't allow for DM, if you don't follow @sectalks_BNE.*
 
-## Past meetups 
+## Calendar 
 
-{% for post in site.posts %}
-{% if post.categories contains "meetup" and post.categories contains "brisbane" %}
-* <a href="{{ post.url | prepend: site.baseurl | prepend: site.url }}">{{ post.title }}{% if post.summary %} - {{ post.summary }}{% endif %}</a>
-{% endif %}
-{% endfor %}
+Subscribe to [our calendar](http://www.meetup.com/SecTalks-brisbane/events/) to view past and upcoming meetups:
+
+* [iCal](webcal://www.meetup.com/SecTalks-brisbane/events/ical/)
+* [Outlook](http://www.meetup.com/SecTalks-brisbane/events/ical/)
+* [RSS](http://www.meetup.com/SecTalks-brisbane/events/rss/) or [Atom](http://www.meetup.com/SecTalks-brisbane/events/atom/)

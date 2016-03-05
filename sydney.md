@@ -16,13 +16,13 @@ menu: yes
 
 ## Date & Time 
 
-We usually run meetups every third Tuesday of each month. But it subjects to change. Visit our [Meetup group](http://www.meetup.com/SecTalks/) for more details.
+We usually run meetups every third Tuesday of each month. Visit our [Meetup group](http://www.meetup.com/SecTalks/) for more details.
 
 ## Location 
 
-We run our meetups in different venues. visit our [Meetup group](http://www.meetup.com/SecTalks/) for more details.
+Visit our [Meetup group](http://www.meetup.com/SecTalks/) for more details.
 
-## Looking to speak?
+## Want to speak?
 
 Whether it is a [lightning talk](https://en.wikipedia.org/wiki/Lightning_talk), 10min short presentation, or an hour long hands-on workshop, whether it is your first time to present, SecTalks is great place to get feedback and improve on.
 Fill up [SecTalks CFP](http://j.mp/sectalkscfp) form.
@@ -63,11 +63,10 @@ on our *l33t mailing list*. There is no harm, trying it.
          class="sponsor">
 </a>
 
-## Past meetups 
+## Calendar 
 
-{% for post in site.posts %}
-{% if post.categories contains "meetup" and post.categories contains "sydney" %}
-* <a href="{{ post.url | prepend: site.baseurl | prepend: site.url }}">{{ post.title }}{% if post.summary %} - {{ post.summary }}{% endif %}</a>
-{% endif %}
-{% endfor %}
+Subscribe to [our calendar](http://www.meetup.com/SecTalks/events/) to view past and upcoming meetups:
 
+* [iCal](webcal://www.meetup.com/SecTalks/events/ical/)
+* [Outlook](http://www.meetup.com/SecTalks/events/ical/)
+* [RSS](http://www.meetup.com/SecTalks/events/rss/) or [Atom](http://www.meetup.com/SecTalks/events/atom/)
