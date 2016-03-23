@@ -55,6 +55,16 @@ If you are l33t, you may want to solve our l33t entry challenge to get yourself 
 
 *Note: Twitter doesn't allow for DM, if you don't follow @sectalks_BNE.*
 
+## Sponsors
+#### CTF Prizes
+<a href="https://www.ozhack.com/" 
+   title="Oz Hack: 6 month CTF prizes for SecTalks Brisbane.">
+    <img src="{{ site.baseurl }}/images/sponsors/OzHack_Logo.png" 
+         alt="Oz Hack: 6 month CTF prizes for SecTalks Brisbane" 
+         class="sponsor">
+</a>
+
+
 ## Calendar 
 
 Subscribe to [our calendar](http://www.meetup.com/SecTalks-brisbane/events/) to view past and upcoming meetups:
