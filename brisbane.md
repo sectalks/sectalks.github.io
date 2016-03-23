@@ -60,8 +60,7 @@ If you are l33t, you may want to solve our l33t entry challenge to get yourself 
 <a href="https://www.ozhack.com/" 
    title="Oz Hack: 6 month CTF prizes for SecTalks Brisbane.">
     <img src="{{ site.baseurl }}/images/sponsors/OzHack_Logo.png" 
-         alt="Oz Hack: 6 month CTF prizes for SecTalks Brisbane" 
-         class="sponsor">
+         alt="Oz Hack: 6 month CTF prizes for SecTalks Brisbane">
 </a>
 
 
