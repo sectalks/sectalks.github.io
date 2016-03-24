@@ -58,9 +58,14 @@ If you are l33t, you may want to solve our l33t entry challenge to get yourself 
 ## Sponsors
 #### CTF Prizes
 <a href="https://www.ozhack.com/" 
-   title="Oz Hack: 6 month CTF prizes for SecTalks Brisbane.">
+   title="Oz Hack: 6 month CTF prize sponsor for SecTalks Brisbane.">
     <img src="{{ site.baseurl }}/images/sponsors/OzHack_Logo.png" 
          alt="Oz Hack: 6 month CTF prizes for SecTalks Brisbane">
+</a><br>
+<a href="https://www.telstra.com.au/" 
+   title="Telstra: 12 month CTF prize sponsor for SecTalks Brisbane.">
+    <img src="{{ site.baseurl }}/images/sponsors/T-Primary-L-Pos-Green-RGB.PNG" 
+         alt="Oz Hack: 12 month CTF prize sponsor for SecTalks Brisbane">
 </a>
 
 
