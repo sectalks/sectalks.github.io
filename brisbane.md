@@ -64,11 +64,16 @@ If you are l33t, you may want to solve our l33t entry challenge to get yourself 
 </a>
 #### Venue
 <a href="https://www.telstra.com.au/" 
-   title="Telstra: 12 month CTF prize sponsor for SecTalks Brisbane.">
+   title="Telstra: 12 month venue sponsor for SecTalks Brisbane.">
     <img src="{{ site.baseurl }}/images/sponsors/T-Primary-L-Pos-Green-RGB.PNG" 
-         alt="Oz Hack: 12 month CTF prize sponsor for SecTalks Brisbane" width="250">
+         alt="Oz Hack: 12 month venue sponsor for SecTalks Brisbane" width="250">
 </a>
-
+#### Catering
+<a href="https://www.trustwave.com/Company/SpiderLabs/" 
+   title="SpiderLabs: 12 month catering sponsor for SecTalks Brisbane.">
+    <img src="{{ site.baseurl }}/images/sponsors/TW_spiderLabs_Logo_RGB.png" 
+         alt="Oz Hack: 12 month catering sponsor for SecTalks Brisbane" width="250">
+</a>
 
 ## Calendar 
 
