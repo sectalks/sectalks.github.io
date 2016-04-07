@@ -56,24 +56,30 @@ If you are l33t, you may want to solve our l33t entry challenge to get yourself 
 *Note: Twitter doesn't allow for DM, if you don't follow @sectalks_BNE.*
 
 ## Sponsors
-#### CTF Prizes
-<a href="https://www.ozhack.com/" 
-   title="Oz Hack: 6 month CTF prize sponsor for SecTalks Brisbane.">
-    <img src="{{ site.baseurl }}/images/sponsors/OzHack_Logo.png" 
-         alt="Oz Hack: 6 month CTF prizes for SecTalks Brisbane">
-</a>
 #### Venue
 <a href="https://www.telstra.com.au/" 
    title="Telstra: 12 month venue sponsor for SecTalks Brisbane.">
     <img src="{{ site.baseurl }}/images/sponsors/T-Primary-L-Pos-Green-RGB.PNG" 
-         alt="Oz Hack: 12 month venue sponsor for SecTalks Brisbane" width="250">
+         alt="Oz Hack: 12 month venue sponsor for SecTalks Brisbane." width="250">
 </a>
 #### Catering
 <a href="https://www.trustwave.com/Company/SpiderLabs/" 
-   title="SpiderLabs: 12 month catering sponsor for SecTalks Brisbane.">
+   title="SpiderLabs: 12 month catering co-sponsor for SecTalks Brisbane.">
     <img src="{{ site.baseurl }}/images/sponsors/TW_spiderLabs_Logo_RGB.png" 
-         alt="Oz Hack: 12 month catering sponsor for SecTalks Brisbane" width="250">
+         alt="SpiderLabs: 12 month catering co-sponsor for SecTalks Brisbane." width="250">
 </a>
+<a href="http://www.pwc.com.au/" 
+   title="PwC: 12 month catering co-sponsor for SecTalks Brisbane.">
+    <img src="{{ site.baseurl }}/images/sponsors/pwc.jpg" 
+         alt="PwC: 12 month catering co-sponsor for SecTalks Brisbane." width="250">
+</a>
+#### CTF Prizes
+<a href="https://www.ozhack.com/" 
+   title="Oz Hack: 6 month CTF prize sponsor for SecTalks Brisbane.">
+    <img src="{{ site.baseurl }}/images/sponsors/OzHack_Logo.png" 
+         alt="Oz Hack: 6 month CTF prizes for SecTalks Brisbane." width="250">
+</a>
+
 
 ## Calendar 
 
