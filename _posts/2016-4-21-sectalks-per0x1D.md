@@ -1,7 +1,7 @@
 ---
 layout:     post
 title:      PER0x1D 
-summary:   The One With The WiiU Gamepad
+summary:   Disucssion
 categories: meetup perth
 ---
 PER0x1D 
