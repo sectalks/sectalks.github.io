@@ -42,7 +42,7 @@ group](http://www.meetup.com/SecTalks-London/).
 
 SecTalks is always open to anyone who is keen to learn infosec.
 We run a mix of meetups for both beginners and people with experience.
-Join our [Meetup group](http://www.meetup.com/SecTalks/) and
+Join our [Meetup group](http://www.meetup.com/SecTalks-London/) and
 feel free to RSVP to upcoming meetups. 
 
 ### I am l33t!
@@ -54,7 +54,7 @@ membership!?). Give it a go!
 #### What is the l33t entry challenge?
 
 1. Follow [sectalks_lon](https://twitter.com/SecTalks-London) on Twitter.
-1. Tweet "@sectalks, V jnaan wbva...".
+1. Tweet "@sectalks_lon, V jnaan wbva...".
 1. The challenge details will be DMed to you.
 1. Email us the flag.
 
