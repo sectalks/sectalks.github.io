@@ -38,23 +38,23 @@ SecTalks is organised in the following cities. Visit each city page to know more
 * [Perth, Australia](./perth)
 * [Sydney, Australia](./sydney)
 * [Brisbane, Australia](./brisbane)
-* [Canberra, Australia](./canberra)
 * [Melbourne, Australia](./melbourne)
 * [London, UK](./london)
+* [Canberra, Australia](./canberra)
 
 # Get in touch
 
 You can either contact SecTalks organiser in your local area or
 reach us at
  
-* [guru@sectalks.org](mailto:guru@sectalks.org) 
+* [guru@sectalks.org](mailto:guru@sectalks.org)
 * [irc.sectalks.org:6697](https://kiwiirc.com/client/irc.sectalks.org:+6697/sectalks) (SSL) channel: *#sectalks*
-
+* [sectalks.slack.com](https://sectalks.slack.com)
 
 # 'no bullshit!' clause
 The ‘no bullshit’ clause means the SecTalks organising team strictly keeps
-SecTalks away from bullshit (politics, vendor pitch, harassment, you know it!).
+SecTalks away from bullshit (politics, vendor pitch, harassment, etc.). 
+For more details, check our [Code of Conduct](./coc).
 
 # Sponsorship
 Visit [sponsorship](./sponsor) page for more information.
-
