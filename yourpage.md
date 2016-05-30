@@ -11,7 +11,7 @@ to add your page.
 #0. Request for access
 
 Send us your **github account** to get access for adding or editing pages on SecTalks github pages.
-The invitations are sent by email and can be accepted at [https://github.com/sectalks](https://github.com/sectalk)
+The invitations are sent by email and can be accepted at [https://github.com/sectalks](https://github.com/sectalks)
 
 #1. Create a page
 
