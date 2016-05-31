@@ -8,6 +8,7 @@ menu: yes
 
 * Twitter: [@SecTalksCbr](https://twitter.com/sectalkscbr)
 * Email: [canberra@sectalks.org](mailto:canberra@sectalks.org)
+* Meetup: [Canberra Meetup Page](http://www.meetup.com/SecTalks-Canberra/)
 
 ## Organising team 
 
