@@ -16,11 +16,13 @@ menu: yes
 
 ## Date & Time 
 
-We usually run meetups the first Tuesday of each month.
+For June 2016 the meeup will be on the 7th from 6pm. 
+
+On an ongoing basis meetups will be on the second Tuesday of each month (i.e. 12th July will be the next meetup).
 
 ## Location 
 
-The venue is to be confirmed in the coming days. 
+The venue is King O'Malley's Irish Pub. They are located at 131 City Walk, Canberra. We have a function room booked for the event each month. 
 
 ## Looking to speak?
 
