@@ -16,9 +16,9 @@ menu: yes
 
 ## Date & Time 
 
-For June 2016 the meeup will be on the 7th from 6pm. 
+The next meetup will be on July 12th, from 6pm. 
 
-On an ongoing basis meetups will be on the second Tuesday of each month (i.e. 12th July will be the next meetup).
+On an ongoing basis meetups will be on the second Tuesday of each month.
 
 ## Location 
 
@@ -26,7 +26,7 @@ The venue is King O'Malley's Irish Pub. They are located at 131 City Walk, Canbe
 
 ## How to prepare?
 
-1. Bring a laptop along on the night, don't forget your power adapter!
+1. *Bring a laptop along on the night, don't forget your power adapter!*
 2. Install a VM hypervisor on your laptop. Virtual box is a good free choice. You can download that [here](https://www.virtualbox.org/wiki/Downloads).
 3. You can either install a VM such as Kali which is free and avaliable [here](https://www.kali.org/downloads/) to work from, or we will have a virtual machine image for you to install on the night.
 4. We will have Wi-Fi avaliable, but otherwise you can bring along an ethernet cable for a hardwired connection.
@@ -38,10 +38,6 @@ If you rock up with a laptop and a way of running virtual machines you'll be oka
 
 Whether it is a [lightning talk](https://en.wikipedia.org/wiki/Lightning_talk), 10min short presentation, or an hour long hands-on workshop, whether it is your first time to present, SecTalks is great place to get feedback and improve on.
 Fill out a [SecTalks CFP](http://j.mp/sectalkscfp) form.
-
-## Upcoming meetup 
-
-The next meetup is going to be on the 7th June.
 
 ## How to join
 
