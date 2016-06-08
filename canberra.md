@@ -26,7 +26,7 @@ The venue is King O'Malley's Irish Pub. They are located at 131 City Walk, Canbe
 
 ## How to prepare?
 
-1. *Bring a laptop along on the night, don't forget your power adapter!*
+1. *Bring a laptop along* on the night, don't forget your power adapter!
 2. Install a VM hypervisor on your laptop. Virtual box is a good free choice. You can download that [here](https://www.virtualbox.org/wiki/Downloads).
 3. You can either install a VM such as Kali which is free and avaliable [here](https://www.kali.org/downloads/) to work from, or we will have a virtual machine image for you to install on the night.
 4. We will have Wi-Fi avaliable, but otherwise you can bring along an ethernet cable for a hardwired connection.
