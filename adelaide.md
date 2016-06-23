@@ -6,10 +6,14 @@ title: Adelaide
 # Contact
 
 Twitter: [@sectalks_ADL](https://twitter.com/sectalks_ADL)
+
 Email:
+
 IRC:
+
 Linkedin:
-Meetup:
+
+Meetup: [SecTalks Adelaide](http://www.meetup.com/SecTalks-Adelaide/)
 
 # Organising team
 James McLean, [@vortexau](https://twitter.com/vortexau), [EMAIL](mailto:james.mclean@gmail.com)
