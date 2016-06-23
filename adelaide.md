@@ -16,7 +16,7 @@ Linkedin:
 Meetup: [SecTalks Adelaide](http://www.meetup.com/SecTalks-Adelaide/)
 
 # Organising team
-James McLean, [@vortexau](https://twitter.com/vortexau), [EMAIL](mailto:james.mclean@gmail.com)
+James McLean, [@vortexau](https://twitter.com/vortexau), [james.mclean@gmail.com](mailto:james.mclean@gmail.com)
 
 # Date & Time
 TBA
