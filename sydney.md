@@ -63,6 +63,15 @@ on our *l33t mailing list*. There is no harm, trying it.
          class="sponsor">
 </a>
 
+#### CTF Server
+<a href="https://www.elttam.com.au/?utm_source=sectalkhome&utm_medium=sponsor&utm_term=sectalks&utm_campaign=sectalks" 
+   title="elttam: 12 month CTF servers and online hosting">
+    <img src="{{ site.baseurl }}/images/sponsors/elttam_security.png" 
+         alt="elttam: 12 month CTF servers and online hosting" 
+         class="sponsor">
+</a>
+
+
 ## Calendar 
 
 Subscribe to [our calendar](http://www.meetup.com/SecTalks/events/) to view past and upcoming meetups:
