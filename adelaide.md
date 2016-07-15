@@ -7,11 +7,7 @@ title: Adelaide
 
 Twitter: [@sectalks_ADL](https://twitter.com/sectalks_ADL)
 
-Email:
-
-IRC:
-
-Linkedin:
+Email: 
 
 Meetup: [SecTalks Adelaide](http://www.meetup.com/SecTalks-Adelaide/)
 
@@ -19,20 +15,19 @@ Meetup: [SecTalks Adelaide](http://www.meetup.com/SecTalks-Adelaide/)
 James McLean, [@vortexau](https://twitter.com/vortexau), [james.mclean@gmail.com](mailto:james.mclean@gmail.com)
 
 # Date & Time
-TBA
+First Wednesday Every Month
 
 # Location
-TBA
+The Wheatsheaf Hotel, 39 George Street, Thebarton
 
 # Looking to present?
-[Put details for call for presentions (online form, email address, etc.).]
+Please contact James at the above locations if you would like to present a security topic.
 
 # Sponsors
-Sponsor name and link, what they offer
+No sponsors as yet.
 
 # Upcoming meetup
-[Check out our meetup page or subscribe to our mailinglist, etc]
-MEETUP ID, DATE AND TIME (e.g. SYD0x01, 31 Jan 2015)
+ADL0x01 - 3rd of August, @6pm. 
 
 ## How to join
 Describe how someone can join. Do they need to go through an entrance challenge? 
@@ -40,6 +35,4 @@ How about people new to security?
 
 ## Previous events
 
-* MEETUP ID (e.g. SYD0x01), PRESENTATION TITLE, SPEAKER
-
-* MEETUP ID, PRESENTATION TITLE, SPEAKER
+* ADL0x00 - Ninja Night. 10 attendees, Simple CTF VM attempted.
