@@ -30,8 +30,8 @@ No sponsors as yet.
 ADL0x01 - 3rd of August, @6pm. 
 
 ## How to join
-Describe how someone can join. Do they need to go through an entrance challenge? 
-How about people new to security?     
+RSVP via the Meetup.com link above, all welcome.
+New to security? You're welcome to attend. All you need is an interest.
 
 ## Previous events
 
