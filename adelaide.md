@@ -29,6 +29,10 @@ No sponsors as yet.
 # Upcoming meetup
 ADL0x01 - 3rd of August, @6pm. 
 
+Presentations: IoT Device Security Holes (~20 mins) & Introduction to TOR (~20 mins)
+
+CTF: VM TBA - To be undertaken between meetings and reported on at September meeting.
+
 ## How to join
 RSVP via the Meetup.com link above, all welcome.
 New to security? You're welcome to attend. All you need is an interest.
