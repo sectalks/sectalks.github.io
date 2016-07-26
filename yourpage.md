@@ -20,7 +20,7 @@ Using your favorite text editor, create a new file called **YOURCITY.md**
 
 #2. Use a template
 
-Use the following template
+Use the following template or check out other cities page.
   
     ---
     layout: page
@@ -31,7 +31,7 @@ Use the following template
 
     Twitter:
  
-    Email:
+    Email: [YOURCITY@sectalks.org](mailto:YOURCITY@sectalks.org)
 
     IRC:
 
@@ -62,11 +62,13 @@ Use the following template
     Describe how someone can join. Do they need to go through an entrance challenge? 
     How about people new to security?     
 
-    ## Previous events
-    
-    * MEETUP ID (e.g. SYD0x01), PRESENTATION TITLE, SPEAKER
-    
-    * MEETUP ID, PRESENTATION TITLE, SPEAKER
+    ## Calendar 
+
+    Subscribe to [our calendar](http://www.meetup.com/[YOURMEETUP]/events/) to view past and upcoming meetups:
+
+    * [iCal](webcal://www.meetup.com/[YOURMEETUP]/events/ical/)
+    * [Outlook](http://www.meetup.com/[YOURMEETUP]/events/ical/)
+    * [RSS](http://www.meetup.com/[YOURMEETUP]/events/rss/) or [Atom](http://www.meetup.com/[YOURMEETUP]/events/atom/)
 
 #3. Submit your page
 
