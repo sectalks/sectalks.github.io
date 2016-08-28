@@ -13,6 +13,8 @@ menu: yes
 ## Organising team 
 
 * [@pi3ch](https://twitter.com/pi3ch) 
+* [@gszathmari](https://twitter.com/gszathmari)
+* [@rubenthijssen](https://twitter.com/rubenthijssen)
 
 ## Date & Time 
 
