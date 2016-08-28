@@ -14,6 +14,7 @@ menu: yes
 
 * [Bull](https://twitter.com/RobertWinkel) 
 * [Michael Gianarakis](https://twitter.com/mgianarakis) 
+* [dook](https://twitter.com/dooktwit)
 
 ## Date & Time 
 
@@ -78,6 +79,12 @@ If you are l33t, you may want to solve our l33t entry challenge to get yourself 
    title="Oz Hack: 6 month CTF prize sponsor for SecTalks Brisbane.">
     <img src="{{ site.baseurl }}/images/sponsors/OzHack_Logo.png" 
          alt="Oz Hack: 6 month CTF prizes for SecTalks Brisbane." width="200">
+</a>
+#### T-shirts
+<a href="https://auscert.org.au/" 
+   title="AusCERT: T-shirt sponsor for SecTalks Brisbane.">
+    <img src="{{ site.baseurl }}/images/sponsors/cws56Xhp.png" 
+         alt="AusCERT: T-shirt sponsor for SecTalks Brisbane." width="200">
 </a>
 
 
