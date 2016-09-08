@@ -27,9 +27,9 @@ Please contact James at the above locations if you would like to present a secur
 No sponsors as yet.
 
 # Upcoming meetup
-ADL0x03 - 5th of October, @6pm. 
+ADL0x04 - 5th of October, @6pm. 
 
-Presentations: IoT Device Security Holes (~20 mins) & Introduction to TOR (~20 mins)
+Presentations: Simon to present Skydog CTF with a live walkthrough, Winner of 0x02 Droopy CTF to present live walkthrough.
 
 CTF: VM TBA - To be undertaken between meetings and reported on at September meeting.
 
