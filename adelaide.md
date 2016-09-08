@@ -27,7 +27,7 @@ Please contact James at the above locations if you would like to present a secur
 No sponsors as yet.
 
 # Upcoming meetup
-ADL0x01 - 3rd of August, @6pm. 
+ADL0x03 - 5th of October, @6pm. 
 
 Presentations: IoT Device Security Holes (~20 mins) & Introduction to TOR (~20 mins)
 
@@ -40,3 +40,5 @@ New to security? You're welcome to attend. All you need is an interest.
 ## Previous events
 
 * ADL0x00 - Ninja Night. 10 attendees, Simple CTF VM attempted.
+* ADL0x01 - IoT Security Problems and Introduction to TOR. Skydog CTF between meetings
+* ADL0x02 - Security Round Table Discussion. Droopy v0.2 CTF between meetings.
