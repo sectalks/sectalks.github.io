@@ -27,7 +27,7 @@ Please contact James at the above locations if you would like to present a secur
 No sponsors as yet.
 
 # Upcoming meetup
-ADL0x04 - 5th of October, @6pm. 
+ADL0x03 - 5th of October, @6pm. 
 
 Presentations: Simon to present Skydog CTF with a live walkthrough, Winner of 0x02 Droopy CTF to present live walkthrough.
 
