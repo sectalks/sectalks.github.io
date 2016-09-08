@@ -7,12 +7,12 @@ title: Adelaide
 
 Twitter: [@sectalks_ADL](https://twitter.com/sectalks_ADL)
 
-Email: 
+Email: [adelaide@sectalks.org](mailto:adelaide@sectalks.org)
 
 Meetup: [SecTalks Adelaide](http://www.meetup.com/SecTalks-Adelaide/)
 
 # Organising team
-James McLean, [@vortexau](https://twitter.com/vortexau), [james.mclean@gmail.com](mailto:james.mclean@gmail.com)
+James McLean, [@vortexau](https://twitter.com/vortexau), [adelaide@sectalks.org](mailto:adelaide@sectalks.org)
 
 # Date & Time
 First Wednesday Every Month
