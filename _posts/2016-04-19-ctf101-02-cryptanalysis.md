@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:      CTF101 - 01 Cryptanalysis
+title:      CTF101 - 02 Cryptanalysis
 summary:    A taste of Cryptanalysis
 categories: ctf101
 ---
