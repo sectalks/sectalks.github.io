@@ -16,7 +16,7 @@ menu: yes
 
 ## Date & Time 
 
-The next meetup will be on August 9th, from 6pm. 
+The next meetup will be on October 11th, from 6pm. 
 
 On an ongoing basis meetups will be on the second Tuesday of each month.
 
