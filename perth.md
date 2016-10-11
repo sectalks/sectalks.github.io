@@ -8,7 +8,7 @@ menu: yes
 * Twitter: [SecTalks](https://twitter.com/sectalks)
 * Email: [perth@sectalks.org](mailto:perth@sectalks.org)
 
-## Organising team (alphabetical order)
+## Organising team
 
 * [@NHardy](https://twitter.com/NHardy)
 * [@s4gi_](https://twitter.com/s4gi_)
