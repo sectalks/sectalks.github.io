@@ -17,7 +17,7 @@ menu: yes
 
 ## Date & Time
 
-We usually run meetups every third Tuesday of each month @ 5:30pm. Visit our [Meetup group](http://www.meetup.com/SecTalks-Perth/) for more details.
+We usually run meetups every third Thursday of each month @ 5:30pm. Visit our [Meetup group](http://www.meetup.com/SecTalks-Perth/) for more details.
 
 ## Location
 
