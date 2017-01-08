@@ -3,7 +3,7 @@ layout: page
 title: Beijing
 ---
 
-# Contact
+## Contact
 
 Twitter: [@sectalks_bjs](https://twitter.com/sectalks_bjs)
 
@@ -11,22 +11,22 @@ Linkedin:
 
 Meetup:
 
-# Organising team
+## Organising team
 Pengfei Li, [@lpf37777514](https://twitter.com/lpf37777514), [EMAIL](mailto:liduzhizi@gmail.com)
 
-# Date & Time
+## Date & Time
 We will add it later
 
-# Location
+## Location
 We will add it later
 
-# Looking to present?
+## Looking to present?
 [Put details for call for presentions (online form, email address, etc.).]
 
-# Sponsors
+## Sponsors
 We will add it later
 
-# Upcoming meetup
+## Upcoming meetup
 We will add it later
 
 ## How to join
