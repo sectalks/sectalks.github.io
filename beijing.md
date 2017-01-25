@@ -5,8 +5,8 @@ title: Beijing
 
 ## Contact
 
-Twitter: [@sectalks_bjs](https://twitter.com/sectalks_bjs)
-Weixin: sectalkbeijing(you can follow us by searching 'sectalkbeijing' in your webchat)
+* Twitter: [@sectalks_bjs](https://twitter.com/sectalks_bjs)
+* Weixin: sectalkbeijing (you can follow us by searching 'sectalkbeijing' in your webchat)
 
 
 ## Organising team
