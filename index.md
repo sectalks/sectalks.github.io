@@ -42,6 +42,7 @@ SecTalks is organised in the following cities. Visit each city page to know more
 * [London, UK](./london)
 * [Canberra, Australia](./canberra)
 * [Adelaide, Australia](./adelaide)
+* [Beijng, China](./beijing)
 
 # Get in touch
 
