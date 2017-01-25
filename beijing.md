@@ -29,4 +29,4 @@ We will add it later
 We will add it later
 
 ## How to join
-SecTalks is always open to anyone who is keen to learn infosec. We run a mix of meetups for both beginners and people with experience.You can register this meetup at http://www.huodongxing.com/event/7371734817900   
+SecTalks is always open to anyone who is keen to learn infosec. We run a mix of meetups for both beginners and people with experience.You can register this meetup at [huodongxing](http://www.huodongxing.com/event/7371734817900)  
