@@ -42,7 +42,7 @@ SecTalks is organised in the following cities. Visit each city page to know more
 * [London, UK](./london)
 * [Canberra, Australia](./canberra)
 * [Adelaide, Australia](./adelaide)
-* [Beijng, China](./beijing)
+* [Beijing, China](./beijing)
 
 <iframe src="https://calendar.google.com/calendar/embed?showTitle=0&amp;showPrint=0&amp;height=600&amp;wkst=2&amp;bgcolor=%23FFFFFF&amp;src=dgchlqmn2t1tet4f5ruen9aluc5kol6m%40import.calendar.google.com&amp;color=%23875509&amp;src=fg4vksenaicq4u0ahdvvdctgi2ia38se%40import.calendar.google.com&amp;color=%232F6309&amp;src=46lvc84rikhu2oegtm0jte3012gq54qr%40import.calendar.google.com&amp;color=%238D6F47&amp;src=jte0pphqpogfrsj604uagrm8g082sco0%40import.calendar.google.com&amp;color=%23182C57&amp;src=heglqomaov6j562l4d0v7qu60i1hin7e%40import.calendar.google.com&amp;color=%238C500B&amp;src=1mqk6rq9t3pcfigd4dvlkknesbsfl0jf%40import.calendar.google.com&amp;color=%2323164E&amp;src=51df83vq5f18ovo26s9etgtmk5inb5em%40import.calendar.google.com&amp;color=%232952A3&amp;ctz=Australia%2FSydney" style="border-width:0" width="800" height="600" frameborder="0" scrolling="no"></iframe>
 # Get in touch
