@@ -5,7 +5,7 @@ title: Beijing
 
 ## Contact
 
-* Email: [beijng@sectalks.org](mailto:beijng@sectalks.org)
+* Email: [beijng@sectalks.org](mailto:beijing@sectalks.org)
 * Twitter: [@sectalks_bjs](https://twitter.com/sectalks_bjs)
 * Weixin: sectalkbeijing (you can follow us by searching 'sectalkbeijing' in your webchat)
 
