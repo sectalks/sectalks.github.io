@@ -11,7 +11,7 @@ title: Beijing
 
 
 ## Organising team
-Pengfei Li, [@lpf37777514](https://twitter.com/lpf37777514), [Email](mailto:liduzhizi@gmail.com)
+Pengfei Li, [@lpf37777514](https://twitter.com/lpf37777514), [Email](mailto:beijing@sectalks.org)
 
 ## Date & Time
 The first sectalk_beijng meetup will be held at February 24th 2017
