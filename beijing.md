@@ -5,12 +5,13 @@ title: Beijing
 
 ## Contact
 
+* Email: [beijng@sectalks.org](mailto:beijng@sectalks.org)
 * Twitter: [@sectalks_bjs](https://twitter.com/sectalks_bjs)
 * Weixin: sectalkbeijing (you can follow us by searching 'sectalkbeijing' in your webchat)
 
 
 ## Organising team
-Pengfei Li, [@lpf37777514](https://twitter.com/lpf37777514), [EMAIL](mailto:liduzhizi@gmail.com)
+Pengfei Li, [@lpf37777514](https://twitter.com/lpf37777514), [Email](mailto:liduzhizi@gmail.com)
 
 ## Date & Time
 The first sectalk_beijng meetup will be held at February 24th 2017
