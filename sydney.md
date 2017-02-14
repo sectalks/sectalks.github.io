@@ -73,6 +73,14 @@ on our *l33t mailing list*. There is no harm, trying it.
          class="sponsor-med">
 </a>
 
+#### Speaker prizes
+<a href="http://bit.ly/sectalkstyro" 
+   title="Tyro Payments: 12 month speaker prizes">
+    <img src="{{ site.baseurl }}/images/sponsors/tyro.png" 
+         alt="Tyro Payments: 12 month speaker prizes" 
+         class="sponsor-med">
+</a>
+
 
 ## Calendar 
 
