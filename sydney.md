@@ -78,7 +78,7 @@ on our *l33t mailing list*. There is no harm, trying it.
    title="Tyro Payments: 12 month speaker prizes">
     <img src="{{ site.baseurl }}/images/sponsors/tyro.png" 
          alt="Tyro Payments: 12 month speaker prizes" 
-         class="sponsor-med">
+         class="sponsor">
 </a>
 
 
