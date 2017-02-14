@@ -55,6 +55,15 @@ on our *l33t mailing list*. There is no harm, trying it.
 Whether it is a [lightning talk](https://en.wikipedia.org/wiki/Lightning_talk), 10min short presentation, or an hour long hands-on workshop, whether it is your first time to present, SecTalks is a great place to get feedback and improve on.
 Fill up [SecTalks CFP](http://j.mp/sectalkscfp) form.
 
+## Sponsors
+#### Venue
+<a href="http://www.spacecubed.com/en" 
+   title="Spacecubed: Meeting room facilities for SecTalks Perth.">
+    <img src="{{ site.baseurl }}/images/sponsors/spacecubed.png" 
+         alt="Spacecubed: Meeting room facilities for SecTalks Perth." 
+         class="sponsor">
+</a>
+
 ## Calendar 
 
 Subscribe to [our calendar](http://www.meetup.com/SecTalks-Perth/events/) to view past and upcoming meetups:
