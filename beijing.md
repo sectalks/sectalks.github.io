@@ -17,7 +17,7 @@ Pengfei Li, [@lpf37777514](https://twitter.com/lpf37777514), [Email](mailto:beij
 The first sectalk_beijng meetup will be held at February 24th 2017
 
 ## Location
-We will add it later
+We will hold the first meetup at Block B No.4 Wangjing East Road Chaoyang District Beijing.
 
 ## Want to speak?
 Whether it is a [lightning talk](https://en.wikipedia.org/wiki/Lightning_talk), 10min short presentation, or an hour long hands-on workshop, whether it is your first time to present, SecTalks is great place to get feedback and improve on.
