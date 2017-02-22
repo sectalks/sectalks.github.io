@@ -14,7 +14,7 @@ title: Beijing
 Pengfei Li, [@lpf37777514](https://twitter.com/lpf37777514), [Email](mailto:beijing@sectalks.org)
 
 ## Date & Time
-The first sectalk_beijng meetup will be held at February 24th 2017
+The first sectalk_beijng meetup will be held at 7:00- 8:30 pm February 24th 2017
 
 ## Location
 We will hold the first meetup at Block B No.4 Wangjing East Road Chaoyang District Beijing.
