@@ -13,6 +13,7 @@ menu: yes
 ## Organising team 
 
 * [@multiplex3r](https://twitter.com/multiplex3r) 
+* [@securitymeta](https://twitter.com/securitymeta_) 
 
 ## Date & Time 
 
