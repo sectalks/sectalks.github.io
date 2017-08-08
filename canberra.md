@@ -12,47 +12,38 @@ menu: yes
 
 ## Organising team 
 
-* Peleus - [@0x42424242](https://twitter.com/0x42424242) 
+* syngularity0 - [@syngularity0](https://twitter.com/syngularity0)
+* Canberra Founder: Peleus - [@0x42424242](https://twitter.com/0x42424242) 
 
 ## Date & Time 
 
-The next meetup will be on October 11th, from 6pm. 
+SecTalks Canberra is held on the second Tuesday of each month, at 7 pm. Check out the [Meetup page](http://www.meetup.com/SecTalks-Canberra/) for the latest details and to RSVP.
 
-On an ongoing basis meetups will be on the second Tuesday of each month.
+## Cost
+
+Free!
 
 ## Location 
 
-The venue is King O'Malley's Irish Pub. They are located at 131 City Walk, Canberra. We have a function room booked for the event each month. 
+SecTalks Canberra is held at the Fifth Domain office, located in the Sydney Building at [13 East Row, Canberra](https://goo.gl/maps/ucDKQhnqttN2), upstairs. If you're mobility impaired, please contact the organiser and we'll do our absolute best to help out.
 
-## How to prepare?
+## Preparation
 
-1. *Bring a laptop along* on the night, don't forget your power adapter!
-2. Install a VM hypervisor on your laptop. Virtual box is a good free choice. You can download that [here](https://www.virtualbox.org/wiki/Downloads).
-3. You can either install a VM such as Kali which is free and avaliable [here](https://www.kali.org/downloads/) to work from, or we will have a virtual machine image for you to install on the night.
-4. We will have Wi-Fi avaliable, but otherwise you can bring along an ethernet cable for a hardwired connection.
-5. People will be more than happy to give you a hand on the night, but be aware there will only be internet you provide avaliable (i.e. phone tethering).
+1. *Please bring a laptop along* on the night (and your power adapter)
+2. Install a hypervisor on your laptop. VirtualBox is a good free choice. You can download that [here](https://www.virtualbox.org/wiki/Downloads).
+3. Grab a copy of Kali - avaliable [here](https://www.kali.org/downloads/).
+4. Internet is available! (but please run updates for your host OS and any VMs before coming along, so you don't chew up bandwidth)
+5. People will be more than happy to give you a hand on the night if you're not confident with virtualisation.
 
-If you rock up with a laptop and a way of running virtual machines you'll be okay to go on the night.
+tl;dr - if you rock up with a laptop and a way of running virtual machines you'll be okay to go on the night.
 
-## Looking to speak?
+## Want to Speak or Present?
 
-Whether it is a [lightning talk](https://en.wikipedia.org/wiki/Lightning_talk), 10min short presentation, or an hour long hands-on workshop, whether it is your first time to present, SecTalks is great place to get feedback and improve on.
+Whether it is a [lightning talk](https://en.wikipedia.org/wiki/Lightning_talk), an introduction to a tool or concept, or a hands-on workshop, SecTalks is great place to get feedback and improve on. We encourage first-time speakers and anyone 
 Fill out a [SecTalks CFP](http://j.mp/sectalkscfp) form.
 
-## How to join
+## Joining Us
 
-SecTalks is always open to anyone who is keen to learn infosec.
-We run a mix of meetups for both beginners and people with experience.
+SecTalks is always open to anyone who is keen to learn information security. It's a community event for students, professionals, hobbyists, curious people and anyone in between. Our community engagements will always be free for participants. 
 
-## I am l33t!
-
-If you are l33t, you may want
-to solve our l33t entry challenge to get yourself
-on our *l33t mailing list*. There is no harm, trying it.
-
-### What is the l33t entry challenge?
-
-1. Follow [sectalkscbr](https://twitter.com/sectalkscbr) on Twitter.
-2. DM "I am l33t" to @SecTalksCbr.
-3. The challenge details will be DMed back to you.
-4. Have fun and email us the flag.
+Please check out the [Code of Conduct](http://www.sectalks.org/coc/).
