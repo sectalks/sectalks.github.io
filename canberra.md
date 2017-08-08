@@ -39,8 +39,7 @@ tl;dr - if you rock up with a laptop and a way of running virtual machines you'l
 
 ## Want to Speak or Present?
 
-Whether it is a [lightning talk](https://en.wikipedia.org/wiki/Lightning_talk), an introduction to a tool or concept, or a hands-on workshop, SecTalks is great place to get feedback and improve on. We encourage first-time speakers and anyone 
-Fill out a [SecTalks CFP](http://j.mp/sectalkscfp) form.
+Whether it is a [lightning talk](https://en.wikipedia.org/wiki/Lightning_talk), an introduction to a tool or concept, or a hands-on workshop, SecTalks is great place to get feedback and improve on. We encourage first-time speakers and anyone who would like to share their knowledge with the community to get in touch via [Twitter](https://twitter.com/SecTalksCbr) or just talking to an organiser after a meetup.
 
 ## Joining Us
 
