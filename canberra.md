@@ -27,6 +27,27 @@ Free!
 
 SecTalks Canberra is held at the Fifth Domain office, located in the Sydney Building at [13 East Row, Canberra](https://goo.gl/maps/ucDKQhnqttN2), upstairs. If you're mobility impaired, please contact the organiser and we'll do our absolute best to help out.
 
+## Sponsors
+
+#### Venue
+<a href="https://fifthdomain.com.au/" 
+   title="Fifth Domain">
+    <img src="{{ site.baseurl }}/images/sponsors/Fifth_Domain.png" 
+         alt="Fifth Domain">
+</a>
+#### Catering
+<a href="http://www.pwc.com.au/"    
+   title="PwC">
+    <img src="{{ site.baseurl }}/images/sponsors/PwC Colour_300.jpg" 
+         alt="PwC">
+</a>
+#### Drinks
+<a href="https://www.datacomtss.com.au/" 
+   title="Datacom TSS">
+    <img src="{{ site.baseurl }}/images/sponsors/TSS_Logo_CMYK.png" 
+         alt="Datacom TSS">
+</a>
+
 ## Preparation
 
 1. *Please bring a laptop along* on the night (and your power adapter)
