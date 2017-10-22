@@ -48,12 +48,12 @@ on our *l33t mailing list*. There is no harm, trying it.
 
 #### What is the l33t entry challenge?
 
-1. Follow [sectalks](https://twitter.com/sectalks) on Twitter.
-1. Tweet "@sectalks, V jnaan wbva...".
+1. Follow [sectalks-lju](https://twitter.com/sectalks-lju) on Twitter.
+1. Tweet "@sectalks-lju, V jnaan wbva...".
 1. The challenge details will be DMed to you.
 1. Have fun and email us the flag.
 
-*Note: Twitter doesn't allow for DM, if you don't follow @sectalks.*
+*Note: Twitter doesn't allow for DM, if you don't follow @sectalks-lju.*
 
 ## Sponsors
 #### Venue and catering
