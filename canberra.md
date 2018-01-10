@@ -36,11 +36,7 @@ SecTalks Canberra is held at the Fifth Domain office, located in the Sydney Buil
          alt="Fifth Domain">
 </a>
 #### Catering
-<a href="http://www.pwc.com.au/"    
-   title="PwC">
-    <img src="{{ site.baseurl }}/images/sponsors/PwC Colour_300.jpg" 
-         alt="PwC">
-</a>
+
 #### Drinks
 <a href="https://www.datacomtss.com.au/" 
    title="Datacom TSS">
