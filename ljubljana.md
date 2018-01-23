@@ -53,7 +53,7 @@ on our *l33t mailing list*. There is no harm, trying it.
 1. The challenge details will be DMed to you.
 1. Have fun and email us the flag.
 
-*Note: Twitter doesn't allow for DM, if you don't follow @sectalks-lju.*
+*Note: Twitter doesn't allow for DM, if you don't follow @sectalks_lju.*
 
 ## Sponsors
 #### Venue and catering
