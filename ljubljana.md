@@ -6,7 +6,7 @@ menu: yes
 
 ## Contact
 
-* Twitter: [SecTalks-Lju](https://twitter.com/sectalks-lju)
+* Twitter: [SecTalks_Lju](https://twitter.com/sectalks_lju)
 * Email: [ljubljana@sectalks.org](mailto:ljubljana@sectalks.org)
 * Meetup: [http://www.meetup.com/SecTalks-Ljubljana/](http://www.meetup.com/SecTalks-Ljubljana/)
 
@@ -48,7 +48,7 @@ on our *l33t mailing list*. There is no harm, trying it.
 
 #### What is the l33t entry challenge?
 
-1. Follow [sectalks-lju](https://twitter.com/sectalks-lju) on Twitter.
+1. Follow [sectalks_lju](https://twitter.com/sectalks_lju) on Twitter.
 1. Tweet "@sectalks-lju, V jnaan wbva...".
 1. The challenge details will be DMed to you.
 1. Have fun and email us the flag.
