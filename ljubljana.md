@@ -49,7 +49,7 @@ on our *l33t mailing list*. There is no harm, trying it.
 #### What is the l33t entry challenge?
 
 1. Follow [sectalks_lju](https://twitter.com/sectalks_lju) on Twitter.
-1. Tweet "@sectalks-lju, V jnaan wbva...".
+1. Tweet "@sectalks_lju, V jnaan wbva...".
 1. The challenge details will be DMed to you.
 1. Have fun and email us the flag.
 
