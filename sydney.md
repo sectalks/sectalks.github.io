@@ -85,8 +85,7 @@ on our *l33t mailing list*. There is no harm, trying it.
 <a href="https://www.atlassian.com/" 
    title="Atlassian: 12 month CTF prizes">
     <img src="{{ site.baseurl }}/images/sponsors/atlassian_2017.png" 
-         alt="Atlassian: 12 month CTF prizes" 
-         class="sponsor">
+         alt="Atlassian: 12 month CTF prizes">
 </a>
 
 
