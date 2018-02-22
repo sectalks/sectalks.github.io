@@ -31,7 +31,7 @@ Teams have **60 minutes** to solve the CTF. The winning team will talk through t
 #3. Ninja night
 
 There is **no presentation** at a Ninja Night. 
-This is a session where you show off your ninja skills. A typical evenning goes like this, we rock-up at a pub
+This is a session where you show off your ninja skills. A typical evening goes like this, we rock up at a pub
 (or any other venue), grab some beers, write our name down, get randomly assigned to a team,  CTF challenge 
 is presented to all the teams, we start doing cool shit and drink more beers. The objective is to solve the CTF
  in **60 minutes** and the first team who solves the challenge will be a winner and will 
