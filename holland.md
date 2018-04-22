@@ -1,6 +1,7 @@
 ---
 layout: page
-title: Holand 
+title: Holland
+menu: yes 
 ---
     
 ## Contact
