@@ -1,39 +1,44 @@
 ---
 layout: page
-title: YOURCITY
+title: Holand 
 ---
     
-# Contact
+## Contact
 
-Twitter: [@SecTalksNL](https://twitter/SecTalksNL)
- 
-Email: [holland@sectalks.org](mailto:holland@sectalks.org)
+* Twitter: [@SecTalksNL](https://twitter/SecTalksNL)
+* Email: [holland@sectalks.org](mailto:holland@sectalks.org)
+* Meetup: https://www.meetup.com/SecTalks-Holland
 
-Meetup: https://www.meetup.com/SecTalks-Holland
+## Organising team
 
-# Organising team
-AK, [@xxByte](https://twitter.com/xxByte), [EMAIL](mailto:ak@imak.xyz)
+* AK, [@xxByte](https://twitter.com/xxByte), [EMAIL](mailto:ak@imak.xyz)
 
-# Date & Time
+## Date & Time
+
 Last Thursday of each month at 18:30
 
-# Location
+## Location
+
 Venture Café Rotterdam
 Stationsplein 45, 
 3013 AK Rotterdam
 
-# Looking to present?
+## Looking to present?
+
 We love to hear from you if you have an idea to talk about or a presentation you want to share.
 
 Get in touch via [@xxByte](https://twitter.com/xxByte), or [EMAIL](mailto:ak@imak.xyz)
 
-# Sponsors
+## Sponsors
+
 BaseCyberSecurity
 
-# Upcoming meetup
+## Upcoming meetup
+
 Check out our meetup [page](https://www.meetup.com/SecTalks-Holland/events/).
 
 ## How to join
+
 [Sign up for the meetup group.](https://www.meetup.com/SecTalks-Holland)
 
 ## Calendar 
