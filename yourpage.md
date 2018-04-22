@@ -27,38 +27,40 @@ Use the following template or check out other cities page.
     title: YOURCITY
     ---
         
-    # Contact
+    ## Contact
 
-    Twitter:
- 
-    Email: [YOURCITY@sectalks.org](mailto:YOURCITY@sectalks.org)
+    * Twitter:
+    * Email: [YOURCITY@sectalks.org](mailto:YOURCITY@sectalks.org)
+    * IRC:
+    * Meetup:
 
-    IRC:
-
-    Linkedin:
-
-    Meetup:
-
-    # Organising team
-    NAME, [TWITTER HANDLE](https://twitter.com/HANDLE), [EMAIL](mailto:EMAIL)
+    ## Organising team
     
-    # Date & Time
+    * NAME, [TWITTER HANDLE](https://twitter.com/HANDLE), [EMAIL](mailto:EMAIL)
+    
+    ## Date & Time
+    
     [First Tuseday of each month at 6pm]
     
-    # Location
+    ## Location
+    
     ADDRESS
     
-    # Looking to present?
+    ## Looking to present?
+    
     [Put details for call for presentions (online form, email address, etc.).]
     
-    # Sponsors
+    ## Sponsors
+    
     Sponsor name and link, what they offer
 
-    # Upcoming meetup
+    ## Upcoming meetup
+    
     [Check out our meetup page or subscribe to our mailinglist, etc]
     MEETUP ID, DATE AND TIME (e.g. SYD0x01, 31 Jan 2015)
     
     ## How to join
+    
     Describe how someone can join. Do they need to go through an entrance challenge? 
     How about people new to security?     
 
