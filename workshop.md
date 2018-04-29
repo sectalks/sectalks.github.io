@@ -21,6 +21,7 @@ Help to improve the workshop by submiting bugs.
 
 # Contribute
 
-Have your strongest impact to the security community by teaching a topic and continue the sprit of hackers community. [View](https://github.com/sectalks/workshop-template/issues?q=is%3Aissue+is%3Aopen+label%3A%22Looking+for+teacher%22) 
+Have your strongest impact to the security community by teaching a topic and continue the sprit of hackers community. [View](https://github.com/sectalks/workshop-template/issues?q=is%3Aissue+is%3Aopen+label%3A%22Looking+for+instructor%22) 
 list of workshop that we are looking for an instructor or 
-[submit](https://github.com/sectalks/workshop-template/issues/new) a new topic.
+[submit](https://github.com/sectalks/workshop-template/issues/new) a new topic. 
+Use SecTalks [workshop template](https://github.com/sectalks/workshop-template).
