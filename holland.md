@@ -28,7 +28,7 @@ Stationsplein 45,
 
 We love to hear from you if you have an idea to talk about or a presentation you want to share.
 
-Get in touch via [@xxByte](https://twitter.com/xxByte), or [EMAIL](mailto:ak@imak.xyz)
+Get in touch via [@xxByte](https://twitter.com/xxByte), or [EMAIL](mailto:secTalks@imak.xyz)
 
 ## Sponsors
 
@@ -36,7 +36,7 @@ BaseCyberSecurity
 
 ## Upcoming meetup
 
-Check out our meetup [page](https://www.meetup.com/SecTalks-Holland/events/).
+Check out our website [page](http://secTalks.nl/).
 
 ## How to join
 
