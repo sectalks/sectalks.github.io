@@ -11,9 +11,7 @@ menu: yes
 ## Organising team
 
 * [@NHardy](https://twitter.com/NHardy)
-* [@s4gi_](https://twitter.com/s4gi_)
 * [@sudosammy](https://twitter.com/sudosammy)
-* [@swarley777](https://twitter.com/swarley777)
 
 ## Date & Time
 
