@@ -46,26 +46,26 @@ There will be people willing to mentor you on the day, and you'll be solving CTF
 ## Sponsors
 #### Venue
 <a href="https://www.telstra.com.au/" 
-   title="Telstra: 12 month venue sponsor for SecTalks Brisbane.">
+   title="Telstra: On-going venue sponsor for SecTalks Brisbane.">
     <img src="{{ site.baseurl }}/images/sponsors/T-Primary-L-Pos-Green-RGB_300.PNG" 
-         alt="Oz Hack: 12 month venue sponsor for SecTalks Brisbane.">
+         alt="Oz Hack: On-going venue sponsor for SecTalks Brisbane.">
 </a>
 #### Catering
 <a href="https://alcorngroup.com/" 
    title="Alcorn Group: On-going catering co-sponsor for SecTalks Brisbane.">
     <img src="{{ site.baseurl }}/images/sponsors/AlcornGroup.png" 
-         alt="SpiderLabs: 12 month catering co-sponsor for SecTalks Brisbane.">
+         alt="Alcorn Group: On-going catering co-sponsor for SecTalks Brisbane.">
 </a><br>
 <a href="http://www.pwc.com.au/" 
-   title="PwC: On-giong catering co-sponsor for SecTalks Brisbane.">
+   title="PwC: On-going catering co-sponsor for SecTalks Brisbane.">
     <img src="{{ site.baseurl }}/images/sponsors/PwC Colour_300.jpg" 
-         alt="PwC: 12 month catering co-sponsor for SecTalks Brisbane.">
+         alt="PwC: On-going catering co-sponsor for SecTalks Brisbane.">
 </a>
 #### CTF Prizes
 <a href="https://www.ozhack.com/" 
-   title="Oz Hack: 6 month CTF prize sponsor for SecTalks Brisbane.">
+   title="Oz Hack: On-going CTF prize sponsor for SecTalks Brisbane.">
     <img src="{{ site.baseurl }}/images/sponsors/OzHack_Logo.png" 
-         alt="Oz Hack: 6 month CTF prizes for SecTalks Brisbane." width="200">
+         alt="Oz Hack: On-going CTF prizes for SecTalks Brisbane." width="200">
 </a>
 
 
