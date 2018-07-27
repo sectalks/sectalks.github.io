@@ -43,19 +43,6 @@ You may also want to follow [@sectalks_BNE](https://twitter.com/sectalks_BNE) on
 YES! SecTalks is always open to anyone who is keen to learn hands-on infosec.
 There will be people willing to mentor you on the day, and you'll be solving CTF's in no time flat.
 
-### I am l33t!
-
-If you are l33t, you may want to solve our l33t entry challenge to get yourself on our *l33t mailing list*. There is no harm, trying it.
-
-#### What is the l33t entry challenge?
-
-1. Follow [@sectalks_BNE](https://twitter.com/sectalks_BNE) on Twitter.
-1. Tweet "@sectalks_BNE, V nz y33g...".
-1. The challenge details will be DMed to you.
-1. Have fun and email us the flag.
-
-*Note: Twitter doesn't allow for DM, if you don't follow @sectalks_BNE.*
-
 ## Sponsors
 #### Venue
 <a href="https://www.telstra.com.au/" 
@@ -64,13 +51,13 @@ If you are l33t, you may want to solve our l33t entry challenge to get yourself 
          alt="Oz Hack: 12 month venue sponsor for SecTalks Brisbane.">
 </a>
 #### Catering
-<a href="https://www.trustwave.com/Company/SpiderLabs/" 
-   title="SpiderLabs: 12 month catering co-sponsor for SecTalks Brisbane.">
-    <img src="{{ site.baseurl }}/images/sponsors/TW_spiderLabs_Logo_RGB.png" 
+<a href="https://alcorngroup.com/" 
+   title="Alcorn Group: On-going catering co-sponsor for SecTalks Brisbane.">
+    <img src="{{ site.baseurl }}/images/sponsors/AlcornGroup.png" 
          alt="SpiderLabs: 12 month catering co-sponsor for SecTalks Brisbane.">
 </a><br>
 <a href="http://www.pwc.com.au/" 
-   title="PwC: 12 month catering co-sponsor for SecTalks Brisbane.">
+   title="PwC: On-giong catering co-sponsor for SecTalks Brisbane.">
     <img src="{{ site.baseurl }}/images/sponsors/PwC Colour_300.jpg" 
          alt="PwC: 12 month catering co-sponsor for SecTalks Brisbane.">
 </a>
@@ -79,12 +66,6 @@ If you are l33t, you may want to solve our l33t entry challenge to get yourself 
    title="Oz Hack: 6 month CTF prize sponsor for SecTalks Brisbane.">
     <img src="{{ site.baseurl }}/images/sponsors/OzHack_Logo.png" 
          alt="Oz Hack: 6 month CTF prizes for SecTalks Brisbane." width="200">
-</a>
-#### T-shirts
-<a href="https://auscert.org.au/" 
-   title="AusCERT: T-shirt sponsor for SecTalks Brisbane.">
-    <img src="{{ site.baseurl }}/images/sponsors/cws56Xhp.png" 
-         alt="AusCERT: T-shirt sponsor for SecTalks Brisbane." width="200">
 </a>
 
 
