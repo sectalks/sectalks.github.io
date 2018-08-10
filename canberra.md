@@ -49,12 +49,6 @@ SecTalks Canberra is held at the Fifth Domain office, located in the Sydney Buil
     <img src="{{ site.baseurl }}/images/sponsors/Cordelta.png" 
          alt="Cordelta">
 
-#### Prizes and Speaker Gifts
-<a href="http://dronesec.xyz/" 
-   title="DroneSec">
-    <img src="{{ site.baseurl }}/images/sponsors/DroneSec.png" 
-         alt="DroneSec">
-
 ## Preparation
 
 1. *Please bring a laptop along* on the night (and your power adapter)
