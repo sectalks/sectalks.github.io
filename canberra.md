@@ -37,10 +37,10 @@ SecTalks Canberra is held at the Fifth Domain office, located in the Sydney Buil
 </a>
 
 #### Drinks
-<a href="https://www.datacomtss.com.au/" 
+<a href="https://www.tsscyber.com.au/" 
    title="Datacom TSS">
     <img src="{{ site.baseurl }}/images/sponsors/TSS_Logo_CMYK.png" 
-         alt="Datacom TSS">
+         alt="TSS">
 </a>
 
 #### Catering
@@ -48,6 +48,12 @@ SecTalks Canberra is held at the Fifth Domain office, located in the Sydney Buil
    title="Cordelta">
     <img src="{{ site.baseurl }}/images/sponsors/Cordelta.png" 
          alt="Cordelta">
+
+#### Speaker Gifts and CTF Prizes
+<a href="https://dronesec.xyz/" 
+   title="DroneSec">
+    <img src="{{ site.baseurl }}/images/sponsors/DroneSec.png" 
+         alt="DroneSec">
 
 ## Preparation
 
