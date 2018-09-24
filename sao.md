@@ -15,7 +15,7 @@ menu: yes
 * [@FernandoAndreazi](https://twitter.com/fandreazi) 
 * [@GustavoMagella](https://twitter.com/gustavomagella)
 * [@AlbertoOliveira](https://twitter.com/_AlbertoOliveir)
-* [@DanielDonda] (https://twitter.com/DanielDonda)
+* [@DanielDonda](https://twitter.com/DanielDonda)
 
 ## Date & Time 
 
