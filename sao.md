@@ -6,7 +6,7 @@ menu: yes
 
 ## Contact 
 
-* Twitter: [SecTalks](https://twitter.com/sectalks_sao)
+* Twitter: [SecTalks_SAO](https://twitter.com/sectalks_sao)
 * Email: [sao@sectalks.org](mailto:sao@sectalks.org)
 * Meetup: [http://www.meetup.com/SecTalks/](http://www.meetup.com/SecTalks/)
 
