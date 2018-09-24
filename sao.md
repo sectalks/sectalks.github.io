@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Sectalks Brazil [São Paulo Community]
+title: Sectalks Brazil </br> [São Paulo Community]
 menu: yes
 ---
 
