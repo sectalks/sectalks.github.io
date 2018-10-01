@@ -7,9 +7,7 @@ menu: yes
 SecTalks is **a non-profit community** that holds regular presentations and hand-on
 challenges on information security topics.  SecTalks is **an Australian
 initiative** and that was established in November 2013 in **Perth**. Since then it
-has grown to other cities in Australia including **Sydney, Brisbane and
-Melbourne**.  At the time of writing, it has over **500 members across Australia**
-and every day new members join the SecTalks community.
+has grown internationally to Asia, Europe, South America and other Australian cities.
 
 ### Innovative format 
 SecTalks has a new meetup format. **It brings together both
@@ -55,11 +53,11 @@ enjoy.
 
 
 ### Reason to support SecTalks
-* **Show you care and support a local not for profit community**: SecTalks was
-started in Australia and is run by volunteers.  Each state has, on average, 
-one meetup per month and 20-50 participants.  
-* **Contribute to Australian information security community**: Without
-a doubt, Australia has a lack of expertise in information security. SecTalks is
+* **Show you care and support a local not for profit community**: SecTalks is for the community
+and is run by volunteers.  Each city has, on average, 
+one meetup per month and small (10) to large (180+) number of participants.  
+* **Contribute to information security community**: Without
+a doubt, there is a lack of expertise in information security. SecTalks is
 addressing this problem by creating a forum for people to get free guidance and
 grow. The major benefit to sponsoring SecTalks is knowing that you are
 contributing to, and encouraging participation in, the local security
