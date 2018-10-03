@@ -19,7 +19,7 @@ menu: yes
 
 ## Próximos Meetup's e Eventos:
 
-Nosso primeiro meetup será 28/11, visite nosso grupo de Meetup (https://www.meetup.com/SecTalks-Sao-Paulo/) para mais detalhes
+Nosso primeiro meetup será 28/11, visite nosso grupo de [Meetup] (https://www.meetup.com/SecTalks-Sao-Paulo/) para mais detalhes
 
 ## Quer ser um palestrante?
 
