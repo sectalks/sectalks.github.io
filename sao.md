@@ -1,6 +1,6 @@
 ---
 layout: page
-title: SecTalks São Paulo
+title: SecTalks [São Paulo]
 menu: yes
 ---
 
