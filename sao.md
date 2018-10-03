@@ -7,7 +7,7 @@ menu: yes
 ## Contato
 
 * Twitter: [SecTalks_SAO](https://twitter.com/sectalks_sao)
-* Email: [sao@sectalks.org](mailto:sao@sectalks.org)
+* Email: [sao@sectalks.com](mailto:sao@sectalks.com)
 * Meetup: [SecTalks [São Paulo]](https://www.meetup.com/SecTalks-Sao-Paulo/)
 
 ## Equipe SecTalks Brasil
@@ -40,6 +40,9 @@ SIM! O SecTalks está sempre aberto a todos que desejam aprender hands-on infose
 ## Apoiadores e Patrocínio
 
 #### Quer ser um patrocinador? Entre em contato conosco!
+
+* Email: [sao@sectalks.com](mailto:sao@sectalks.com)
+* Meetup: [SecTalks [São Paulo]](https://www.meetup.com/SecTalks-Sao-Paulo/)
 
 <a href="http://www.pwc.com.au" 
    title="">
