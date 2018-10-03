@@ -8,7 +8,7 @@ menu: yes
 
 * Twitter: [SecTalks_SAO](https://twitter.com/sectalks_sao)
 * Email: [sao@sectalks.org](mailto:sao@sectalks.org)
-* Meetup: [http://www.meetup.com/SecTalks/](http://www.meetup.com/SecTalks/)
+* Meetup: [SecTalks [São Paulo]](https://www.meetup.com/SecTalks-Sao-Paulo/)
 
 ## Equipe SecTalks Brasil
 
@@ -19,7 +19,7 @@ menu: yes
 
 ## Próximos Meetup's e Eventos:
 
-Nosso primeiro meetup será 28/11, visite nosso grupo de Meetup para mais detalhes
+Nosso primeiro meetup será 28/11, visite nosso grupo de Meetup (https://www.meetup.com/SecTalks-Sao-Paulo/) para mais detalhes
 
 ## Quer ser um palestrante?
 
@@ -33,16 +33,14 @@ E pedimos por gentileza que não faça apresentações voltadas ao marketing. (E
 
 Entre em contato conosco, para batermos um bapo.
 
-## Upcoming meetup 
-
-Details of an upcoming meetup is Comming! Please Wait for more informations!
-
 ## Mas eu sou novo em Segurança da Informação, posso participar?
 
 SIM! O SecTalks está sempre aberto a todos que desejam aprender hands-on infosec. Haverá pessoas dispostas a orientá-lo no dia, e você estará resolvendo o CTF em nenhum momento.
 
 ## Apoiadores e Patrocínio
+
 #### Quer ser um patrocinador? Entre em contato conosco!
+
 <a href="http://www.pwc.com.au" 
    title="">
     <img src="{{ site.baseurl }}/images/sponsors/" 
