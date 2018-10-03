@@ -1,47 +1,48 @@
 ---
 layout: page
-title: Sectalks Brazil </br> [São Paulo Community]
+title: SecTalks São Paulo
 menu: yes
 ---
 
-## Contact 
+## Contato
 
 * Twitter: [SecTalks_SAO](https://twitter.com/sectalks_sao)
 * Email: [sao@sectalks.org](mailto:sao@sectalks.org)
 * Meetup: [http://www.meetup.com/SecTalks/](http://www.meetup.com/SecTalks/)
 
-## Organising team 
+## Equipe SecTalks Brasil
 
 * [@FernandoAndreazi](https://twitter.com/fandreazi) 
 * [@GustavoMagella](https://twitter.com/gustavomagella)
 * [@AlbertoOliveira](https://twitter.com/_AlbertoOliveir)
 * [@DanielDonda](https://twitter.com/DanielDonda)
 
-## Date & Time 
+## Próximos Meetup's e Eventos:
 
-Comming Soon!
+Nosso primeiro meetup será 28/11, visite nosso grupo de Meetup para mais detalhes
 
-## Location 
+## Quer ser um palestrante?
 
-Comming Soon!
+Estamos sempre à procura de palestrantes.
 
-## Want to speak?
+Daremos preferência as palestras entre 5-10 minutos , ou apresentações de 30 minutos.
 
-Whether it is a [lightning talk](https://en.wikipedia.org/wiki/Lightning_talk), 10min short presentation, or an hour long hands-on workshop, whether it is your first time to present, SecTalks is great place to get feedback and improve on.
-Fill up [SecTalks CFP](http://j.mp/sectalkscfp) form.
+Nossas palestras são informais e visam um público mais técnico de segurança da informação. 
+
+E pedimos por gentileza que não faça apresentações voltadas ao marketing. (Embora você seja bem-vindo para apresentar um tópico ou projeto relacionado ao seu trabalho).
+
+Entre em contato conosco, para batermos um bapo.
 
 ## Upcoming meetup 
 
 Details of an upcoming meetup is Comming! Please Wait for more informations!
 
-## How to join
+## Mas eu sou novo em Segurança da Informação, posso participar?
 
-SecTalks is always open to anyone who is keen to learn infosec.
-We run a mix of meetups for both beginners and people with experience.
+SIM! O SecTalks está sempre aberto a todos que desejam aprender hands-on infosec. Haverá pessoas dispostas a orientá-lo no dia, e você estará resolvendo o CTF em nenhum momento.
 
-
-## Sponsors
-#### Interest to be one sponsor? Aks us about it!
+## Apoiadores e Patrocínio
+#### Quer ser um patrocinador? Entre em contato conosco!
 <a href="http://www.pwc.com.au" 
    title="">
     <img src="{{ site.baseurl }}/images/sponsors/" 
@@ -49,9 +50,9 @@ We run a mix of meetups for both beginners and people with experience.
          class="sponsor">
 </a>
 
-## Calendar 
+## Calendário
 
-Subscribe to [our calendar] to view past and upcoming meetups:
+Inscreva-se em [nosso calendário] para ver os próximos e futuros encontros:
 
 * [iCal](webcal://www.meetup.com/)
 * [Outlook](http://www.meetup.com/)
