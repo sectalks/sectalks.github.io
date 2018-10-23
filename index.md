@@ -47,6 +47,7 @@ SecTalks is organised in the following cities. Visit each city page to know more
 * [Christchurch, NZ](./christchurch)
 * [Rotterdam, Netherlands](./holland)
 * [Berlin, DE](./berlin)
+* [Toowoomba, Australia](./toowoomba)
 
 <iframe src="https://calendar.google.com/calendar/embed?showTitle=0&showPrint=0&src=c2VjdGFsa3NldmVudHNAZ21haWwuY29t&ctz=Australia%2FSydney" style="border: 0" width="800" height="600" frameborder="0" scrolling="no"></iframe>
 
