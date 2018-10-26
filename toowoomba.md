@@ -13,6 +13,7 @@ menu: yes
 ## Organising team 
 
 * [JP](https://twitter.com/jpjaeps) 
+*[Jamie] (https://au.linkedin.com/in/jamie-sprott-439460125)
 
 ## Upcoming meetups 
 
@@ -45,4 +46,4 @@ Heritage Bank
 #### Catering
 Cisco
 #### CTF Prizes
-Coming soon - this could be you!
+Dimension Data
