@@ -8,7 +8,7 @@ menu: yes
 
 * Twitter: [@sectalks_twb](https://twitter.com/sectalks_twb)
 * Email: [toowoomba@sectalks.org](mailto:toowoomba@sectalks.org)
-* Meetup: [meetu.ps/e/FXQcM/G5qTr/a ](https://meetup.com/SecTalks-Toowoomba/)
+* Meetup: [https://meetup.com/SecTalks-Toowoomba](https://meetup.com/SecTalks-Toowoomba/)
 
 ## Organising team 
 
