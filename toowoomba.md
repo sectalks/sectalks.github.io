@@ -13,7 +13,7 @@ menu: yes
 ## Organising team 
 
 * [JP](https://twitter.com/jpjaeps) 
-*[Jamie] (https://au.linkedin.com/in/jamie-sprott-439460125)
+* [Jamie](https://au.linkedin.com/in/jamie-sprott-439460125)
 
 ## Upcoming meetups 
 
