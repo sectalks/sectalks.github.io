@@ -9,6 +9,7 @@ menu: yes
 * Twitter: [SecTalks_SAO](https://twitter.com/sectalks_sao)
 * Email: [sao@sectalks.com](mailto:sao@sectalks.com)
 * Meetup: [SecTalks [São Paulo]](https://www.meetup.com/SecTalks-Sao-Paulo/)
+* Whatsapp Group: [SecTalks_SAO] (https://chat.whatsapp.com/FSb9x7ORzj4ALsohvEmSQb)
 
 ## Equipe SecTalks Brasil
 
@@ -19,7 +20,10 @@ menu: yes
 
 ## Próximos Meetup's e Eventos:
 
-Nosso primeiro meetup será 28/11, visite nosso grupo de [Meetup] (https://www.meetup.com/SecTalks-Sao-Paulo/) para mais detalhes
+22/11 - [Online] SecTalks SAO: Uma semana para o nosso Meetup. Bate-papo com os organizadores! 
+28/11 - [Meetup](https://www.meetup.com/SecTalks-Sao-Paulo/) Welcome SecTalks SAO - Local TBA (Comming Soon)
+06/12 - [Online] Certificação AZ-101: Microsoft Azure Integration and Security, tudo o que você precisa saber com Gustavo Magella! 
+13/12 - [Online] Carreira e oportunidades no mercado de Cibersegurança. Bate-papo com o time do SecTalks!
 
 ## Quer ser um palestrante?
 
@@ -35,7 +39,7 @@ Entre em contato conosco, para batermos um bapo.
 
 ## Mas eu sou novo em Segurança da Informação, posso participar?
 
-SIM! O SecTalks está sempre aberto a todos que desejam aprender hands-on infosec. Haverá pessoas dispostas a orientá-lo no dia, e você estará resolvendo o CTF em nenhum momento.
+SIM! O SecTalks está sempre aberto a todos que desejam aprender e discutir sobre Cibersegurança. Participe dos nossos eventos online e nossos Meetups presenciais, faça parte da nossa comunidade. 
 
 ## Apoiadores e Patrocínio
 
