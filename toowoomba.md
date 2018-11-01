@@ -41,24 +41,24 @@ YES! SecTalks is always open to anyone who is keen to learn hands-on infosec.
 There will be people willing to mentor you on the day, and you'll be solving CTF's in no time flat.
 
 ## Sponsors
-#### Venue
+#### Venue - Heritage Bank
 
 <a href="https://heritage.com.au" 
    title="Heritage Bank: On-going venue sponsor for SecTalks Toowoomba.">
     <img src="{{ site.baseurl }}/images/sponsors/heritage.png" 
          alt="Heritage Bank: On-going venue sponsor for SecTalks Toowoomba." width="300">
 </a>
-#### Catering
+#### Catering - Cisco
 
 <a href="https://www.talosintelligence.com/" 
-   title="Cisco: On-going catering co-sponsor for SecTalks Toowoomba.">
+   title="Cisco: On-going catering sponsor for SecTalks Toowoomba.">
     <img src="{{ site.baseurl }}/images/sponsors/cisco.jpg" 
          alt="Cisco: On-going catering sponsor for SecTalks Toowoomba.">
 </a>
-#### Prizes
+#### Prizes - Dimension Data
 
 <a href="https://www.dimensiondata.com/en/expertise/cybersecurity" 
-   title="Dimension Data: On-going CTF prize sponsor for SecTalks Toowoomba.">
+   title="Dimension Data: Prize sponsor for SecTalks Toowoomba.">
     <img src="{{ site.baseurl }}/images/sponsors/didata.jpg" 
-         alt="Dimension Data: On-going CTF prizes for SecTalks Toowoomba.">
+         alt="Dimension Data: Prize sponsor for SecTalks Toowoomba.">
 </a>
