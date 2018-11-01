@@ -43,7 +43,22 @@ There will be people willing to mentor you on the day, and you'll be solving CTF
 ## Sponsors
 #### Venue
 Heritage Bank
+<a href="https://heritage.com.au" 
+   title="Heritage Bank: On-going venue sponsor for SecTalks Toowoomba.">
+    <img src="{{ site.baseurl }}/images/sponsors/heritage.png" 
+         alt="Heritage Bank: On-going venue sponsor for SecTalks Toowoomba.">
+</a>
 #### Catering
 Cisco
-#### CTF Prizes
+<a href="https://www.talosintelligence.com/" 
+   title="Cisco: On-going catering co-sponsor for SecTalks Toowoomba.">
+    <img src="{{ site.baseurl }}/images/sponsors/cisco.jpg" 
+         alt="Cisco: On-going catering sponsor for SecTalks Toowoomba.">
+</a>
+#### Prizes
 Dimension Data
+<a href="https://www.dimensiondata.com/en/expertise/cybersecurity" 
+   title="Dimension Data: On-going CTF prize sponsor for SecTalks Toowoomba.">
+    <img src="{{ site.baseurl }}/images/sponsors/didata.jpg" 
+         alt="Dimension Data: On-going CTF prizes for SecTalks Toowoomba.">
+</a>
