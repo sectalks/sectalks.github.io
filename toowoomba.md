@@ -46,7 +46,7 @@ There will be people willing to mentor you on the day, and you'll be solving CTF
 <a href="https://heritage.com.au" 
    title="Heritage Bank: On-going venue sponsor for SecTalks Toowoomba.">
     <img src="{{ site.baseurl }}/images/sponsors/heritage.png" 
-         alt="Heritage Bank: On-going venue sponsor for SecTalks Toowoomba.">
+         alt="Heritage Bank: On-going venue sponsor for SecTalks Toowoomba." width="300">
 </a>
 #### Catering
 
