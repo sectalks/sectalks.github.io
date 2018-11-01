@@ -48,7 +48,7 @@ There will be people willing to mentor you on the day, and you'll be solving CTF
 <a href="https://www.telstra.com.au/" 
    title="Telstra: On-going venue sponsor for SecTalks Brisbane.">
     <img src="{{ site.baseurl }}/images/sponsors/T-Primary-L-Pos-Green-RGB_300.PNG" 
-         alt="Oz Hack: On-going venue sponsor for SecTalks Brisbane.">
+         alt="Telstra: On-going venue sponsor for SecTalks Brisbane.">
 </a>
 #### Catering
 <a href="https://alcorngroup.com/" 
