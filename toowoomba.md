@@ -63,7 +63,7 @@ There will be people willing to mentor you on the day, and you'll be solving CTF
          alt="Dimension Data: Prize sponsor for SecTalks Toowoomba.">
 </a>
 
-<a href="https://www.dimensiondata.com/en/expertise/cybersecurity" 
+<a href="https://alcorngroup.com/" 
    title="Alcorn Group: Prize sponsor for SecTalks Toowoomba.">
     <img src="{{ site.baseurl }}/images/sponsors/AlcornGroup.png" 
          alt="Alcorn Group: Prize sponsor for SecTalks Toowoomba.">
