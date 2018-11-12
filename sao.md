@@ -57,8 +57,10 @@ SIM! O SecTalks está sempre aberto a todos que desejam aprender e discutir sobr
 
 ## Calendário
 
-Inscreva-se em [nosso calendário] para ver os próximos e futuros encontros:
+Inscreva-se em [nosso calendário](http://www.meetup.com/SecTalks-Sao-Paulo/events/) para ver os próximos e futuros encontros:
 
-* [iCal](webcal://www.meetup.com/)
-* [Outlook](http://www.meetup.com/)
-* [RSS](http://www.meetup.com/)
+* [iCal](webcal://www.meetup.com/SecTalks-Sao-Paulo/events/ical/)
+* [Outlook](http://www.meetup.com/SecTalks-Sao-Paulo/events/ical/)
+* [RSS](http://www.meetup.com/SecTalks-Sao-Paulo/events/rss/)
+
+<iframe src="https://calendar.google.com/calendar/b/3/embed?height=600&amp;wkst=1&amp;bgcolor=%23FFFFFF&amp;src=civ24t22ah3kb8lv497bjqik119p4jln%40import.calendar.google.com&amp;color=%23691426&amp;ctz=America%2FSao_Paulo" style="border-width:0" width="800" height="600" frameborder="0" scrolling="no"></iframe>
