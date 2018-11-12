@@ -51,3 +51,5 @@ Subscribe to [our calendar](http://www.meetup.com/SecTalks-Berlin/events/) to vi
 * [iCal](webcal://www.meetup.com/SecTalks-Berlin/events/ical/)
 * [Outlook](http://www.meetup.com/SecTalks-Berlin/events/ical/)
 * [RSS](http://www.meetup.com/SecTalks-Berlin/events/rss/) or [Atom](http://www.meetup.com/SecTalks-Berlin/events/atom/)
+
+<iframe src="https://calendar.google.com/calendar/b/3/embed?height=600&amp;wkst=1&amp;bgcolor=%23FFFFFF&amp;src=sreu0pkcbmmke7n8e8brcnnkb3o7h270%40import.calendar.google.com&amp;color=%238D6F47&amp;ctz=Europe%2FBerlin" style="border-width:0" width="800" height="600" frameborder="0" scrolling="no"></iframe>
