@@ -70,3 +70,5 @@ Subscribe to [our calendar](http://www.meetup.com/SecTalks-Perth/events/) to vie
 * [iCal](webcal://www.meetup.com/SecTalks-Perth/events/ical/)
 * [Outlook](http://www.meetup.com/SecTalks-Perth/events/ical/)
 * [RSS](http://www.meetup.com/SecTalks-Perth/events/rss/) or [Atom](http://www.meetup.com/SecTalks-Perth/events/atom/)
+
+<iframe src="https://calendar.google.com/calendar/b/3/embed?height=600&amp;wkst=1&amp;bgcolor=%23FFFFFF&amp;src=1mqk6rq9t3pcfigd4dvlkknesbsfl0jf%40import.calendar.google.com&amp;color=%2342104A&amp;ctz=Australia%2FPerth" style="border-width:0" width="800" height="600" frameborder="0" scrolling="no"></iframe>

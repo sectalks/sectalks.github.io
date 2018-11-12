@@ -49,3 +49,5 @@ Subscribe to [our calendar](https://www.meetup.com/SecTalks-Holland/events/) to 
 * [iCal](webcal://www.meetup.com/SecTalks-Holland/events/ical/)
 * [Outlook](https://www.meetup.com/SecTalks-Holland/events/ical/)
 * [RSS](https://www.meetup.com/SecTalks-Holland/events/rss/) or [Atom](https://www.meetup.com/SecTalks-Holland/events/atom/)
+
+<iframe src="https://calendar.google.com/calendar/b/3/embed?height=600&amp;wkst=1&amp;bgcolor=%23FFFFFF&amp;src=u7t5cens62v3udgch3rbpbahq4728p4c%40import.calendar.google.com&amp;color=%23AB8B00&amp;ctz=Europe%2FAmsterdam" style="border-width:0" width="800" height="600" frameborder="0" scrolling="no"></iframe>
