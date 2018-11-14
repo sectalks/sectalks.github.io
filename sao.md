@@ -7,9 +7,9 @@ menu: yes
 ## Contato
 
 * Twitter: [SecTalks_SAO](https://twitter.com/sectalks_sao)
-* Email: [sao@sectalks.com](mailto:sao@sectalks.com)
+* Email: [andreazi@live.com](mailto:andreazi@live.com)
 * Meetup: [SecTalks [São Paulo]](https://www.meetup.com/SecTalks-Sao-Paulo/)
-* Whatsapp Group: [SecTalks_SAO] (https://chat.whatsapp.com/FSb9x7ORzj4ALsohvEmSQb)
+* SecTalks Groups: [Para ingressar em um dos nossos grupos de discussão, envie-nos um e-mail]
 
 ## Equipe SecTalks Brasil
 
@@ -20,10 +20,10 @@ menu: yes
 
 ## Próximos Meetup's e Eventos:
 
-22/11 - [Online] SecTalks SAO: Uma semana para o nosso Meetup. Bate-papo com os organizadores! 
-28/11 - [Meetup](https://www.meetup.com/SecTalks-Sao-Paulo/) Welcome SecTalks SAO - Local TBA (Comming Soon)
-06/12 - [Online] Certificação AZ-101: Microsoft Azure Integration and Security, tudo o que você precisa saber com Gustavo Magella! 
-13/12 - [Online] Carreira e oportunidades no mercado de Cibersegurança. Bate-papo com o time do SecTalks!
+22/11 - [Online] SecTalks SAO: Uma semana para o nosso Meetup. Bate-papo com os organizadores! [LINK] (https://www.youtube.com/quintasdati) </br>
+28/11 - [Meetup](https://www.meetup.com/SecTalks-Sao-Paulo/) Welcome SecTalks SAO - Local: LUIZA LABS [SP] (https://www.meetup.com/pt-BR/SecTalks-Sao-Paulo/events/255024708/) </br>
+06/12 - [Online] Certificação AZ-101: Microsoft Azure Integration and Security, tudo o que você precisa saber com Gustavo Magella! [LINK] (https://www.youtube.com/quintasdati)</br>
+13/12 - [Online] Carreira e oportunidades no mercado de Cibersegurança. Bate-papo com o time do SecTalks! [LINK] (https://www.youtube.com/quintasdati)</br>
 
 ## Quer ser um palestrante?
 
@@ -45,12 +45,12 @@ SIM! O SecTalks está sempre aberto a todos que desejam aprender e discutir sobr
 
 #### Quer ser um patrocinador? Entre em contato conosco!
 
-* Email: [sao@sectalks.com](mailto:sao@sectalks.com)
+* Email: [andreazi@live.com](mailto:andreazi@live.com)
 * Meetup: [SecTalks [São Paulo]](https://www.meetup.com/SecTalks-Sao-Paulo/)
 
-<a href="http://www.pwc.com.au" 
+<a href="https://www.facebook.com/quintasdati" 
    title="">
-    <img src="{{ site.baseurl }}/images/sponsors/" 
+    <img src="https://www.facebook.com/quintasdati/photos/a.488737004565001/794664883972210" 
          alt="" 
          class="sponsor">
 </a>
