@@ -62,3 +62,5 @@ Subscribe to [our calendar](http://www.meetup.com/SecTalks-Melbourne/events/) to
 * [iCal](webcal://www.meetup.com/SecTalks-Melbourne/events/ical/)
 * [Outlook](http://www.meetup.com/SecTalks-Melbourne/events/ical/)
 * [RSS](http://www.meetup.com/SecTalks-Melbourne/events/rss/) or [Atom](http://www.meetup.com/SecTalks-Melbourne/events/atom/)
+
+<iframe src="https://calendar.google.com/calendar/b/3/embed?height=600&amp;wkst=1&amp;bgcolor=%23FFFFFF&amp;src=heglqomaov6j562l4d0v7qu60i1hin7e%40import.calendar.google.com&amp;color=%23711616&amp;ctz=Australia%2FMelbourne" style="border-width:0" width="800" height="600" frameborder="0" scrolling="no"></iframe>

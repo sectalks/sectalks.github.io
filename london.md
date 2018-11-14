@@ -67,3 +67,5 @@ Subscribe to [our calendar](http://www.meetup.com/SecTalks-London/events/) to vi
 * [iCal](webcal://www.meetup.com/SecTalks-London/events/ical/)
 * [Outlook](http://www.meetup.com/SecTalks-London/events/ical/)
 * [RSS](http://www.meetup.com/SecTalks-London/events/rss/) or [Atom](http://www.meetup.com/SecTalks-London/events/atom/)
+
+<iframe src="https://calendar.google.com/calendar/b/3/embed?height=600&amp;wkst=1&amp;bgcolor=%23FFFFFF&amp;src=jte0pphqpogfrsj604uagrm8g082sco0%40import.calendar.google.com&amp;color=%2323164E&amp;ctz=Europe%2FLondon" style="border-width:0" width="800" height="600" frameborder="0" scrolling="no"></iframe>
