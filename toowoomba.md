@@ -57,13 +57,6 @@ There will be people willing to mentor you on the day, and you'll be solving CTF
 </a>
 #### Prizes - Alcorn Group
 
-[//]: # (<a href="https://www.dimensiondata.com/en/expertise/cybersecurity" 
-   title="Dimension Data: Prize sponsor for SecTalks Toowoomba.">
-    <img src="{{ site.baseurl }}/images/sponsors/didata.jpg" 
-         alt="Dimension Data: Prize sponsor for SecTalks Toowoomba.">
-</a>
-)
-
 <a href="https://alcorngroup.com/" 
    title="Alcorn Group: Prize sponsor for SecTalks Toowoomba.">
     <img src="{{ site.baseurl }}/images/sponsors/AlcornGroup.png" 
