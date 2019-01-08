@@ -24,7 +24,7 @@ You may also want to follow [@sectalks_twb](https://twitter.com/sectalks_twb) on
 
 ## Date & Time 
 
-8th November 2018, 17:30 
+17th January 2019, 17:30 
 
 ## Location 
 
