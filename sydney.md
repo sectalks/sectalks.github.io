@@ -15,6 +15,11 @@ menu: yes
 * [@pi3ch](https://twitter.com/pi3ch) 
 * [@gszathmari](https://twitter.com/gszathmari)
 * [@rubenthijssen](https://twitter.com/rubenthijssen)
+* [@darkdefender](https://twitter.com/minimaltalking)
+* @MagikarpKing#8958 (Discord)
+* [@satiex](https://twitter.com/satiexx)
+* @netcat
+* @kat
 
 ## Date & Time 
 
