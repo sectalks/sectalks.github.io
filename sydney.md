@@ -16,7 +16,8 @@ menu: yes
 * [@gszathmari](https://twitter.com/gszathmari)
 * [@rubenthijssen](https://twitter.com/rubenthijssen)
 * [@darkdefender](https://twitter.com/minimaltalking)
-* @MagikarpKing#8958 (Discord)
+* @kieran (Discord: @yg#6744)
+* @MagikarpKing (Discord: @MagikarpKing#8958)
 * [@satiex](https://twitter.com/satiexx)
 * @netcat
 * @kat
