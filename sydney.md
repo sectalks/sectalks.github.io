@@ -24,7 +24,7 @@ menu: yes
 
 ## Date & Time 
 
-We usually run meetups every third Tuesday of each month. Visit our [Meetup group](http://www.meetup.com/SecTalks/) for more details.
+We usually run meetups on 2nd Tuesday of each month. Visit our [Meetup group](http://www.meetup.com/SecTalks/) for more details.
 
 ## Location 
 
