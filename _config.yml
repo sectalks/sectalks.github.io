@@ -4,7 +4,16 @@ email:       "guru@sectalks.org"
 author:      "SecTalks Founders"
 description: "Monthly technical (in)security talks and hands-on CTF, no bullshit!"
 baseurl:     ""
-url:         "http://www.sectalks.org"
+url:         "https://www.sectalks.org"
+plugins:
+  - jekyll-seo-tag
+  - jekyll-sitemap
+
+twitter:
+  username: sectalks
+  card: summary
+logo: /images/logo.png
+
 date_format: "%-d %b %Y"
 
 # Google analytics

@@ -9,6 +9,7 @@ menu: yes
 * Twitter: [SecTalks](https://twitter.com/sectalks)
 * Email: [sydney@sectalks.org](mailto:sydney@sectalks.org)
 * Meetup: [http://www.meetup.com/SecTalks/](http://www.meetup.com/SecTalks/)
+* CTF: [https://ctf.syd.sectalks.org](https://ctf.syd.sectalks.org/)
 
 ## Organising team 
 
