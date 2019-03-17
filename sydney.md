@@ -36,10 +36,10 @@ Visit our [Meetup group](http://www.meetup.com/SecTalks/) for more details.
 Whether it is a [lightning talk](https://en.wikipedia.org/wiki/Lightning_talk), 10min short presentation, or an hour long hands-on workshop, whether it is your first time to present, SecTalks is great place to get feedback and improve on.
 Fill up [SecTalks CFP](http://j.mp/sectalkscfp) form.
 
-## Upcoming meetup 
+## Create a CTF challenge?
 
-Details of an upcoming meetup is sent to l33t members mailing list 
-and posted on our [Meetup group](http://www.meetup.com/SecTalks/).
+If you would like to develop a CTF challenge or have an idea for a challenge, please
+fill up [Call for CTF](https://bit.ly/sectalksctf) form.
 
 ## How to join
 
@@ -48,51 +48,42 @@ We run a mix of meetups for both beginners and people with experience.
 Join our [Meetup group](http://www.meetup.com/SecTalks/) and
 RSVP to upcoming meetups. 
 
-### I am l33t!
-
-If you are l33t, you may want
-to solve our l33t entry challenge to get yourself
-on our *l33t mailing list*. There is no harm, trying it.
-
-#### What is the l33t entry challenge?
-
-1. Follow [sectalks](https://twitter.com/sectalks) on Twitter.
-1. Tweet "@sectalks, V jnaan wbva...".
-1. The challenge details will be DMed to you.
-1. Have fun and email us the flag.
-
-*Note: Twitter doesn't allow for DM, if you don't follow @sectalks.*
-
 ## Sponsors
-#### Venue and catering
-<a href="http://www.pwc.com.au" 
-   title="PWC: 12 month venue and catering for SecTalks Sydney and Melbourne.">
+<a href="https://pwc.to/2FcpqF4" 
+   title="PWC Sydney">
     <img src="{{ site.baseurl }}/images/sponsors/pwc.jpg" 
-         alt="PWC: 12 month venue and catering for SecTalks Sydney and Melbourne" 
+         alt="PWC Sydney"
          class="sponsor">
 </a>
-
-#### CTF Servers and online hosting
-<a href="https://www.elttam.com.au/careers/?utm_source=sectalkhome&utm_medium=sponsor&utm_term=sectalks&utm_campaign=sectalks" 
-   title="elttam: 12 month CTF servers and online hosting">
-    <img src="{{ site.baseurl }}/images/sponsors/elttam_security.png" 
-         alt="elttam: 12 month CTF servers and online hosting" 
+<a href="https://bit.ly/2XYwxK9" 
+   title="elttam">
+    <img src="{{ site.baseurl }}/images/sponsors/elttam.png" 
+         alt="elttam"
+         class="sponsor">
+</a>
+<a href="https://bit.ly/sectalkstyro" 
+   title="Tyro Payments">
+    <img src="{{ site.baseurl }}/images/sponsors/tyro.png" 
+         alt="Tyro Payments" 
+         class="sponsor">
+</a>
+<a href="https://bit.ly/2TIKdum" 
+   title="Atlassian Sydney">
+    <img src="{{ site.baseurl }}/images/sponsors/atlassian.png" 
+         alt="Atlassian"
          class="sponsor-med">
 </a>
-
-#### Speaker prizes
-<a href="http://bit.ly/sectalkstyro" 
-   title="Tyro Payments: 12 month speaker prizes">
-    <img src="{{ site.baseurl }}/images/sponsors/tyro.png" 
-         alt="Tyro Payments: 12 month speaker prizes" 
+<a href="https://amzn.to/2Y5Kzth" 
+   title="Amazon Sydney">
+    <img src="{{ site.baseurl }}/images/sponsors/amazon.png" 
+         alt="Amazon Sydney"
          class="sponsor">
 </a>
-
-#### CTF prizes
-<a href="https://www.atlassian.com/" 
-   title="Atlassian: 12 month CTF prizes">
-    <img src="{{ site.baseurl }}/images/sponsors/atlassian_2017.png" 
-         alt="Atlassian: 12 month CTF prizes">
+<a href="https://bit.ly/2FaDcs5" 
+   title="Google Sydney">
+    <img src="{{ site.baseurl }}/images/sponsors/google.png" 
+         alt="Google Sydney"
+         class="sponsor">
 </a>
 
 
