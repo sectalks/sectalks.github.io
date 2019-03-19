@@ -73,10 +73,10 @@ RSVP to upcoming meetups.
          alt="Atlassian"
          class="sponsor-med">
 </a>
-<a href="https://amzn.to/2Y5Kzth" 
-   title="Amazon Sydney">
+<a href="http://bit.ly/2Cr4SIt" 
+   title="Amazon InfoSec Sydney">
     <img src="{{ site.baseurl }}/images/sponsors/amazon.png" 
-         alt="Amazon Sydney"
+         alt="Amazon InfoSec Sydney"
          class="sponsor">
 </a>
 <a href="https://bit.ly/2FaDcs5" 
