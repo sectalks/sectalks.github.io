@@ -6,9 +6,9 @@ menu: yes
     
 ## Contact
 
-* Twitter: [@SecTalksNL](https://twitter/SecTalksNL)
+* Twitter: [@SecTalksNL](https://twitter.com/SecTalksNL)
 * Email: [holland@sectalks.org](mailto:holland@sectalks.org)
-* Meetup: https://www.meetup.com/SecTalks-Holland
+* Meetup: [https://www.meetup.com/SecTalks-Holland](https://www.meetup.com/SecTalks-Holland)
 
 ## Organising team
 
