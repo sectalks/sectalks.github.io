@@ -61,7 +61,7 @@ There will be people willing to mentor you on the day, and you'll be solving CTF
     <img src="{{ site.baseurl }}/images/sponsors/cisco.jpg" 
          alt="Cisco: On-going catering sponsor for SecTalks Toowoomba.">
 </a>
-#### Prizes - Alcorn Group
+#### Prizes - Alcorn Group & Acumenis
 
 <a href="https://alcorngroup.com/" 
    title="Alcorn Group: Prize sponsor for SecTalks Toowoomba.">
