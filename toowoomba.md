@@ -14,25 +14,27 @@ menu: yes
 
 * [JP](https://twitter.com/jpjaeps) 
 * [Jamie](https://au.linkedin.com/in/jamie-sprott-439460125)
+* Cam
 
 ## Upcoming meetups 
 
 We are planning our first meetup for 8th November 2018. 
 Reach out to [toowoomba@sectalks.org](mailto:toowoomba@sectalks.org) if you would like to help, present, sponsor or just join in.
 
-You may also want to follow [@sectalks_twb](https://twitter.com/sectalks_twb) on Twitter.
+You may also want to follow [@sectalks_twb](https://twitter.com/sectalks_twb) on Twitter as most updates get poster there.
 
 ## Date & Time 
 
 The [meetup page](https://meetup.com/SecTalks-Toowoomba) has the latest schedule.
-* 21 Feb 2019, 17:30
-* 21 Mar 2019, 17:30
-* 11 Apr 2019, 17:30
+* 11 Apr 2019
+* 16 May 2019
 
 
 ## Location 
 
-Heritage Bank, Level 1, 400 Ruthven St, Toowoomba.
+Heritage Bank, Ruthven St, Toowoomba.
+
+Further details and registration at the [meetup page](https://meetup.com/SecTalks-Toowoomba)
 
 ## Looking to present?
 
@@ -65,4 +67,11 @@ There will be people willing to mentor you on the day, and you'll be solving CTF
    title="Alcorn Group: Prize sponsor for SecTalks Toowoomba.">
     <img src="{{ site.baseurl }}/images/sponsors/AlcornGroup.png" 
          alt="Alcorn Group: Prize sponsor for SecTalks Toowoomba.">
+</a>
+
+
+<a href="https://www.acumenis.com.au/" 
+   title="Acumenis: Prize sponsor for SecTalks Toowoomba.">
+    <img src="{{ site.baseurl }}/images/sponsors/Acumenis.png" 
+         alt="Acumenis: Prize sponsor for SecTalks Toowoomba.">
 </a>
