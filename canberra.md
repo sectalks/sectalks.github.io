@@ -17,7 +17,7 @@ menu: yes
 
 ## Date & Time 
 
-SecTalks Canberra is held on the second Tuesday of each month, at 7 pm. Check out the [Meetup page](http://www.meetup.com/SecTalks-Canberra/) for the latest details and to RSVP.
+SecTalks Canberra is held on the second Tuesday of each month. Check out the [Meetup page](http://www.meetup.com/SecTalks-Canberra/) for the latest details and to RSVP.
 
 ## Cost
 
@@ -25,16 +25,9 @@ Free!
 
 ## Location 
 
-SecTalks Canberra is held at the Fifth Domain office, located in the Sydney Building at [13 East Row, Canberra](https://goo.gl/maps/ucDKQhnqttN2), upstairs. If you're mobility impaired, please contact the organiser and we'll do our absolute best to help out.
+SecTalks Canberra is (now) held at Vault Cloud, located at [West Tower, Level 5, 2 Constitution Avenue Building] East Row, Canberra](https://goo.gl/maps/WxFTfkzqBb52).
 
 ## Sponsors
-
-#### Venue
-<a href="https://fifthdomain.com.au/" 
-   title="Fifth Domain">
-    <img src="{{ site.baseurl }}/images/sponsors/Fifth_Domain.png" 
-         alt="Fifth Domain">
-</a>
 
 #### Drinks
 <a href="https://www.tsscyber.com.au/" 
@@ -44,9 +37,9 @@ SecTalks Canberra is held at the Fifth Domain office, located in the Sydney Buil
 </a>
 
 #### Catering
-<a href="https://www.cordelta.com/" 
-   title="Cordelta">
-    <img src="{{ site.baseurl }}/images/sponsors/Cordelta.png" 
+<a href="https://ionize.com.au/" 
+   title="Ionize">
+    <img src="{{ site.baseurl }}/images/sponsors/ionize.png" 
          alt="Cordelta">
 
 #### Speaker Gifts and CTF Prizes
