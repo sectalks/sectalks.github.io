@@ -39,7 +39,7 @@ SecTalks Canberra is (now) held at Vault Cloud, located at [West Tower, Level 5,
 #### Catering
 <a href="https://ionize.com.au/" 
    title="Ionize">
-    <img src="{{ site.baseurl }}/images/sponsors/ionize.png" 
+    <img src="{{ site.baseurl }}/images/sponsors/ionize.jpg" 
          alt="Ionize">
 
 #### Speaker Gifts and CTF Prizes
