@@ -67,7 +67,7 @@ RSVP to upcoming meetups.
          alt="Tyro Payments" 
          class="sponsor">
 </a>
-<a href="https://bit.ly/2TIKdum" 
+<a href="https://bit.ly/2OUPAkk" 
    title="Atlassian Sydney">
     <img src="{{ site.baseurl }}/images/sponsors/atlassian.png" 
          alt="Atlassian"
@@ -85,6 +85,13 @@ RSVP to upcoming meetups.
          alt="Google Sydney"
          class="sponsor">
 </a>
+<a href="https://bit.ly/2uP0XRD" 
+   title="ServiceNow">
+    <img src="{{ site.baseurl }}/images/sponsors/servicenow.jpg" 
+         alt="ServiceNow"
+         class="sponsor-med">
+</a>
+
 
 
 ## Calendar 
