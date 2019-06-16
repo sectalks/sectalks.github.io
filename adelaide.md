@@ -4,35 +4,49 @@ title: Adelaide
 ---
 
 # Contact
-
-Twitter: [@sectalks_ADL](https://twitter.com/sectalks_ADL)
-
-Email: [adelaide@sectalks.org](mailto:adelaide@sectalks.org)
-
-Meetup: [SecTalks Adelaide](http://www.meetup.com/SecTalks-Adelaide/)
+Twitter: [@sectalks_ADL](https://twitter.com/sectalks_ADL)  
+Email: [adelaide@sectalks.org](mailto:adelaide@sectalks.org)  
+Meetup: [SecTalks Adelaide](http://www.meetup.com/SecTalks-Adelaide/)  
 
 # Organising team
-James McLean, [@vortexau](https://twitter.com/vortexau), [adelaide@sectalks.org](mailto:adelaide@sectalks.org)
+[@vortexau](https://twitter.com/vortexau) - James McLean   
+[@jakegallyer](https://twitter.com/jakegallyer) - Jake Gallyer  
+[@JakobRPenny](https://twitter.com/JakobRPenny) - Jakob Pennington  
+[@JoshSchwarz](https://twitter.com/JoshSchwarz) - Josh Schwartz  
+[@marc_cybersec](https://twitter.com/marc_cybersec) - Marc Sleeman  
+
 
 # Date & Time
-First **Tuesday** Every Month (Day has changed)
+**New Date**  
+We usually run the meetup on the second Tuesday of every month. This may change, so keep an eye on the [Meetup](https://www.meetup.com/en-AU/SecTalks-Adelaide/) page for updates.
 
 # Location
-The Wheatsheaf Hotel, 39 George Street, Thebarton
+**New Location**  
+We have relocated to the second floor of the Belgian Beer Cafe Oostende at 27-29 Ebenezer Place.
 
 # Looking to present?
-Please contact James at the above locations if you would like to present a security topic.
+If you have an idea for a presentation, workshop, demonstration or challenge you would like to present or see presented, you can submit your idea [here](https://docs.google.com/forms/d/1IjdGv0_K9FVhaYLh6IX08LWxHntC3bBKJzC2DctsFSg) or get in touch with one of the organisers.
 
 # Sponsors
-No sponsors as yet.
+We'd like to thank [@cqr](https://www.twitter.com/cqr) and [@TaptuIT](https://www.twitter.com/TaptuIT) for providing sponsorship for the venue.
+
+<a href="https://www.cqr.com/" 
+   title="CQR">
+    <img src="{{ site.baseurl }}/images/sponsors/cqr.png" 
+         alt="CQR">
+</a>
+
+<a href="https://www.taptu.com.au/" 
+   title="Taptu">
+    <img src="{{ site.baseurl }}/images/sponsors/taptu.png" 
+         alt="Taptu">
+</a>
 
 # Upcoming meetup
-Check @sectalks_adl for news!
+Follow us at [@sectalks_ADL](https://www.twitter.com/sectalks_ADL) and join the [Meetup](https://www.meetup.com/en-AU/SecTalks-Adelaide/) for announcements.
 
-## How to join
-RSVP via the Meetup.com link above, all welcome.
-New to security? You're welcome to attend. All you need is an interest.
+# How to join
+RSVP via [Meetup](https://www.meetup.com/en-AU/SecTalks-Adelaide/), all are welcome. New to security? You're welcome to attend. All you need is an interest.
 
-## Previous events
-
-* Each month has had interesting content, come along to the next meeting to see!
+# Previous events
+* 0x13 - Cross-Site Scripting meets Modern Web Technologies - _Jakob Pennington_
