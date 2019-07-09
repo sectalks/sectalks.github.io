@@ -6,9 +6,10 @@ menu: yes
 
 ## Contact 
 
+* Meetup: [https://meetup.com/SecTalks-Toowoomba](https://meetup.com/SecTalks-Toowoomba/)
 * Twitter: [@sectalks_twb](https://twitter.com/sectalks_twb)
 * Email: [toowoomba@sectalks.org](mailto:toowoomba@sectalks.org)
-* Meetup: [https://meetup.com/SecTalks-Toowoomba](https://meetup.com/SecTalks-Toowoomba/)
+
 
 ## Organising team 
 
@@ -18,19 +19,15 @@ menu: yes
 
 ## Upcoming meetups 
 
-We are planning our first meetup for 8th November 2018. 
 Reach out to [toowoomba@sectalks.org](mailto:toowoomba@sectalks.org) if you would like to help, present, sponsor or just join in.
 
-You may also want to follow [@sectalks_twb](https://twitter.com/sectalks_twb) on Twitter as most updates get poster there.
-
-## Date & Time 
-
+You may also want to follow [@sectalks_twb](https://twitter.com/sectalks_twb) on Twitter as most updates get posted there.
+#### Date / Time
 The [meetup page](https://meetup.com/SecTalks-Toowoomba) has the latest schedule.
-* 11 Apr 2019
-* 16 May 2019
+* We usually start at 5:30 and run through to about 8 or 8:30.
 
 
-## Location 
+#### Location 
 
 Heritage Bank, Ruthven St, Toowoomba.
 
@@ -38,7 +35,7 @@ Further details and registration at the [meetup page](https://meetup.com/SecTalk
 
 ## Looking to present?
 
-We are looking for presenters to help kick off the Toowoomba sessions (I'm sure people will eventually get bored if it's just me). 
+We are looking for presenters for the Toowoomba sessions. 
 Please email [toowoomba@sectalks.org](mailto:toowoomba@sectalks.org) if you are interested.
 
 ### But I am new to security, can I still join in?
@@ -61,17 +58,10 @@ There will be people willing to mentor you on the day, and you'll be solving CTF
     <img src="{{ site.baseurl }}/images/sponsors/cisco.jpg" 
          alt="Cisco: On-going catering sponsor for SecTalks Toowoomba.">
 </a>
-#### Prizes - Alcorn Group & Acumenis
+#### Prizes - Alcorn Group
 
 <a href="https://alcorngroup.com/" 
    title="Alcorn Group: Prize sponsor for SecTalks Toowoomba.">
     <img src="{{ site.baseurl }}/images/sponsors/AlcornGroup.png" 
          alt="Alcorn Group: Prize sponsor for SecTalks Toowoomba.">
-</a>
-
-
-<a href="https://www.acumenis.com.au/" 
-   title="Acumenis: Prize sponsor for SecTalks Toowoomba.">
-    <img src="{{ site.baseurl }}/images/sponsors/Acumenis.png" 
-         alt="Acumenis: Prize sponsor for SecTalks Toowoomba.">
 </a>
