@@ -61,18 +61,19 @@ RSVP to upcoming meetups.
          alt="elttam"
          class="sponsor">
 </a>
-<a href="https://bit.ly/sectalkstyro" 
+<!--<a href="https://bit.ly/sectalkstyro" 
    title="Tyro Payments">
     <img src="{{ site.baseurl }}/images/sponsors/tyro.png" 
          alt="Tyro Payments" 
          class="sponsor">
-</a>
+</a>-->
 <a href="https://bit.ly/2OUPAkk" 
    title="Atlassian Sydney">
     <img src="{{ site.baseurl }}/images/sponsors/atlassian.png" 
          alt="Atlassian"
          class="sponsor-med">
 </a>
+<br />
 <a href="https://bit.ly/2Cr4SIt" 
    title="Amazon InfoSec Sydney">
     <img src="{{ site.baseurl }}/images/sponsors/amazon.png" 
@@ -91,6 +92,13 @@ RSVP to upcoming meetups.
          alt="ServiceNow"
          class="sponsor-med">
 </a>
+<a href="https://bit.ly/2LMfvew" 
+   title="FireEye">
+    <img src="{{ site.baseurl }}/images/sponsors/fireeye.png" 
+         alt="FireEye"
+         class="sponsor-med">
+</a>
+
 
 
 
