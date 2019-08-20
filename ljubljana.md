@@ -13,7 +13,8 @@ menu: yes
 ## Organising team
 
 * [@lowk3y](https://twitter.com/lowk3y)
-* You?
+* neoxquick
+* YOU?
 
 ## Date & Time
 
@@ -57,13 +58,8 @@ on our *l33t mailing list*. There is no harm, trying it.
 
 ## Sponsors
 #### Venue and catering
-<a href="http://www.xlab.si"
-   title="elttam: 12 month CTF servers and online hosting">
-    <img src="{{ site.baseurl }}/images/sponsors/XLAB_logo_1170px.png"
-         alt="XLab d.o.o.: Venue"
-         class="sponsor-med">
-</a>
 
+ SPONSOR(S) NEEDED!
 
 #### CTF Servers and online hosting
 <a href="https://www.elttam.com.au/?utm_source=sectalkhome&utm_medium=sponsor&utm_term=sectalks&utm_campaign=sectalks"
