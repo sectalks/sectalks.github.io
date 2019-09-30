@@ -15,7 +15,6 @@ menu: yes
 
 * [@pi3ch](https://twitter.com/pi3ch) 
 * [@gszathmari](https://twitter.com/gszathmari)
-* [@rubenthijssen](https://twitter.com/rubenthijssen)
 * [@darkdefender](https://twitter.com/minimaltalking)
 * @kieran (Discord: @yg#6744)
 * @MagikarpKing (Discord: @MagikarpKing#8958)
@@ -55,12 +54,12 @@ RSVP to upcoming meetups.
          alt="PWC Sydney"
          class="sponsor">
 </a>
-<a href="https://bit.ly/2XYwxK9" 
+<!--<a href="https://bit.ly/2XYwxK9" 
    title="elttam">
     <img src="{{ site.baseurl }}/images/sponsors/elttam.png" 
          alt="elttam"
          class="sponsor">
-</a>
+</a>-->
 <!--<a href="https://bit.ly/sectalkstyro" 
    title="Tyro Payments">
     <img src="{{ site.baseurl }}/images/sponsors/tyro.png" 
@@ -74,12 +73,12 @@ RSVP to upcoming meetups.
          class="sponsor-med">
 </a>
 <br />
-<a href="https://bit.ly/2Cr4SIt" 
+<!--<a href="https://bit.ly/2Cr4SIt" 
    title="Amazon InfoSec Sydney">
     <img src="{{ site.baseurl }}/images/sponsors/amazon.png" 
          alt="Amazon InfoSec Sydney"
          class="sponsor">
-</a>
+</a>-->
 <a href="https://bit.ly/2IiKrCm" 
    title="Google Sydney">
     <img src="{{ site.baseurl }}/images/sponsors/google.png" 
