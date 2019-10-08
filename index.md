@@ -49,6 +49,7 @@ SecTalks is organised in the following cities. Visit each city page to know more
 * [Berlin, DE](./berlin)
 * [Toowoomba, Australia](./toowoomba)
 * [São Paulo, Brazil](./sao)
+* [Daegu, South Korea](./daegu)
 
 # Calendar
 For event calendar in your local timezone, please visit the above city pages.
