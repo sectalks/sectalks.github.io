@@ -1,18 +1,17 @@
 ---
 layout: page
-title: YOURCITY
+title: João Pessoa
 ---
     
 ## Contact
 
-* Twitter:
-* Email: [YOURCITY@sectalks.org](mailto:YOURCITY@sectalks.org)
-* IRC:
-* Meetup:
+* Email: [halencarjunior@protonmail.com](mailto:halencarjunior@protonmail.com)
 
 ## Organising team
 
-* SecTalks João Pessoa, [TWITTER HANDLE](https://twitter.com/halencarjunior), [EMAIL](mailto:halencarjunior@protonmail.com)
+* SecTalks João Pessoa, 
+Humberto Júnior
+[@halencarjunior](https://twitter.com/halencarjunior), [EMAIL](mailto:halencarjunior@protonmail.com)
 
 ## Date & Time
 
