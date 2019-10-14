@@ -13,10 +13,6 @@ title: João Pessoa
 * Humberto Júnior
 [@halencarjunior](https://twitter.com/halencarjunior), [EMAIL](mailto:halencarjunior@protonmail.com)
 
-## Próximos eventos
-
-[First Saturday of each month at 9am]
-
 ## Location
 
 IESP Faculdades - Cabedelo/PB
