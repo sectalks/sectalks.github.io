@@ -5,7 +5,8 @@ title: João Pessoa
     
 ## Contact
 
-* Email: [halencarjunior@protonmail.com](mailto:halencarjunior@protonmail.com)
+* Email: [sectalksjpa@protonmail.com](mailto:sectalksjpa@protonmail.com)
+* Twitter: [@Sectalks_JPA](https://www.twitter.com/Sectalks_JPA)
 
 ## Organising team
 
