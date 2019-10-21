@@ -50,6 +50,7 @@ SecTalks is organised in the following cities. Visit each city page to know more
 * [Toowoomba, Australia](./toowoomba)
 * [São Paulo, Brazil](./sao)
 * [João Pessoa, Brazil](./joaopessoa)
+* [Daegu, South Korea](./daegu)
 
 # Calendar
 For event calendar in your local timezone, please visit the above city pages.
