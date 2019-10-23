@@ -48,14 +48,14 @@ RSVP to upcoming meetups.
    title="Bitstamp">
     <img src="{{ site.baseurl }}/images/sponsors/Bitstamp_L.png"
          alt="Bitstamp"
-         class="sponsor">
+         class="sponsor-med">
 </a>
 
 <a href="https://www.elttam.com.au/?utm_source=sectalkhome&utm_medium=sponsor&utm_term=sectalks&utm_campaign=sectalks"
    title="Elttam: CTF servers and online hosting">
     <img src="{{ site.baseurl }}/images/sponsors/elttam.png"
          alt="elttam:  CTF servers and online hosting"
-         class="sponsor-med">
+         class="sponsor">
 </a>
 
 
