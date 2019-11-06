@@ -43,7 +43,7 @@ SecTalks Canberra is (now) held at Vault Cloud, located at [West Tower, Level 5,
          alt="Ionize">
 
 #### Venue
-<a href="https://dronesec.xyz/" 
+<a href="https://dronesec.com.au" 
    title="DroneSec">
     <img src="{{ site.baseurl }}/images/sponsors/DroneSec.png" 
          alt="DroneSec">
