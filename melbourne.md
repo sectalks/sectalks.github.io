@@ -14,6 +14,10 @@ menu: yes
 
 * [@multiplex3r](https://twitter.com/multiplex3r) 
 * [@securitymeta](https://twitter.com/securitymeta_) 
+* [Barnie]
+* [OpSys]
+* [Hoodie]
+* [sml555]
 
 ## Date & Time 
 
