@@ -65,6 +65,12 @@ RSVP to upcoming meetups.
          class="sponsor">
 </a>
 
+<a href="https://www.tokens.net/"
+   title="Tokens.net">
+    <img src="{{ site.baseurl }}/images/sponsors/tokens-logo-white.png"
+         alt="Tokensnet"
+         class="sponsor">
+</a>
 
 
 ## Calendar
