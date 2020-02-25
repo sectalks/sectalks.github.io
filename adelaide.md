@@ -27,20 +27,7 @@ We have relocated to the second floor of the Belgian Beer Cafe Oostende at 27-29
 ### Looking to present?
 If you have an idea for a presentation, workshop, demonstration or challenge you would like to present or see presented, you can submit your idea [here](https://docs.google.com/forms/d/1IjdGv0_K9FVhaYLh6IX08LWxHntC3bBKJzC2DctsFSg) or get in touch with one of the organisers.
 
-### Sponsors
-We'd like to thank [@cqr](https://www.twitter.com/cqr) and [@TaptuIT](https://www.twitter.com/TaptuIT) for providing sponsorship for the venue.
 
-<a href="https://www.cqr.com/" 
-   title="CQR">
-    <img src="{{ site.baseurl }}/images/sponsors/cqr.png" 
-         alt="CQR">
-</a>
-
-<a href="https://www.taptu.com.au/" 
-   title="Taptu">
-    <img src="{{ site.baseurl }}/images/sponsors/taptu.png" 
-         alt="Taptu">
-</a>
 
 ### Upcoming meetup
 Follow us at [@sectalks_ADL](https://www.twitter.com/sectalks_ADL) and join the [Meetup](https://www.meetup.com/en-AU/SecTalks-Adelaide/) for announcements.
