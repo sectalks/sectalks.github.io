@@ -8,18 +8,16 @@ menu: yes
 
 * Twitter: [SecTalks](https://twitter.com/sectalks)
 * Email: [sydney@sectalks.org](mailto:sydney@sectalks.org)
-* Meetup: [http://www.meetup.com/SecTalks/](http://www.meetup.com/SecTalks/)
-* CTF: [https://ctf.syd.sectalks.org](https://ctf.syd.sectalks.org/)
+* [https://meetup.com/sectalks](Meetup)
+* [https://ctf.syd.sectalks.org](CTF dashboard)
 
 ## Organising team 
 
 * [@pi3ch](https://twitter.com/pi3ch) 
 * [@gszathmari](https://twitter.com/gszathmari)
 * [@darkdefender](https://twitter.com/minimaltalking)
-* @kieran (Discord: @yg#6744)
 * @MagikarpKing (Discord: @MagikarpKing#8958)
 * [@satiex](https://twitter.com/satiexx)
-* @netcat
 * @kat
 
 ## Date & Time 
@@ -48,56 +46,34 @@ Join our [Meetup group](http://www.meetup.com/SecTalks/) and
 RSVP to upcoming meetups. 
 
 ## Sponsors
+
 <a href="https://pwc.to/2FcpqF4" 
    title="PWC Sydney">
     <img src="{{ site.baseurl }}/images/sponsors/pwc.jpg" 
          alt="PWC Sydney"
          class="sponsor">
 </a>
-<!--<a href="https://bit.ly/2XYwxK9" 
-   title="elttam">
-    <img src="{{ site.baseurl }}/images/sponsors/elttam.png" 
-         alt="elttam"
-         class="sponsor">
-</a>-->
-<!--<a href="https://bit.ly/sectalkstyro" 
-   title="Tyro Payments">
-    <img src="{{ site.baseurl }}/images/sponsors/tyro.png" 
-         alt="Tyro Payments" 
-         class="sponsor">
-</a>-->
+
 <a href="https://bit.ly/2OUPAkk" 
    title="Atlassian Sydney">
     <img src="{{ site.baseurl }}/images/sponsors/atlassian.png" 
          alt="Atlassian"
          class="sponsor-med">
 </a>
-<br />
-<!--<a href="https://bit.ly/2Cr4SIt" 
-   title="Amazon InfoSec Sydney">
-    <img src="{{ site.baseurl }}/images/sponsors/amazon.png" 
-         alt="Amazon InfoSec Sydney"
-         class="sponsor">
-</a>-->
+
 <a href="https://bit.ly/2IiKrCm" 
    title="Google Sydney">
     <img src="{{ site.baseurl }}/images/sponsors/google.png" 
          alt="Google Sydney"
          class="sponsor">
 </a>
-<a href="https://bit.ly/2uP0XRD" 
-   title="ServiceNow">
-    <img src="{{ site.baseurl }}/images/sponsors/servicenow.jpg" 
-         alt="ServiceNow"
-         class="sponsor-med">
-</a>
-<a href="https://bit.ly/2LMfvew" 
-   title="FireEye">
-    <img src="{{ site.baseurl }}/images/sponsors/fireeye.png" 
-         alt="FireEye"
-         class="sponsor-med">
-</a>
 
+<a href="https://j.mp/1qgPo0a" 
+   title="SecDim">
+    <img src="{{ site.baseurl }}/images/sponsors/secdim.png" 
+         alt="SecDim"
+         class="sponsor">
+</a>
 
 
 
