@@ -17,7 +17,7 @@ menu: yes
 * [@darkdefender](https://twitter.com/minimaltalking)
 * [@satiex](https://twitter.com/satiexx)
 * @kat
-* [idont](https://twitter.com/idont_party)
+* [@idont](https://twitter.com/idont_party)
 * [@gszathmari](https://twitter.com/gszathmari)
 * [@MagikarpKing](Discord:@MagikarpKing#8958)
 
