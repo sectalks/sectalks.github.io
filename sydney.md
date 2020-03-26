@@ -8,17 +8,18 @@ menu: yes
 
 * Twitter: [SecTalks](https://twitter.com/sectalks)
 * Email: [sydney@sectalks.org](mailto:sydney@sectalks.org)
-* [https://meetup.com/sectalks](Meetup)
-* [https://ctf.syd.sectalks.org](CTF dashboard)
+* [Meetup](https://meetup.com/sectalks)
+* [CTF dashboard](https://ctf.syd.sectalks.org)
 
 ## Organising team 
 
 * [@pi3ch](https://twitter.com/pi3ch) 
-* [@gszathmari](https://twitter.com/gszathmari)
 * [@darkdefender](https://twitter.com/minimaltalking)
-* @MagikarpKing (Discord: @MagikarpKing#8958)
 * [@satiex](https://twitter.com/satiexx)
 * @kat
+* [idont](https://twitter.com/idont_party)
+* [@gszathmari](https://twitter.com/gszathmari)
+* [@MagikarpKing](Discord:@MagikarpKing#8958)
 
 ## Date & Time 
 
