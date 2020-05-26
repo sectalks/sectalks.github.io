@@ -62,7 +62,7 @@ You can either contact SecTalks organiser in your local area or
 reach us at
 
 * [guru@sectalks.org](mailto:guru@sectalks.org)
-* [irc.sectalks.org:6697](https://kiwiirc.com/client/irc.sectalks.org:+6697/sectalks) (SSL) channel: *#sectalks*
+* [chat.freenode.com](https://kiwiirc.com/client/chat.freenode.com:+7000/##sectalks) channel: *##sectalks*
 * [sectalks.slack.com](https://sectalks.slack.com)
 
 # 'No bullshit!' clause
