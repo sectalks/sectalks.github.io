@@ -66,14 +66,14 @@ RSVP to upcoming meetups.
    title="Google Sydney">
     <img src="{{ site.baseurl }}/images/sponsors/google.png" 
          alt="Google Sydney"
-         class="sponsor">
+         class="sponsor-med">
 </a>
 
 <a href="https://j.mp/1qgPo0a" 
    title="SecDim">
     <img src="{{ site.baseurl }}/images/sponsors/secdim.png" 
          alt="SecDim"
-         class="sponsor">
+         class="sponsor-med">
 </a>
 
 
