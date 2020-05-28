@@ -13,7 +13,7 @@ menu: yes
 
 ## Equipe SecTalks Brasil
 
-* [@FernandoAndreazi](https://twitter.com/fandreazi) 
+* [@FernandoAndreazi](https://twitter.com/fandreazi)
 * [@GustavoMagella](https://twitter.com/gustavomagella)
 * [@AlbertoOliveira](https://twitter.com/_AlbertoOliveir)
 * [@DanielDonda](https://twitter.com/DanielDonda)
@@ -31,7 +31,7 @@ Estamos sempre à procura de palestrantes.
 
 Daremos preferência as palestras entre 5-10 minutos , ou apresentações de 30 minutos.
 
-Nossas palestras são informais e visam um público mais técnico de segurança da informação. 
+Nossas palestras são informais e visam um público mais técnico de segurança da informação.
 
 E pedimos por gentileza que não faça apresentações voltadas ao marketing. (Embora você seja bem-vindo para apresentar um tópico ou projeto relacionado ao seu trabalho).
 
@@ -39,7 +39,7 @@ Entre em contato conosco, para batermos um bapo.
 
 ## Mas eu sou novo em Segurança da Informação, posso participar?
 
-SIM! O SecTalks está sempre aberto a todos que desejam aprender e discutir sobre Cibersegurança. Participe dos nossos eventos online e nossos Meetups presenciais, faça parte da nossa comunidade. 
+SIM! O SecTalks está sempre aberto a todos que desejam aprender e discutir sobre Cibersegurança. Participe dos nossos eventos online e nossos Meetups presenciais, faça parte da nossa comunidade.
 
 ## Apoiadores e Patrocínio
 
@@ -48,10 +48,10 @@ SIM! O SecTalks está sempre aberto a todos que desejam aprender e discutir sobr
 * Email: [andreazi@live.com](mailto:andreazi@live.com)
 * Meetup: [SecTalks [São Paulo]](https://www.meetup.com/SecTalks-Sao-Paulo/)
 
-<a href="https://www.facebook.com/quintasdati" 
+<a href="https://www.facebook.com/quintasdati"
    title="">
-    <img src="https://www.facebook.com/quintasdati/photos/a.488737004565001/794664883972210" 
-         alt="" 
+    <img src="https://www.facebook.com/quintasdati/photos/a.488737004565001/794664883972210"
+         alt=""
          class="sponsor">
 </a>
 
@@ -62,5 +62,3 @@ Inscreva-se em [nosso calendário](http://www.meetup.com/SecTalks-Sao-Paulo/even
 * [iCal](webcal://www.meetup.com/SecTalks-Sao-Paulo/events/ical/)
 * [Outlook](http://www.meetup.com/SecTalks-Sao-Paulo/events/ical/)
 * [RSS](http://www.meetup.com/SecTalks-Sao-Paulo/events/rss/)
-
-<iframe src="https://calendar.google.com/calendar/b/3/embed?height=600&amp;wkst=1&amp;bgcolor=%23FFFFFF&amp;src=civ24t22ah3kb8lv497bjqik119p4jln%40import.calendar.google.com&amp;color=%23691426&amp;ctz=America%2FSao_Paulo" style="border-width:0" width="800" height="600" frameborder="0" scrolling="no"></iframe>
