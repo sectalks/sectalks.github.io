@@ -34,7 +34,8 @@ Quer ser um Patrocinador? Entre em contato conosco
 ## Próximo meetup
 
 JPA0x01 - 04/06/2020
-    Eduardo Santos
+
+### Eduardo Santos
     Título: Obtendo e Analisando uma Evidência Digital
     Resumo:
     A palestra trará tópicos sobre obtenção e análise de evidências digitais em processos de investigação forense, um overview sobre algumas ferramentas e procedimentos.
