@@ -49,23 +49,23 @@ RSVP to upcoming meetups.
 ## Sponsors
 
 <a href="https://pwc.to/2FcpqF4" 
-   title="PWC Sydney">
+   title="PWC">
     <img src="{{ site.baseurl }}/images/sponsors/pwc.jpg" 
-         alt="PWC Sydney"
+         alt="PWC"
          class="sponsor">
 </a>
 
 <a href="https://bit.ly/2OUPAkk" 
-   title="Atlassian Sydney">
+   title="Atlassian">
     <img src="{{ site.baseurl }}/images/sponsors/atlassian.png" 
          alt="Atlassian"
          class="sponsor-med">
 </a>
 
 <a href="https://bit.ly/2IiKrCm" 
-   title="Google Sydney">
+   title="Google">
     <img src="{{ site.baseurl }}/images/sponsors/google.png" 
-         alt="Google Sydney"
+         alt="Google"
          class="sponsor-med">
 </a>
 
@@ -76,7 +76,12 @@ RSVP to upcoming meetups.
          class="sponsor-med">
 </a>
 
-
+<a href="https://j.mp/3eiTfEC" 
+   title="Amazon Information Security">
+    <img src="{{ site.baseurl }}/images/sponsors/amazon.png" 
+         alt="Amazon Information Security"
+         class="sponsor-med">
+</a>
 
 ## Calendar 
 
