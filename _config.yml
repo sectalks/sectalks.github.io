@@ -1,7 +1,7 @@
 # Site settings
 title:       "SecTalks - Monthly technical (in)security talks and hands-on CTF"
 email:       "guru@sectalks.org"
-author:      "SecTalks Founders"
+author:      "SecTalks Founder"
 description: "Monthly technical (in)security talks and hands-on CTF, no bullshit!"
 baseurl:     ""
 url:         "https://www.sectalks.org"
@@ -31,7 +31,7 @@ disqus_shortname:
 # Social icons
 show_social_icons: true
 github_username: sectalks
-irc_server: irc://irc.sectalks.org:+6697/sectalks
+irc_server: "irc://chat.freenode.com:+7000/##sectalks"
 twitter_username: sectalks
 linkedin_username: sectalks
 bitcoin_url:
