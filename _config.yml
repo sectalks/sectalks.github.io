@@ -53,9 +53,10 @@ share_stumbleupon: false
 share_hackernews: false
 
 # Build settings
-markdown:     redcarpet
-redcarpet:
-  extensions: ['smart', 'tables', 'with_toc_data']
+#markdown:     redcarpet
+#redcarpet:
+#  extensions: ['smart', 'tables', 'with_toc_data']
+markdown: kramdown
 permalink:    pretty
 paginate:     5
 paginate_path: "/blog/page:num/"
