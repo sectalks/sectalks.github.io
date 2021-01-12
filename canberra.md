@@ -25,28 +25,28 @@ Free!
 
 ## Location 
 
-SecTalks Canberra is (now) held at Vault Cloud, located at [West Tower, Level 5, 2 Constitution Avenue Building] East Row, Canberra](https://goo.gl/maps/WxFTfkzqBb52).
+SecTalks Canberra is currently without a fixed home and will instead be a super underground infosec collective - or you can just check on Meetup/Twitter to see where we'll be this month :)
 
 ## Sponsors
 
-#### Drinks
-<a href="https://www.tsscyber.com.au/" 
-   title="Datacom TSS">
-    <img src="{{ site.baseurl }}/images/sponsors/TSS_Logo_CMYK.png" 
-         alt="TSS">
+### Fifth Domain
+<a href="https://fifthdomain.com.au/" 
+   title="Fifth Domain">
+    <img src="{{ site.baseurl }}/images/sponsors/FifthDomain_Logo_Inline-Colour.png" 
+         alt="Fifth Domain">
 </a>
 
-#### Catering
-<a href="https://ionize.com.au/" 
-   title="Ionize">
-    <img src="{{ site.baseurl }}/images/sponsors/ionize.jpg" 
-         alt="Ionize">
+### Airglow Security
+<a href="https://airglowsecurity.com.au/" 
+   title="Airglow Security">
+    <img src="{{ site.baseurl }}/images/sponsors/Airglow_Security.jpg" 
+         alt="Airglow Security">
 
-#### Venue
-<a href="https://dronesec.com.au" 
-   title="DroneSec">
-    <img src="{{ site.baseurl }}/images/sponsors/DroneSec.png" 
-         alt="DroneSec">
+### CyberCX
+<a href="https://cybercx.com.au/" 
+   title="CyberCX">
+    <img src="{{ site.baseurl }}/images/sponsors/CyberCX_Logo.png" 
+         alt="CyberCX">
 
 ## Preparation
 
