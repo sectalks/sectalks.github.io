@@ -27,7 +27,7 @@ You may also want to follow [@sectalks_twb](https://twitter.com/sectalks_twb) on
 
 The [meetup page](https://meetup.com/SecTalks-Toowoomba) has the latest schedule.
 
-Currently we are hosting virtual sessions. RSVP at the meetup page to get the link.
+Currently we are hosting hybrid sessions, both in person and virtually. RSVP at the meetup page to get the link.
 
 ## Looking to present?
 
