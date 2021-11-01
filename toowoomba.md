@@ -42,17 +42,24 @@ There will be people willing to mentor you on the day, and you'll be solving CTF
 ## Sponsors
 Thanks to our great sponsors for making SecTalks Toowoomba happen.
 
-#### Intalock
+#### Acumenis
 
-<a href="https://www.intalock.com.au/" 
-   title="Intalock: Sponsor for SecTalks Toowoomba.">
-    <img src="{{ site.baseurl }}/images/sponsors/Intalock.png" 
-         alt="Intalock: Sponsor for SecTalks Toowoomba.">
+<a href="https://www.acumenis.com.au/" 
+   title="Acumenis: Keeping it free - sponsor for SecTalks Toowoomba.">
+    <img src="{{ site.baseurl }}/images/sponsors/Acumenis.png" 
+         alt="Acumenis: Sponsor for SecTalks Toowoomba.">
 </a>
 #### Cisco
 
 <a href="https://www.talosintelligence.com/" 
-   title="Cisco: On-going catering sponsor for SecTalks Toowoomba.">
+   title="Cisco: Catering and streaming sponsor for SecTalks Toowoomba.">
     <img src="{{ site.baseurl }}/images/sponsors/cisco.jpg" 
          alt="Cisco: Sponsor for SecTalks Toowoomba.">
 </a>
+#### USQ
+
+<a href="https://www.usq.edu.au/" 
+   title="USQ: Venue sponsor for SecTalks Toowoomba.">
+    <img src="{{ site.baseurl }}/images/sponsors/USQ.png" 
+         alt="USQ: Sponsor for SecTalks Toowoomba.">
+   </a>
