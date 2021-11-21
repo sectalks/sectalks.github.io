@@ -58,10 +58,10 @@ RSVP to upcoming meetups.
          class="sponsor-med">
 </a>
 
-<a href="https://www.elttam.com.au/?utm_source=sectalkhome&utm_medium=sponsor&utm_term=sectalks&utm_campaign=sectalks"
-   title="Elttam: CTF servers and online hosting">
-    <img src="{{ site.baseurl }}/images/sponsors/elttam.png"
-         alt="elttam:  CTF servers and online hosting"
+<a href="https://www.secdim.com/"
+   title="SecDim: CTF servers and online hosting">
+    <img src="{{ site.baseurl }}/images/sponsors/secdim.png"
+         alt="SecDim:  CTF servers and online hosting"
          class="sponsor">
 </a>
 

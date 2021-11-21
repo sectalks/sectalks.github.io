@@ -14,12 +14,9 @@ menu: yes
 ## Organising team 
 
 * [@pi3ch](https://twitter.com/pi3ch) 
-* [@darkdefender](https://twitter.com/minimaltalking)
 * [@satiex](https://twitter.com/satiexx)
 * @kat
-* [@idont](https://twitter.com/idont_party)
 * [@gszathmari](https://twitter.com/gszathmari)
-* [@MagikarpKing](Discord:@MagikarpKing#8958)
 
 ## Date & Time 
 
@@ -48,24 +45,17 @@ RSVP to upcoming meetups.
 
 ## Sponsors
 
-<a href="https://pwc.to/2FcpqF4" 
-   title="PWC">
-    <img src="{{ site.baseurl }}/images/sponsors/pwc.jpg" 
-         alt="PWC"
-         class="sponsor">
-</a>
-
-<a href="https://bit.ly/2OUPAkk" 
-   title="Atlassian">
-    <img src="{{ site.baseurl }}/images/sponsors/atlassian.png" 
-         alt="Atlassian"
-         class="sponsor-med">
-</a>
-
 <a href="https://bit.ly/2IiKrCm" 
    title="Google">
     <img src="{{ site.baseurl }}/images/sponsors/google.png" 
          alt="Google"
+         class="sponsor-med">
+</a>
+
+<a href="https://j.mp/3eiTfEC" 
+   title="Amazon Information Security">
+    <img src="{{ site.baseurl }}/images/sponsors/amazon.png" 
+         alt="Amazon Information Security"
          class="sponsor-med">
 </a>
 
@@ -76,12 +66,6 @@ RSVP to upcoming meetups.
          class="sponsor-med">
 </a>
 
-<a href="https://j.mp/3eiTfEC" 
-   title="Amazon Information Security">
-    <img src="{{ site.baseurl }}/images/sponsors/amazon.png" 
-         alt="Amazon Information Security"
-         class="sponsor-med">
-</a>
 
 ## Calendar 
 
