@@ -17,6 +17,8 @@ menu: yes
 * [@satiex](https://twitter.com/satiexx)
 * @kat
 * [@gszathmari](https://twitter.com/gszathmari)
+* [@Mal_Archaeology](https://twitter.com/Mal_Archaeology)
+* [@hndanesh](https://twitter.com/hndanesh) 
 
 ## Date & Time 
 
