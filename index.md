@@ -40,6 +40,7 @@ SecTalks is organised in the following cities. Visit each city page to know more
 * [Melbourne, Australia](./melbourne)
 * [London, UK](./london)
 * [Canberra, Australia](./canberra)
+* [Gold Coast, Australia](./goldcoast)
 * [Adelaide, Australia](./adelaide)
 * [Beijing, China](./beijing)
 * [Ljubljana, Slovenia](./ljubljana)
