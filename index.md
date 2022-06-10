@@ -40,7 +40,6 @@ SecTalks is organised in the following cities. Visit each city page to know more
 * [Melbourne, Australia](./melbourne)
 * [London, UK](./london)
 * [Canberra, Australia](./canberra)
-* [Gold Coast, Australia](./goldcoast)
 * [Adelaide, Australia](./adelaide)
 * [Beijing, China](./beijing)
 * [Ljubljana, Slovenia](./ljubljana)
@@ -52,6 +51,7 @@ SecTalks is organised in the following cities. Visit each city page to know more
 * [São Paulo, Brazil](./sao)
 * [João Pessoa, Brazil](./joaopessoa)
 * [Daegu, South Korea](./daegu)
+* [Gold Coast, Australia](./goldcoast)
 
 # Calendar
 For event calendar in your local timezone, please visit the above city pages.
