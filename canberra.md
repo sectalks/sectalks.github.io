@@ -8,16 +8,15 @@ menu: yes
 
 * Twitter: [@SecTalksCbr](https://twitter.com/sectalkscbr)
 * Email: [canberra@sectalks.org](mailto:canberra@sectalks.org)
-* Meetup: [Canberra Meetup Page](http://www.meetup.com/SecTalks-Canberra/)
 
 ## Organising team 
 
 * syngularity0 - [@syngularity0](https://twitter.com/syngularity0)
-* Canberra Founder: Peleus - [@0x42424242](https://twitter.com/0x42424242) 
+* boo - [@bitter_knitter7](https://twitter.com/bitter_knitter7)
 
 ## Date & Time 
 
-SecTalks Canberra is held on the second Tuesday of each month. Check out the [Meetup page](http://www.meetup.com/SecTalks-Canberra/) for the latest details and to RSVP.
+SecTalks Canberra is held on the second Wednesday of each month, starting at 7 pm.
 
 ## Cost
 
@@ -25,45 +24,26 @@ Free!
 
 ## Location 
 
-SecTalks Canberra is currently without a fixed home and will instead be a super underground infosec collective - or you can just check on Meetup/Twitter to see where we'll be this month :)
+SecTalks Canberra is currently held at 1UP (upstairs, with the entrance between Reload and Token)
+
+<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d814.2698470101196!2d149.1284542499129!3d-35.27915239541653!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x6b164d2635d515ef%3A0x6637b50ab5d1ccd1!2sToken%20Arcade%20and%20Kitchen!5e0!3m2!1sen!2sau!4v1676766231758!5m2!1sen!2sau" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 
 ## Sponsors
 
-### Fifth Domain
-<a href="https://fifthdomain.com.au/" 
-   title="Fifth Domain">
-    <img src="{{ site.baseurl }}/images/sponsors/FifthDomain_Logo_Inline-Colour.png" 
-         alt="Fifth Domain">
-</a>
-
-### Airglow Security
-<a href="https://airglowsecurity.com.au/" 
-   title="Airglow Security">
-    <img src="{{ site.baseurl }}/images/sponsors/Airglow_Security.jpg" 
-         alt="Airglow Security">
-
-### CyberCX
-<a href="https://cybercx.com.au/" 
-   title="CyberCX">
-    <img src="{{ site.baseurl }}/images/sponsors/CyberCX_Logo.png" 
-         alt="CyberCX">
+### Please reach out to @boo or @syn to discuss sponsorship!
 
 ## Preparation
 
-1. *Please bring a laptop along* on the night (and your power adapter)
-2. Install a hypervisor on your laptop. VirtualBox is a good free choice. You can download that [here](https://www.virtualbox.org/wiki/Downloads).
-3. Grab a copy of Kali - avaliable [here](https://www.kali.org/downloads/).
-4. Internet is available! (but please run updates for your host OS and any VMs before coming along, so you don't chew up bandwidth)
-5. People will be more than happy to give you a hand on the night if you're not confident with virtualisation.
-
-tl;dr - if you rock up with a laptop and a way of running virtual machines you'll be okay to go on the night.
+1. Please be awesome!
+2. Please grok the [SecTalks Code of Conduct](https://www.sectalks.org/coc/)
+3. Appear and learn!
 
 ## Want to Speak or Present?
 
-Whether it is a [lightning talk](https://en.wikipedia.org/wiki/Lightning_talk), an introduction to a tool or concept, or a hands-on workshop, SecTalks is great place to get feedback and improve on. We encourage first-time speakers and anyone who would like to share their knowledge with the community to get in touch via [Twitter](https://twitter.com/SecTalksCbr) or just talking to an organiser after a meetup.
+Whether it is a [lightning talk](https://en.wikipedia.org/wiki/Lightning_talk), an introduction to a tool or concept, or a hands-on workshop, SecTalks is great place to try presenting in front of a small, friendly crowd in a nice, informal setting. We encourage first-time speakers and anyone who would like to share their knowledge with the community to get in touch via [Twitter](https://twitter.com/SecTalksCbr), [email](mailto:canberra@sectalks.org) or just talking to an organiser at a meetup.
 
 ## Joining Us
 
-SecTalks is always open to anyone who is keen to learn information security. It's a community event for students, professionals, hobbyists, curious people and anyone in between. Our community engagements will always be free for participants. 
+SecTalks is always open to anyone who is keen to learn information security. It's a community event for students, professionals, hobbyists, curious folks and anyone in between. Our community engagements will always be free for participants. 
 
 Please check out the [Code of Conduct](http://www.sectalks.org/coc/).
