@@ -25,7 +25,7 @@ SecTalks is turning 10 years old! Does that make you feel super old? It should!
 
 ## How
 
-Two day conference. With workshops. And other cool stuff we haven't yet figured out, but we definitely will ahead of time. And hopefully remember to tell you about. 
+Two day conference. With workshops. And other cool stuff we haven't yet figured out, but we definitely will ahead of time. And hopefully remember to tell you about.
 
 ### and finally...
 
@@ -33,11 +33,11 @@ Two day conference. With workshops. And other cool stuff we haven't yet figured 
 
 Us! And, hopefully...you!
 
-### Organisers 
+### Call for Content
 
-@pi3ch
-/~ and others! /~
+We're on the lookout for cool and interesting content.
+It can be a technical talk, a workshop, a CTF challenge or
+any activity (like a game) that brings members together.
 
-### Call for Papers, Workshops and Volunteers
-
-We're on the lookout for cool and interesting presentations, workshops and also volunteers to help make the day go swimmingly for everyone. Watch this space for more information!
+Watch this space
+for more information!
