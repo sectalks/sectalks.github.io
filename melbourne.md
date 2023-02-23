@@ -7,6 +7,7 @@ menu: yes
 ## Contact 
 
 * Twitter: [@sectalks_MEL](https://twitter.com/sectalks_MEL)
+* Mastodon: [@SecTalks-MEL](https://infosec.exchange/@SecTalksMEL)
 * Email: [melbourne@sectalks.org](mailto:melbourne@sectalks.org)
 * Meetup: [http://www.meetup.com/SecTalks-Melbourne/](http://www.meetup.com/SecTalks-Melbourne/)
 
@@ -16,8 +17,9 @@ menu: yes
 * [@securitymeta](https://twitter.com/securitymeta_) 
 * [Barnie]
 * [OpSys]
-* [Hoodie]
+* [hoodiePony](https://infosec.exchange/@hoodiePony) (@hoodie on Slack)
 * [sml555]
+* [Flux]
 
 ## Date & Time 
 
