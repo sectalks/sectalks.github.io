@@ -7,6 +7,7 @@ menu: yes
 ## Contact
 
 * Twitter: [SecTalks](https://twitter.com/sectalks)
+* Mastodon: [@SecTalks](https://infosec.exchange/@SecTalks)
 * Email: [sydney@sectalks.org](mailto:sydney@sectalks.org)
 * [Meetup](https://meetup.com/sectalks)
 * [CTF dashboard](https://ctf.syd.sectalks.org)
