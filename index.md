@@ -52,6 +52,7 @@ SecTalks is organised in the following cities. Visit each city page to know more
 * [João Pessoa, Brazil](./joaopessoa)
 * [Daegu, South Korea](./daegu)
 * [Gold Coast, Australia](./goldcoast)
+* [Darwin, Australia](./darwin)
 
 # Calendar
 For event calendar in your local timezone, please visit the above city pages.
