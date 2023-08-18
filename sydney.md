@@ -55,19 +55,21 @@ RSVP to upcoming meetups.
          class="sponsor-med">
 </a>
 
-<a href="https://j.mp/3eiTfEC"
-   title="Amazon Information Security">
-    <img src="{{ site.baseurl }}/images/sponsors/amazon.png"
-         alt="Amazon Information Security"
-         class="sponsor-med">
-</a>
-
 <a href="https://j.mp/1qgPo0a"
    title="SecDim">
     <img src="{{ site.baseurl }}/images/sponsors/secdim.png"
          alt="SecDim"
          class="sponsor-med">
 </a>
+
+<a href="https://bit.ly/3qFNiwE"
+   title="TikTok Austrlia">
+    <img src="{{ site.baseurl }}/images/sponsors/tiktok.png"
+         alt="TikTok Australia"
+         class="sponsor-med">
+</a>
+
+
 
 
 ## Calendar
