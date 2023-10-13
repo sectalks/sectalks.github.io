@@ -12,9 +12,15 @@ menu: yes
 
 ## Organising team 
 
-* [Bull](https://twitter.com/RobertWinkel) 
-* [Michael Gianarakis](https://twitter.com/mgianarakis) 
-* [dook](https://twitter.com/dooktwit)
+* [Colby Prior](https://twitter.com/ColbyPrior)
+* [bman](https://twitter.com/bman013)
+* [nomad](https://twitter.com/nomadhax)
+* [Wade](https://twitter.com/WadeAlcorn)
+* (f3rn0s)[https://twitter.com/f3rn0s]
+* [Billy Retired]()
+* [Bull Retired](https://twitter.com/RobertWinkel) 
+* [Michael Gianarakis Retired](https://twitter.com/mgianarakis) 
+* [dook Retired](https://twitter.com/dooktwit)
 
 ## Date & Time 
 
