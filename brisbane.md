@@ -16,7 +16,7 @@ menu: yes
 * [bman](https://twitter.com/bman013)
 * [nomad](https://twitter.com/nomadhax)
 * [Wade](https://twitter.com/WadeAlcorn)
-* (f3rn0s)[https://twitter.com/f3rn0s]
+* [f3rn0s](https://twitter.com/f3rn0s)
 * [Billy Retired]()
 * [Bull Retired](https://twitter.com/RobertWinkel) 
 * [Michael Gianarakis Retired](https://twitter.com/mgianarakis) 
