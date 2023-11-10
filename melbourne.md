@@ -8,8 +8,12 @@ menu: yes
 
 * Twitter: [@sectalks_MEL](https://twitter.com/sectalks_MEL)
 * Mastodon: [@SecTalks-MEL](https://infosec.exchange/@SecTalksMEL)
+* BlueSky: [@sectalksmel](https://bsky.app/profile/sectalksmel.bsky.social)
 * Email: [melbourne@sectalks.org](mailto:melbourne@sectalks.org)
-* Meetup: [http://www.meetup.com/SecTalks-Melbourne/](http://www.meetup.com/SecTalks-Melbourne/)
+* Meetup RSPV : [https://events.humanitix.com/host/sectalks-mel](https://events.humanitix.com/host/sectalks-mel)
+* Legacy Meetup: [http://www.meetup.com/SecTalks-Melbourne/](http://www.meetup.com/SecTalks-Melbourne/)
+
+Note: From 2024, we are transitioning all RSVP, and eventually all announcements to be exclusively via Humanitix. Ending our use of Meetup.com.
 
 ## Organising team 
 
