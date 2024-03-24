@@ -6,13 +6,13 @@ menu: yes
 
 ## Contact 
 
+* LinkedIn: [SecTalks Canberra](https://www.linkedin.com/company/sectalks-canberra)
 * Twitter: [@SecTalksCbr](https://twitter.com/sectalkscbr)
 * Email: [canberra@sectalks.org](mailto:canberra@sectalks.org)
 
 ## Organising team 
 
-* syngularity0 - [@syngularity0](https://twitter.com/syngularity0)
-* boo - [@bitter_knitter7](https://twitter.com/bitter_knitter7)
+* boo - [LinkedIn](https://www.linkedin.com/in/boo-brianna-gladman) [@bitter_knitter7](https://twitter.com/bitter_knitter7)
 
 ## Date & Time 
 
