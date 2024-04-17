@@ -12,6 +12,7 @@ permalink: /goldcoast
 
 ## Organising team
 
+* [@eastsidemccarty](https://twitter.com/eastsidemccarty)
 * [@codingo_](https://twitter.com/codingo_)
 * [@CyberSecRicki](https://twitter.com/CyberSecRicki)
 
@@ -42,19 +43,12 @@ RSVP to upcoming meetups.
 
 ## Sponsors
 
-<a href="https://cybersecpeople.com"
-   title="CyberSec People">
-    <img src="{{ site.baseurl }}/images/sponsors/cybersecpeople.png"
+<a href="https://cyberauditteam.com"
+   title="Cyber Audit Team">
+    <img src="{{ site.baseurl }}/images/sponsors/cyberauditteam.png"
          alt="CyberSec People"
          class="sponsor-med"
          style="background-color: black">
-</a>
-
-<a href="https://www.bugcrowd.com/"
-   title="bugcrowd">
-    <img src="{{ site.baseurl }}/images/sponsors/bugcrowd.png"
-         alt="bugcrowd"
-         class="sponsor-med">
 </a>
 
 <a href="https://securestack.com"
