@@ -2,6 +2,7 @@
 layout: page
 title: Melbourne
 menu: yes
+permalink: /melbourne
 ---
 
 ## Contact 

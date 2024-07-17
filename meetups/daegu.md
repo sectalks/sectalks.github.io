@@ -2,7 +2,7 @@
 layout: page
 title: Daegu
 menu: yes
-
+permalink: /daegu
 ---
 
 ## Contact

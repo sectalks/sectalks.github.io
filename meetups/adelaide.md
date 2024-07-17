@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Adelaide
+permalink: /adelaide
 ---
 
 ### Contact

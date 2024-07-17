@@ -2,6 +2,7 @@
 layout: page
 title: Online Ninja Night
 menu: no
+permalink: /online-ninja-night
 ---
 
 Online Ninja Night is similar to the [Ninja Night](/formats) but we team up and play it online. Online Ninja Night is great way to team up with SecTalks members in other cities.

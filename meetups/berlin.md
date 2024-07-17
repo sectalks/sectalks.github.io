@@ -2,6 +2,7 @@
 layout: page
 title: Berlin
 menu: yes
+permalink: /berlin
 ---
 
 ## Contact

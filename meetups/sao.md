@@ -2,6 +2,7 @@
 layout: page
 title: SecTalks [São Paulo]
 menu: yes
+permalink: /sao
 ---
 
 ## Contato

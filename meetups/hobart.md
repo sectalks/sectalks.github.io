@@ -2,6 +2,7 @@
 layout: page
 title: Hobart
 menu: yes
+permalink: /hobart
 ---
 
 ## Contact
