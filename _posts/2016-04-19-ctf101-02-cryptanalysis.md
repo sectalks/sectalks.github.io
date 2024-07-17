@@ -7,7 +7,7 @@ categories: ctf101
 
 This is the second presentation of SecTalks CTF101 workshops.
 
-###Topics
+### Topics
 
 * Common ciphers
 * What is cryptanalysis
@@ -15,6 +15,7 @@ This is the second presentation of SecTalks CTF101 workshops.
 * Cryptanalysis using Python
 
 
-###Download
+### Download
+
 * [Presentation](/ctf101/02-cryptanalysis/CTF%20101%20-%20Cryptanalysis.pdf)
 * [Files](https://github.com/sectalks/sectalks.github.io/tree/master/ctf101/02-cryptanalysis)
