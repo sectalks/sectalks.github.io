@@ -1,26 +1,26 @@
 ---
 layout: page
-title: Brisbane 
+title: Brisbane
 menu: yes
 ---
 
-## Contact 
+## Contact
 
 * Twitter: [@sectalks_BNE](https://twitter.com/sectalks_BNE)
 * Email: [brisbane@sectalks.org](mailto:brisbane@sectalks.org)
 * Meetup: [http://www.meetup.com/SecTalks-Brisbane/](http://www.meetup.com/SecTalks-Brisbane/)
 
-## Organising team 
+## Organising team
 
 * [Colby Prior](https://twitter.com/ColbyPrior)
 * [bman](https://twitter.com/bman013)
 * [nomad](https://twitter.com/nomadhax)
 * [Wade](https://twitter.com/WadeAlcorn)
 * [f3rn0s](https://twitter.com/f3rn0s)
-* [Billy Retired]()
-* [Bull Retired](https://twitter.com/RobertWinkel) 
-* [Michael Gianarakis Retired](https://twitter.com/mgianarakis) 
-* [dook Retired](https://twitter.com/dooktwit)
+* [Billy (Retired)]()
+* [Bull (Retired)](https://twitter.com/RobertWinkel)
+* [Michael Gianarakis (Retired)](https://twitter.com/mgianarakis)
+* [dook (Retired)](https://twitter.com/dooktwit)
 
 ## Date & Time 
 

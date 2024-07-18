@@ -1,25 +1,20 @@
-
-
 <footer class="footer">
-  <div class="p2 wrap">
-    <div class="measure mt1 center">
-      <small>
-      <nav class="site-nav right">
+    <div>
+      <div class="nav">
         {% include navigation.html %}
-      </nav>
-      <br>
-      <nav class="site-nav right">
+      </div>
+      <div class="cities">
         {% include nav-cities.html %}
-      </nav>
-      <div class="clearfix"></div>
+      </div>
       {% if site.show_social_icons %}
+      <div class="socials">
         {% include social_links.html %}
+      </div>
       {% endif %}
-        Help to improve this page on <a href="https://github.com/sectalks/sectalks.github.io">Github</a>.
-        <br>
-        <a class="page-link" href="{{ "/yourcity" | prepend: site.baseurl }}">Run a local SecTalks!</a>
-      </small>
-    </div>
+      <div class="call-to-action">
+      <p>Help to improve this page on <a href="https://github.com/sectalks/sectalks.github.io">Github</a>.</p>
+      <a class="page-link" href="{{ "/yourcity" | prepend: site.baseurl }}">Run a local SecTalks!</a>
+      </div>
   </div>
 </footer>
 
@@ -31,5 +26,4 @@
 
   ga('create', 'UA-66166337-4', 'auto');
   ga('send', 'pageview');
-
 </script>
