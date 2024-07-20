@@ -128,7 +128,7 @@ a {
     text-shadow: 0 1px 0 var(--gray-4);
     border-radius: var(--radius-3);
 
-    &:hover {
+    &:not(.disabled):hover {
       filter: brightness(115%);
     }
   }
@@ -190,12 +190,43 @@ footer > div > .call-to-action {
   }
 }
 
+.posts > .post > .post-meta {
+  font-style: italic;
+  color: var(--gray-6);
+  line-height: 0rem;
+}
+
 /* In the blog section, show post-meta and post-link closer grouped */
-.posts > .post > :is(.post-meta, .post-link) {
-  line-height: 0.65rem;
+.posts > .post > :is(.post-meta, .post-link, .post-summary) {
+  margin: 0;
 }
 
 /* Remove the margin from post-summary, since it's not needed */
 .posts > .post > .post-summary {
   margin: 0;
+}
+
+/* Style the newer/older buttons at the bottom of the blog list */
+.pagination {
+  display: flex;
+  justify-content: space-between;
+  column-gap: var(--size-3);
+
+  .button {
+    padding: 20px 30px 20px;
+    color: white;
+    font-weight: 400;
+    text-align: center;
+    background-color: var(--link);
+    text-shadow: 0 1px 0 var(--gray-4);
+    border-radius: var(--radius-3);
+
+    &:is(.disabled) {
+      background-color: var(--gray-4) !important;
+    }
+
+    &:not(.disabled):hover {
+      filter: brightness(115%);
+    }
+  }
 }
