@@ -82,5 +82,5 @@ SecTalks is looking for sponsors in the following areas.
 * Server and online subscriptions
 * Other
 
-Contact [guru@sectalks.org](mailto:guru@sectalks.org) or your [local Sectalks organiser](http://www.sectalks.org/#where) for the sponsorship options and benefits.
+Contact [guru@sectalks.org](mailto:guru@sectalks.org) or your [local Sectalks organiser]({{ site.baseurl }}/#where) for the sponsorship options and benefits.
 
