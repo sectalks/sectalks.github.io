@@ -52,21 +52,24 @@ RSVP to upcoming meetups.
    title="Google">
     <img src="{{ site.baseurl }}/images/sponsors/google.png"
          alt="Google"
-         class="sponsor-med">
+         class="sponsor-med"
+         style="background-color: transparent">
 </a>
 
 <a href="https://j.mp/1qgPo0a"
    title="SecDim">
     <img src="{{ site.baseurl }}/images/sponsors/secdim.png"
          alt="SecDim"
-         class="sponsor-med">
+         class="sponsor-med"
+         style="background-color: transparent">
 </a>
 
 <a href="https://bit.ly/3qFNiwE"
    title="TikTok Austrlia">
     <img src="{{ site.baseurl }}/images/sponsors/tiktok.png"
          alt="TikTok Australia"
-         class="sponsor-med">
+         class="sponsor-med"
+         style="background-color: transparent">
 </a>
 
 

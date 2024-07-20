@@ -62,14 +62,15 @@ RSVP to upcoming meetups.
    title="SecDim: CTF servers and online hosting">
     <img src="{{ site.baseurl }}/images/sponsors/secdim.png"
          alt="SecDim:  CTF servers and online hosting"
-         class="sponsor">
+         class="sponsor-med"
+         style="background-color: transparent">
 </a>
 
 <a href="https://www.tokens.net/"
    title="Tokens.net">
     <img src="{{ site.baseurl }}/images/sponsors/tokens-logo-white.png"
          alt="Tokensnet"
-         class="sponsor">
+         class="sponsor-med">
 </a>
 
 

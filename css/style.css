@@ -225,3 +225,12 @@ footer {
   justify-content: space-between;
   column-gap: var(--size-3);
 }
+
+.sponsor-med {
+  display: block;
+  margin: 0 auto 0;
+  width: 40%;
+  border-radius: 0;
+  background-color: white;
+  padding: 20px;
+}

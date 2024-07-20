@@ -48,21 +48,26 @@ Thanks to our great sponsors for making SecTalks Toowoomba happen.
    title="Acumenis: Keeping it free - sponsor for SecTalks Toowoomba.">
     <img src="{{ site.baseurl }}/images/sponsors/Acumenis.png" 
          alt="Acumenis: Sponsor for SecTalks Toowoomba."
-         width="300">
+         class="sponsor-med"
+         style="background-color: #333c40">
 </a>
+
 #### Cisco
 
-<a href="https://www.talosintelligence.com/" 
+<a href="https://www.talosintelligence.com/"
    title="Cisco: Catering and streaming sponsor for SecTalks Toowoomba.">
-    <img src="{{ site.baseurl }}/images/sponsors/cisco.jpg" 
+    <img src="{{ site.baseurl }}/images/sponsors/talos.svg"
          alt="Cisco: Sponsor for SecTalks Toowoomba."
-         width="300">
+         class="sponsor-med"
+         style="background-color: black">
 </a>
+
 #### USQ
 
 <a href="https://www.usq.edu.au/" 
    title="USQ: Venue sponsor for SecTalks Toowoomba.">
     <img src="{{ site.baseurl }}/images/sponsors/USQ.png" 
          alt="USQ: Sponsor for SecTalks Toowoomba."
-         width="300">
+         class="sponsor-med"
+         style="background-color: transparent">
    </a>
