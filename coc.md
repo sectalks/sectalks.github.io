@@ -76,5 +76,5 @@ We value your attendance.
 We expect all SecTalks attendees to abide by this code of conduct at all event venues.
 
 
-Thanks to Geek Feminism (http://geekfeminism.wikia.com/wiki/Conference_anti-harassment) for 
+Thanks to Geek Feminism ([https://geekfeminism.fandom.com/wiki/Conference_anti-harassment/Policy](https://geekfeminism.fandom.com/wiki/Conference_anti-harassment/Policy)) for
 guidance and templates.
