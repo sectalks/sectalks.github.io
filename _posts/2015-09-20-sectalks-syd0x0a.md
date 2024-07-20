@@ -6,23 +6,24 @@ categories: meetup sydney
 ---
 Online Ninja Night is similar to the Ninja Night but we team up and play it online. Online Ninja Night is great way to team up with SecTalks members in other cities.
 
-#When
+# When
 
 NN0x00: Sunday, 20 September 2015 at 2PM AEST (11am AWST)
 
-#Where
+# Where
 
 Online at irc.sectalks.org, (private channel)
 
-#Who can play?
+# Who can play?
 
 This session is only available to SecTalks members in Perth, Brisbane and Sydney.
 
-#How to register?
+# How to register?
 
 Complete <REMOVED>
 
 Find out more about Online Ninja Night at http://www.sectalks.org/online-ninja-night/
 
-#Questions?
+# Questions?
+
 Contact sydney@sectalks.org

@@ -6,7 +6,7 @@ categories: meetup perth
 ---
 0x0b (Twelfth session)
 
-#1 2001::/8 an address space oddity
+# 1 2001::/8 an address space oddity
 
 Learn all about IPv6 security with swarley! Or rather, learn about the
 mistakes of the past, and how they are likely to be known as mistakes in
@@ -16,7 +16,7 @@ mentioned...
 by
 swarley
 
-#2 Solution to Challenge 0x06
+# 2 Solution to Challenge 0x06
 
 squeek
 

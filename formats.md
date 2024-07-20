@@ -6,7 +6,7 @@ menu: yes
 
 SecTalks events are currently held in three formats.
 
-#1. Talk & long CTF
+# 1. Talk & long CTF
 
 1. Presentation on a technical IT security topic for 15 to 25 minutes
 1. Q&A for 5 to 10 minutes
@@ -17,8 +17,7 @@ SecTalks events are currently held in three formats.
 Teams have time **until the next meetup** to solve the CTF and submit the flag.
 The winning team will also go through their solution in an informal presentation.
 
-
-#2. Talk & short CTF
+# 2. Talk & short CTF
 
 1. Presentation on a technical IT security topic for 15 to 25 minutes
 1. Q&A for 5 to 10 minutes
@@ -28,7 +27,7 @@ The winning team will also go through their solution in an informal presentation
 
 Teams have **60 minutes** to solve the CTF. The winning team will talk through their solution in the same session.
 
-#3. Ninja night
+# 3. Ninja night
 
 There is **no presentation** at a Ninja Night. 
 This is a session where you show off your ninja skills. A typical evening goes like this, we rock up at a pub

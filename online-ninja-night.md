@@ -6,19 +6,19 @@ menu: no
 
 Online Ninja Night is similar to the [Ninja Night](/formats) but we team up and play it online. Online Ninja Night is great way to team up with SecTalks members in other cities.
 
-##When
+## When
 
 NN0x00: Sunday, 20 September 2015 at 2PM AEST (11am AWST)
 
-##Where
+## Where
 
 Online at irc.sectalks.org, (private channel)
 
-##Who can play?
+## Who can play?
 
 This session is only available to SecTalks members in Perth, Brisbane and Sydney.
 
-##How to register?
+## How to register?
 
 Instruction will be sent through SecTalks members mailing list.
 
@@ -30,23 +30,23 @@ Instruction will be sent through SecTalks members mailing list.
 * 15min before start, we send out a message with your name and your team name.
 * CTF will be sent out and you team have 60min to solve it.
 
-##Flag
+## Flag
 
 Send the flag in the same IRC channel 
 
-##Winning team
+## Winning team
 
 The winning team will create the next 60min CTF challenge and submit a short write-up on their solution.
 
-##What if I get online late?
+## What if I get online late?
 
 Send a private message to the channel moderator
 
-##Can I use a different IRC nick than the one I registered?
+## Can I use a different IRC nick than the one I registered?
 
 Unregistered IRC nicknames will be kicked out
 
-##Where to send the write-up
+## Where to send the write-up
 
 As usual, pull and push a commit to [SecTalks github account](https://github.com/nanomebia/sectalks).
 

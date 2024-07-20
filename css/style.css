@@ -189,3 +189,11 @@ footer > div > .call-to-action {
     font-size: var(--font-size-1) !important;
   }
 }
+
+.posts > .post > :is(.post-meta, .post-link) {
+  line-height: 0.65rem;
+}
+
+.posts > .post > .post-summary {
+  margin: 0;
+}
