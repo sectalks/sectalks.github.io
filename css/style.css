@@ -52,16 +52,16 @@ li {
 /* Set our post and footer container to have nice widths on smaller screens */
 @media only screen and (max-width: 540px) {
   .post,
-  footer > div {
-    width: 320px;
+  .page-footer {
+    width: 320px !important;
   }
 }
 
 /* Set our post and footer container to have nice widths on mid-size screens */
 @media only screen and (min-width: 541px) and (max-width: 780px) {
   .post,
-  footer > div {
-    width: 480px;
+  .page-footer {
+    width: 480px !important;
   }
 }
 
@@ -118,19 +118,24 @@ a {
   display: flex;
   justify-content: center;
   column-gap: var(--size-3);
+}
 
-  .button {
-    padding: 20px 30px 20px;
-    color: white;
-    font-weight: 400;
-    text-align: center;
-    background-color: var(--link);
-    text-shadow: 0 1px 0 var(--gray-4);
-    border-radius: var(--radius-3);
+/* This styles all the buttons on the website */
+.button {
+  padding: 20px 30px 20px;
+  color: white;
+  font-weight: 400;
+  text-align: center;
+  background-color: var(--link);
+  text-shadow: 0 1px 0 var(--gray-4);
+  border-radius: var(--radius-3);
 
-    &:not(.disabled):hover {
-      filter: brightness(115%);
-    }
+  &:is(.disabled) {
+    background-color: var(--gray-4) !important;
+  }
+
+  &:not(.disabled):hover {
+    filter: brightness(115%);
   }
 }
 
@@ -152,7 +157,7 @@ footer {
   justify-content: center;
 }
 
-footer > div {
+.page-footer {
   display: flex;
   flex-direction: column;
   justify-content: center;
@@ -160,7 +165,7 @@ footer > div {
   width: 720px;
 }
 
-footer > div > :is(.nav, .cities) {
+.page-footer > :is(.nav, .cities) {
   display: flex;
   flex-flow: wrap;
   flex-direction: row;
@@ -168,7 +173,7 @@ footer > div > :is(.nav, .cities) {
   column-gap: 10px;
 }
 
-footer > div > .socials {
+.page-footer > .socials {
   padding-top: 10px;
   display: flex;
   flex-flow: wrap;
@@ -178,7 +183,7 @@ footer > div > .socials {
   font-size: var(--font-size-4);
 }
 
-footer > div > .call-to-action {
+.page-footer > .call-to-action {
   display: flex;
   flex-flow: wrap;
   flex-direction: column;
@@ -211,22 +216,4 @@ footer > div > .call-to-action {
   display: flex;
   justify-content: space-between;
   column-gap: var(--size-3);
-
-  .button {
-    padding: 20px 30px 20px;
-    color: white;
-    font-weight: 400;
-    text-align: center;
-    background-color: var(--link);
-    text-shadow: 0 1px 0 var(--gray-4);
-    border-radius: var(--radius-3);
-
-    &:is(.disabled) {
-      background-color: var(--gray-4) !important;
-    }
-
-    &:not(.disabled):hover {
-      filter: brightness(115%);
-    }
-  }
 }
