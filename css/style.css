@@ -226,6 +226,7 @@ footer {
   column-gap: var(--size-3);
 }
 
+/* Style the sponsor images */
 .sponsor-med {
   display: block;
   margin: 0 auto 0;
