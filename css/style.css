@@ -197,7 +197,8 @@ footer {
   align-items: center;
   row-gap: 0px;
 
-  p {
+  p,
+  a {
     font-size: var(--font-size-1) !important;
   }
 }
