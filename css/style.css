@@ -20,6 +20,12 @@ body {
   margin: 0;
 }
 
+/* This ensures the footer is correctly placed */
+body {
+  display: flex;
+  flex-direction: column;
+}
+
 /* Define the default text color, accent-color and create the background */
 html {
   color: var(--text-1);
@@ -147,6 +153,7 @@ iframe {
 
 /* Set up all the footer stuff */
 footer {
+  margin-top: auto;
   border-top: 1px solid var(--gray-4);
   width: 100%;
   padding-top: 20px;
