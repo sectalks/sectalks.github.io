@@ -190,10 +190,12 @@ footer > div > .call-to-action {
   }
 }
 
+/* In the blog section, show post-meta and post-link closer grouped */
 .posts > .post > :is(.post-meta, .post-link) {
   line-height: 0.65rem;
 }
 
+/* Remove the margin from post-summary, since it's not needed */
 .posts > .post > .post-summary {
   margin: 0;
 }
