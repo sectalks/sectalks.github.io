@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Beijing
+permalink: /beijing
 ---
 
 ## Contact

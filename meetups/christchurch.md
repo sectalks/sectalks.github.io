@@ -2,6 +2,7 @@
 layout: page
 title: Christchurch
 menu: yes
+permalink: /christchurch
 ---
 
 ## Contact

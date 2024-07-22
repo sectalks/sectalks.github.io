@@ -2,6 +2,7 @@
 layout: page
 title: Ljubljana
 menu: yes
+permalink: /ljubljana
 ---
 
 ## Contact

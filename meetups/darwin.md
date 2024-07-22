@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Darwin
+permalink: /darwin
 ---
 
 ### Contact

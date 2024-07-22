@@ -1,8 +1,9 @@
 ---
 layout: page
 title: João Pessoa
+permalink: /joaopessoa
 ---
-    
+
 ## Contato
 
 * Email: [sectalksjpa@protonmail.com](mailto:sectalksjpa@protonmail.com)

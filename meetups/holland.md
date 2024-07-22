@@ -1,9 +1,10 @@
 ---
 layout: page
 title: Holland
-menu: yes 
+menu: yes
+permalink: /holland
 ---
-    
+
 ## Contact
 
 * Twitter: [@SecTalksNL](https://twitter.com/SecTalksNL)

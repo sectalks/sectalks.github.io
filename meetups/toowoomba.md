@@ -2,22 +2,23 @@
 layout: page
 title: Toowoomba
 menu: yes
+permalink: /toowomba
 ---
 
-## Contact 
+## Contact
 
 * Meetup: [https://meetup.com/SecTalks-Toowoomba](https://meetup.com/SecTalks-Toowoomba/)
 * Twitter: [@sectalks_twb](https://twitter.com/sectalks_twb)
 * Email: [toowoomba@sectalks.org](mailto:toowoomba@sectalks.org)
 
 
-## Organising team 
+## Organising team
 
 * [JP](https://linkedin.com/in/jp-haywood-aaab68134) 
 * Perry
 * Cam
 
-## Upcoming meetups 
+## Upcoming meetups
 
 Reach out to [toowoomba@sectalks.org](mailto:toowoomba@sectalks.org) if you would like to help, present, sponsor or just join in.
 

@@ -2,6 +2,7 @@
 layout: page
 title: Run a local SecTalks!
 menu: yes
+permalink: /yourcity
 ---
 
 SecTalks is organised locally by a team of volunteers. Our goal is to create a platform to connect like-minded people in security.

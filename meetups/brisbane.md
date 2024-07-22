@@ -2,6 +2,7 @@
 layout: page
 title: Brisbane 
 menu: yes
+permalink: brisbane
 ---
 
 ## Contact 
