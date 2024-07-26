@@ -36,25 +36,51 @@ a community of great people. It is a community for people with different skillse
 SecTalks is organised in the following cities. Visit each city page to know more about upcoming events
  and instructions to attend:
 
-* [Perth, Australia](./perth)
-* [Sydney, Australia](./sydney)
-* [Brisbane, Australia](./brisbane)
-* [Melbourne, Australia](./melbourne)
-* [London, UK](./london)
-* [Canberra, Australia](./canberra)
-* [Adelaide, Australia](./adelaide)
-* [Beijing, China](./beijing)
-* [Ljubljana, Slovenia](./ljubljana)
-* [Hobart, Australia](./hobart)
-* [Christchurch, NZ](./christchurch)
-* [Rotterdam, Netherlands](./holland)
-* [Berlin, DE](./berlin)
-* [Toowoomba, Australia](./toowoomba)
-* [São Paulo, Brazil](./sao)
-* [João Pessoa, Brazil](./joaopessoa)
-* [Daegu, South Korea](./daegu)
-* [Gold Coast, Australia](./goldcoast)
-* [Darwin, Australia](./darwin)
+## Australia
+
+* [Sydney](./sydney)
+* [Perth](./perth)
+* [Brisbane](./brisbane)
+* [Melbourne](./melbourne)
+* [Hobart](./hobart)
+* [Canberra](./canberra)
+* [Adelaide](./adelaide)
+* [Toowoomba](./toowoomba)
+* [Gold Coast](./goldcoast)
+* [Darwin](./darwin)
+
+## UK
+
+* [London](./london)
+
+## China
+
+* [Beijing](./beijing)
+
+## Slovenia
+
+* [Ljubljana](./ljubljana)
+
+## New Zealand
+
+* [Christchurch](./christchurch)
+
+## Netherlands
+
+* [Rotterdam](./holland)
+
+## Germany
+
+* [Berlin](./berlin)
+
+## Brazil
+
+* [São Paulo](./sao)
+* [João Pessoa](./joaopessoa)
+
+## South Korea
+
+* [Daegu](./daegu)
 
 <!--
 # Calendar

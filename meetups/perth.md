@@ -2,7 +2,9 @@
 layout: page
 title: Perth
 menu: yes
+permalink: /perth
 ---
+
 ## Contact
 
 * Twitter: [SecTalks](https://twitter.com/sectalks)

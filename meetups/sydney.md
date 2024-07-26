@@ -2,6 +2,7 @@
 layout: page
 title: Sydney
 menu: yes
+permalink: /sydney
 ---
 
 ## Contact

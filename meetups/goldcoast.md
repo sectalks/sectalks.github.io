@@ -2,6 +2,7 @@
 layout: page
 title: Gold Coast
 menu: yes
+permalink: /goldcoast
 ---
 
 ## Contact

@@ -2,6 +2,7 @@
 layout: page
 title: London
 menu: yes
+permalink: /london
 ---
 
 ## Contact 

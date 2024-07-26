@@ -2,6 +2,7 @@
 layout: page
 title: Canberra 
 menu: yes
+permalink: /canberra
 ---
 
 ## Contact 

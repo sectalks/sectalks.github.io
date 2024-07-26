@@ -20,9 +20,9 @@ To fully take part and utilise the workshop, bring your own laptop with the foll
 
 - few tools (adb, apktools, dex2jar, jdgui, any HTTP local proxy - e.g. Fiddler, Burp)
 
-- few examples will work better or only on Linux, so you bring Windows on your own responsiblity
+- few examples will work better or only on Linux, so you bring Windows on your own responsibility
 
-This is the first session of the two sessions workshop. 
+This is the first session of the two sessions workshop.
 
 By Jakub Kaluzny 
 
