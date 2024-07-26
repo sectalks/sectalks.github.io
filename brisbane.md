@@ -94,6 +94,12 @@ following companies for sponsoring the food and drink over the last 6 months:
          class="sponsor-med">
 </a>
 
+<a href="https://sunredsecurity.au/"
+   title="Sunred Security: Sponsored catering for SecTalks Brisbane.">
+    <img src="{{ site.baseurl }}/images/sponsors/sunredsecurity.png"
+         alt="Sunred Security: Sponsored catering for SecTalks Brisbane."
+         class="sponsor-med">
+</a>
 
 ## Calendar
 
