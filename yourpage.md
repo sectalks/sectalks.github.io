@@ -8,18 +8,18 @@ The following guide will show you how to create a webpage here for your local Se
 This website is socially authored by SecTalks organisers. You need to have a github account.
 to add your page.
 
-#0. Request for access
+# 0. Request for access
 
 Send us your **github account** to get access for adding or editing pages on SecTalks github pages.
 The invitations are sent by email and can be accepted at [https://github.com/sectalks](https://github.com/sectalks)
 
-#1. Create a page
+# 1. Create a page
 
 The format of the page is [Markdown](http://www.darkcoding.net/software/markdown-quick-reference/). 
 Using your favorite text editor, create a new file called **YOURCITY.md** in
 the meetups folder.
 
-#2. Use a template
+# 2. Use a template
 
 Use the following template or check out other cities page.
 
@@ -74,7 +74,7 @@ Use the following template or check out other cities page.
     * [Outlook](http://www.meetup.com/[YOURMEETUP]/events/ical/)
     * [RSS](http://www.meetup.com/[YOURMEETUP]/events/rss/) or [Atom](http://www.meetup.com/[YOURMEETUP]/events/atom/)
 
-#3. Submit your page
+# 3. Submit your page
 
 Once you get your access to SecTalks github pages, go to [https://github.com/sectalks/sectalks.github.io]().
 To add a new page, click on **+** next to **sectalks.github.io/+**. 

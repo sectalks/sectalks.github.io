@@ -10,7 +10,7 @@ D&T: 23 July 2015 - 17:30
 
 This month there will be a 60 minute CTF.
 
-#1 SecTalks Perth 60MIN CTF EXTRAVAGANZAAA
+# 1 SecTalks Perth 60MIN CTF EXTRAVAGANZAAA
 by matt and tony
 
 Don't forget to bring:

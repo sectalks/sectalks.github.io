@@ -8,7 +8,7 @@ PER0x12
 
 D&T: 21 May 2015 - 17:30
 
-!!! START IMPORTANT !!!
+*!!! START IMPORTANT !!!*
 
 An Additional announcement: Sagi is joining the SecTalks Perth organising committee. This is to take a bit of pressure off of nano as he gets busy sometimes and needs a bit of help.
 
@@ -18,8 +18,9 @@ We are changing formats - We are going to start matching theSydney SecTalks form
 
 Sagi will be helping to make this possible, by co-coordinating additional aspects of SecTalks Perth.
 
-!!! END IMPORTANT !!!
-#1 some stuff about fraud
+*!!! END IMPORTANT !!!*
+
+# 1 some stuff about fraud
 
 some stuff about fraud
 
@@ -27,7 +28,7 @@ by
 
 tony
 
-#2 SecTalks Perth 60MIN CTF EXTRAVAGANZAAA
+# 2 SecTalks Perth 60MIN CTF EXTRAVAGANZAAA
 by sagi
 
 This month, we are transforming SecTalks Perth to match the format of Sydney. This includes having a monthly CTF at SecTalks which will last 60 minutes ONLY.  The format for this will require some things namely:
