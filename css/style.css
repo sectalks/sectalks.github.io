@@ -7,7 +7,13 @@ html {
     serif;
 
   --text-1: var(--gray-9);
-  --background: var(--gradient-28);
+
+  --background: radial-gradient(
+    circle at 18.7% 37.8%,
+    rgb(255, 255, 255) 0%,
+    rgb(229, 238, 242) 90%
+  );
+
   --link: rgb(0, 205, 0);
 }
 
@@ -157,7 +163,7 @@ footer {
   width: 100%;
   padding-top: 20px;
   padding-bottom: 20px;
-  background: var(--gradient-9);
+  background: rgb(252, 252, 254);
   font-size: var(--font-size-0);
   display: flex;
   justify-content: center;
