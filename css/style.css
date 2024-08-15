@@ -1,8 +1,9 @@
 @import "https://unpkg.com/open-props";
+@import url('https://fonts.googleapis.com/css2?family=Merriweather:ital,wght@0,300;0,400;0,700;0,900;1,300;1,400;1,700;1,900&display=swap');
 
 /* Define variables to be used later */
 html {
-  --font-sans: "Merriweather", "PT Serif", Georgia, "Times New Roman", serif;
+  --font-sans: "Lato", "Merriweather", "PT Serif", Georgia, "Times New Roman", serif;
   --font-heading: "Lato", "Merriweather", "PT Serif", Georgia, "Times New Roman",
     serif;
 
@@ -138,8 +139,8 @@ a {
   font-weight: 400;
   text-align: center;
   background-color: var(--link);
-  text-shadow: 0 1px 0 var(--gray-4);
-  border-radius: var(--radius-3);
+  /*text-shadow: 0 1px 0 var(--gray-4);*/
+  border-radius: var(--radius-2);
 
   &:is(.disabled) {
     background-color: var(--gray-4) !important;

@@ -12,7 +12,7 @@ and hands-on security challenges! A forum to learn & discuss technical
 
 <div class="sessions">
   <a href="#where" class="button"><strong>I want to join!</strong></a>
-  <a href="{{ site.baseurl }}/yourcity/" class="button"><strong>Run a local session</strong></a>
+  <a href="{{ site.baseurl }}/yourcity" class="button"><strong>Run a local session</strong></a>
 </div>
 
 # What
