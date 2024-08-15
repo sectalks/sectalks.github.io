@@ -46,7 +46,8 @@ RSVP to upcoming meetups.
    title="CyberSec People">
     <img src="{{ site.baseurl }}/images/sponsors/cybersecpeople.png"
          alt="CyberSec People"
-         class="sponsor-med">
+         class="sponsor-med"
+         style="background-color: black">
 </a>
 
 <a href="https://www.bugcrowd.com/"

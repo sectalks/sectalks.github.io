@@ -36,7 +36,7 @@ SecTalks Canberra is currently held at 1UP (upstairs, with the entrance between 
 ## Preparation
 
 1. Please be awesome!
-2. Please grok the [SecTalks Code of Conduct](https://www.sectalks.org/coc/)
+2. Please grok the [SecTalks Code of Conduct]({{site.baseurl}}/coc/)
 3. Appear and learn!
 
 ## Want to Speak or Present?
@@ -47,4 +47,4 @@ Whether it is a [lightning talk](https://en.wikipedia.org/wiki/Lightning_talk), 
 
 SecTalks is always open to anyone who is keen to learn information security. It's a community event for students, professionals, hobbyists, curious folks and anyone in between. Our community engagements will always be free for participants. 
 
-Please check out the [Code of Conduct](http://www.sectalks.org/coc/).
+Please check out the [Code of Conduct]({{site.baseurl}}/coc/).

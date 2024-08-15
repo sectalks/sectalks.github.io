@@ -59,7 +59,7 @@ If a participant engages in unacceptable behaviour, the organisers may take any 
 appropriate, e.g. a verbal warning; expulsion from the venue; and/or pre-emptively banning you 
 from future events.
 
-## What to do if you witness or are subjected to unacceptable behaviour>
+## What to do if you witness or are subjected to unacceptable behaviour
 
 If you are subjected to unacceptable behaviour, notice that someone else is being subjected to 
 unacceptable behaviour, or have any other concerns, please notify an organiser as soon as possible.
@@ -76,5 +76,5 @@ We value your attendance.
 We expect all SecTalks attendees to abide by this code of conduct at all event venues.
 
 
-Thanks to Geek Feminism (http://geekfeminism.wikia.com/wiki/Conference_anti-harassment) for 
+Thanks to Geek Feminism ([https://geekfeminism.fandom.com/wiki/Conference_anti-harassment/Policy](https://geekfeminism.fandom.com/wiki/Conference_anti-harassment/Policy)) for
 guidance and templates.

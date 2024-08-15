@@ -1,27 +1,27 @@
 ---
 layout: page
-title: Brisbane 
+title: Brisbane
 menu: yes
 permalink: brisbane
 ---
 
-## Contact 
+## Contact
 
 * Twitter: [@sectalks_BNE](https://twitter.com/sectalks_BNE)
 * Email: [brisbane@sectalks.org](mailto:brisbane@sectalks.org)
 * Meetup: [http://www.meetup.com/SecTalks-Brisbane/](http://www.meetup.com/SecTalks-Brisbane/)
 
-## Organising team 
+## Organising team
 
 * [Colby Prior](https://twitter.com/ColbyPrior)
 * [bman](https://twitter.com/bman013)
 * [nomad](https://twitter.com/nomadhax)
 * [Wade](https://twitter.com/WadeAlcorn)
 * [f3rn0s](https://twitter.com/f3rn0s)
-* [Billy Retired]()
-* [Bull Retired](https://twitter.com/RobertWinkel) 
-* [Michael Gianarakis Retired](https://twitter.com/mgianarakis) 
-* [dook Retired](https://twitter.com/dooktwit)
+* [Billy (Retired)]()
+* [Bull (Retired)](https://twitter.com/RobertWinkel)
+* [Michael Gianarakis (Retired)](https://twitter.com/mgianarakis)
+* [dook (Retired)](https://twitter.com/dooktwit)
 
 ## Date & Time 
 
@@ -51,32 +51,58 @@ YES! SecTalks is always open to anyone who is keen to learn hands-on infosec.
 There will be people willing to mentor you on the day, and you'll be solving CTF's in no time flat.
 
 ## Sponsors
+
 #### Venue
-<a href="https://www.telstra.com.au/" 
-   title="Telstra: On-going venue sponsor for SecTalks Brisbane.">
-    <img src="{{ site.baseurl }}/images/sponsors/T-Primary-L-Pos-Green-RGB_300.PNG" 
-         alt="Telstra: On-going venue sponsor for SecTalks Brisbane.">
+
+<a href="https://www.bdo.com.au/"
+   title="BDO: On-going venue sponsor for SecTalks Brisbane.">
+    <img src="{{ site.baseurl }}/images/sponsors/bdo-logo.PNG"
+         alt="BDO: On-going venue sponsor for SecTalks Brisbane."
+         class="sponsor-med">
 </a>
+
 #### Catering
-<a href="https://alcorngroup.com/" 
-   title="Alcorn Group: On-going catering co-sponsor for SecTalks Brisbane.">
-    <img src="{{ site.baseurl }}/images/sponsors/AlcornGroup.png" 
-         alt="Alcorn Group: On-going catering co-sponsor for SecTalks Brisbane.">
-</a><br>
-<a href="http://www.pwc.com.au/" 
-   title="PwC: On-going catering co-sponsor for SecTalks Brisbane.">
-    <img src="{{ site.baseurl }}/images/sponsors/PwC Colour_300.jpg" 
-         alt="PwC: On-going catering co-sponsor for SecTalks Brisbane.">
-</a>
-#### CTF Prizes
-<a href="https://www.ozhack.com/" 
-   title="Oz Hack: On-going CTF prize sponsor for SecTalks Brisbane.">
-    <img src="{{ site.baseurl }}/images/sponsors/OzHack_Logo.png" 
-         alt="Oz Hack: On-going CTF prizes for SecTalks Brisbane." width="200">
+
+Our Catering sponsorship rotates hands often, but we'd like to thank the
+following companies for sponsoring the food and drink over the last 6 months:
+
+<a href="https://www.sharpandcarter.com.au/"
+   title="Sharp & Carter: Sponsored catering for SecTalks Brisbane.">
+    <img src="{{ site.baseurl }}/images/sponsors/sharp-carter.webp"
+         alt="Sharp & Carter: Sponsored catering for SecTalks Brisbane."
+         class="sponsor-med">
 </a>
 
+<a href="https://auscert.org.au/"
+   title="AusCert: Sponsored catering for SecTalks Brisbane.">
+    <img src="{{ site.baseurl }}/images/sponsors/auscert-logo.svg"
+         alt="AusCert: Sponsored catering for SecTalks Brisbane."
+         class="sponsor-med"
+         style="background-color: #1a1738">
+</a>
 
-## Calendar 
+<a href="https://www.whiterookcyber.com.au/"
+   title="WhiteRookCyber: Sponsored catering for SecTalks Brisbane.">
+    <img src="{{ site.baseurl }}/images/sponsors/whiterookcyber.png"
+         alt="WhiteRookCyber: Sponsored catering for SecTalks Brisbane."
+         class="sponsor-med">
+</a>
+
+<a href="https://www.volkis.com.au/"
+   title="Volkis: Sponsored catering for SecTalks Brisbane.">
+    <img src="{{ site.baseurl }}/images/sponsors/volkis.svg"
+         alt="Volkis: Sponsored catering for SecTalks Brisbane."
+         class="sponsor-med">
+</a>
+
+<a href="https://sunredsecurity.au/"
+   title="Sunred Security: Sponsored catering for SecTalks Brisbane.">
+    <img src="{{ site.baseurl }}/images/sponsors/sunredsecurity.png"
+         alt="Sunred Security: Sponsored catering for SecTalks Brisbane."
+         class="sponsor-med">
+</a>
+
+## Calendar
 
 Subscribe to [our calendar](http://www.meetup.com/SecTalks-brisbane/events/) to view past and upcoming meetups:
 

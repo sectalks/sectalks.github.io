@@ -7,8 +7,7 @@ categories: meetup perth
 
 PER0x13 
 
-
-#1 Why should you care about network forensics
+# 1 Why should you care about network forensics
 
 Forget answering "can I be hacked" or even "have I been hacked" the answer to those questions are generally yes.  The important questions are "Am i being hacked right now ", "Who is hacking me right now" and "what are they taking".
 this presentation will show you how to do network forensics using free* Linux VMs
@@ -18,7 +17,8 @@ by
 
 chris and guest speaking elgumso
 
-#2 SecTalks Perth 60MIN CTF EXTRAVAGANZAAA
+# 2 SecTalks Perth 60MIN CTF EXTRAVAGANZAAA
+
 by matt and tony
 
 Don't forget to bring:

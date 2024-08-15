@@ -1,0 +1,243 @@
+@import "https://unpkg.com/open-props";
+@import url('https://fonts.googleapis.com/css2?family=Merriweather:ital,wght@0,300;0,400;0,700;0,900;1,300;1,400;1,700;1,900&display=swap');
+
+/* Define variables to be used later */
+html {
+  --font-sans: "Lato", "Merriweather", "PT Serif", Georgia, "Times New Roman", serif;
+  --font-heading: "Lato", "Merriweather", "PT Serif", Georgia, "Times New Roman",
+    serif;
+
+  --text-1: var(--gray-9);
+
+  --background: radial-gradient(
+    circle at 18.7% 37.8%,
+    rgb(255, 255, 255) 0%,
+    rgb(229, 238, 242) 90%
+  );
+
+  --link: rgb(0, 205, 0);
+}
+
+/* Remove margin, set height and width to max */
+html,
+body {
+  height: 100%;
+  width: 100%;
+  margin: 0;
+}
+
+/* This ensures the footer is correctly placed */
+body {
+  display: flex;
+  flex-direction: column;
+}
+
+/* Define the default text color, accent-color and create the background */
+html {
+  color: var(--text-1);
+  accent-color: var(--link);
+  background: var(--background);
+  background-attachment: fixed;
+}
+
+/* Post is our container that center aligns and has a nice width */
+.post {
+  margin-top: var(--size-6);
+  margin-bottom: var(--size-9);
+  margin-inline: auto;
+  max-inline-size: 720px;
+}
+
+/* Set our font size for normal and for small screen */
+@media only screen and (max-width: 540px) {
+  p,
+  li {
+    font-size: 1rem;
+  }
+}
+
+p,
+li {
+  font-size: 1.25rem;
+}
+
+/* Set our post and footer container to have nice widths on smaller screens */
+@media only screen and (max-width: 540px) {
+  .post,
+  .page-footer {
+    width: 320px !important;
+  }
+}
+
+/* Set our post and footer container to have nice widths on mid-size screens */
+@media only screen and (min-width: 541px) and (max-width: 780px) {
+  .post,
+  .page-footer {
+    width: 480px !important;
+  }
+}
+
+/* Set-up the logo */
+.logo {
+  display: flex;
+  justify-content: center;
+}
+
+.logo > img {
+  padding: 20px;
+  background-color: black;
+  width: 100%;
+}
+
+/* Images shouldn't stretch past the width, and should have a lil nice rounding */
+img {
+  border-radius: var(--radius-3);
+  max-width: 100%;
+}
+
+/* list stuff */
+li {
+  padding-inline-start: 0;
+  max-inline-size: 100%;
+}
+
+/* Headings use a custom font */
+:is(h1, h2, h3, h4, h5, h6) {
+  font-family: var(--font-heading);
+}
+
+/* Set custom font sizes for the headings */
+h1 {
+  font-size: var(--font-size-6);
+}
+
+h2 {
+  font-size: var(--font-size-5);
+}
+
+h3 {
+  font-size: var(--font-size-4);
+}
+
+/* Links should be link colored, and not underlined */
+a {
+  color: var(--link);
+  text-decoration: none;
+}
+
+/* These are the two green buttons on the index page */
+.sessions {
+  display: flex;
+  justify-content: center;
+  column-gap: var(--size-3);
+}
+
+/* This styles all the buttons on the website */
+.button {
+  padding: 20px 30px 20px;
+  color: white;
+  font-weight: 400;
+  text-align: center;
+  background-color: var(--link);
+  /*text-shadow: 0 1px 0 var(--gray-4);*/
+  border-radius: var(--radius-2);
+
+  &:is(.disabled) {
+    background-color: var(--gray-4) !important;
+  }
+
+  &:not(.disabled):hover {
+    filter: brightness(115%);
+  }
+}
+
+/* Make sure the iframes don't strech outside of the width of the outside
+ * container */
+iframe {
+  max-width: 100%;
+}
+
+/* Set up all the footer stuff */
+footer {
+  margin-top: auto;
+  border-top: 1px solid var(--gray-4);
+  width: 100%;
+  padding-top: 20px;
+  padding-bottom: 20px;
+  background: rgb(252, 252, 254);
+  font-size: var(--font-size-0);
+  display: flex;
+  justify-content: center;
+}
+
+.page-footer {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  row-gap: 10px;
+  width: 720px;
+}
+
+.page-footer > :is(.nav, .cities) {
+  display: flex;
+  flex-flow: wrap;
+  flex-direction: row;
+  justify-content: center;
+  column-gap: 10px;
+}
+
+.page-footer > .socials {
+  padding-top: 10px;
+  display: flex;
+  flex-flow: wrap;
+  flex-direction: row;
+  justify-content: center;
+  column-gap: 15px;
+  font-size: var(--font-size-4);
+}
+
+.page-footer > .call-to-action {
+  display: flex;
+  flex-flow: wrap;
+  flex-direction: column;
+  align-items: center;
+  row-gap: 0px;
+
+  p,
+  a {
+    font-size: var(--font-size-1) !important;
+  }
+}
+
+.posts > .post > .post-meta {
+  font-style: italic;
+  color: var(--gray-6);
+  line-height: 0rem;
+}
+
+/* In the blog section, show post-meta and post-link closer grouped */
+.posts > .post > :is(.post-meta, .post-link, .post-summary) {
+  margin: 0;
+}
+
+/* Remove the margin from post-summary, since it's not needed */
+.posts > .post > .post-summary {
+  margin: 0;
+}
+
+/* Style the newer/older buttons at the bottom of the blog list */
+.pagination {
+  display: flex;
+  justify-content: space-between;
+  column-gap: var(--size-3);
+}
+
+/* Style the sponsor images */
+.sponsor-med {
+  display: block;
+  margin: 0 auto 0;
+  width: 40%;
+  border-radius: 0;
+  background-color: white;
+  padding: 20px;
+}
