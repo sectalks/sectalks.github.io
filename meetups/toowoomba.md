@@ -2,7 +2,7 @@
 layout: page
 title: Toowoomba
 menu: yes
-permalink: /toowomba
+permalink: /toowoomba
 ---
 
 ## Contact
@@ -14,7 +14,7 @@ permalink: /toowomba
 
 ## Organising team
 
-* [JP](https://linkedin.com/in/jp-haywood-aaab68134) 
+* [JP](https://linkedin.com/in/jp-haywood-aaab68134)
 * Perry
 * Cam
 
@@ -24,7 +24,7 @@ Reach out to [toowoomba@sectalks.org](mailto:toowoomba@sectalks.org) if you woul
 
 You may also want to follow [@sectalks_twb](https://twitter.com/sectalks_twb) on Twitter as updates get posted there.
 
-#### Date / Time / Location 
+#### Date / Time / Location
 
 The [meetup page](https://meetup.com/SecTalks-Toowoomba) has the latest schedule.
 
@@ -32,7 +32,7 @@ Currently we are hosting hybrid sessions, both in person and virtually. RSVP at 
 
 ## Looking to present?
 
-We are looking for presenters for the Toowoomba sessions. 
+We are looking for presenters for the Toowoomba sessions.
 Please email [toowoomba@sectalks.org](mailto:toowoomba@sectalks.org) if you are interested.
 
 ### But I am new to security, can I still join in?
@@ -45,9 +45,9 @@ Thanks to our great sponsors for making SecTalks Toowoomba happen.
 
 #### Acumenis
 
-<a href="https://www.acumenis.com.au/" 
+<a href="https://www.acumenis.com.au/"
    title="Acumenis: Keeping it free - sponsor for SecTalks Toowoomba.">
-    <img src="{{ site.baseurl }}/images/sponsors/Acumenis.png" 
+    <img src="{{ site.baseurl }}/images/sponsors/Acumenis.png"
          alt="Acumenis: Sponsor for SecTalks Toowoomba."
          class="sponsor-med"
          style="background-color: #333c40">
@@ -65,9 +65,9 @@ Thanks to our great sponsors for making SecTalks Toowoomba happen.
 
 #### USQ
 
-<a href="https://www.usq.edu.au/" 
+<a href="https://www.usq.edu.au/"
    title="USQ: Venue sponsor for SecTalks Toowoomba.">
-    <img src="{{ site.baseurl }}/images/sponsors/USQ.png" 
+    <img src="{{ site.baseurl }}/images/sponsors/USQ.png"
          alt="USQ: Sponsor for SecTalks Toowoomba."
          class="sponsor-med"
          style="background-color: transparent">
