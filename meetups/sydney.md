@@ -17,10 +17,9 @@ permalink: /sydney
 
 * [@pi3ch](https://twitter.com/pi3ch)
 * @kat
-* [@satiex](https://twitter.com/satiexx)
 * [@hndanesh](https://twitter.com/hndanesh)
 * @Dank
-* [@gszathmari](https://twitter.com/gszathmari)
+* @Morton
 
 ## Date & Time
 
