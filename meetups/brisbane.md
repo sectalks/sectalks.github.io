@@ -23,20 +23,19 @@ permalink: brisbane
 * [Michael Gianarakis (Retired)](https://twitter.com/mgianarakis)
 * [dook (Retired)](https://twitter.com/dooktwit)
 
-## Date & Time 
+## Date & Time
 
 Forth Thursday of each month at 6pm.
 
 For details of each session visit our [Meetup page](http://www.meetup.com/SecTalks-Brisbane/)
 
-## Location 
+## Location
 
 Brisbane. The specific location will be revealed to members via the members' mailing list. 
 
-## Upcoming meetup 
+## Upcoming meetup
 
-Details of upcoming session will be sent to members mailing list 
-and also posted on our [Meetup group](http://www.meetup.com/SecTalks-Brisbane/).
+Details of upcoming session will be posted on our [Meetup group](http://www.meetup.com/SecTalks-Brisbane/).
 
 ## How to join
 
@@ -99,7 +98,8 @@ following companies for sponsoring the food and drink over the last 6 months:
    title="Sunred Security: Sponsored catering for SecTalks Brisbane.">
     <img src="{{ site.baseurl }}/images/sponsors/sunredsecurity.png"
          alt="Sunred Security: Sponsored catering for SecTalks Brisbane."
-         class="sponsor-med">
+         class="sponsor-med"
+         style="background-color: #1E201E">
 </a>
 
 ## Calendar
