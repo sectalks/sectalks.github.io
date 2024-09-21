@@ -32,7 +32,7 @@ Visit our [Meetup group](http://www.meetup.com/SecTalks/) for more details.
 ## Want to speak?
 
 Whether it is a [lightning talk](https://en.wikipedia.org/wiki/Lightning_talk), 10min short presentation, or an hour long hands-on workshop, whether it is your first time to present, SecTalks is great place to get feedback and improve on.
-Fill up [SecTalks CFP](http://j.mp/sectalkscfp) form.
+Fill up [SecTalks CFP](https://sessionize.com/sectalks) form.
 
 ## Create a CTF challenge?
 
