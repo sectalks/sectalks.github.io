@@ -16,6 +16,8 @@ html {
   );
 
   --link: rgb(0, 205, 0);
+
+  font-family: var(--font-sans);
 }
 
 /* Remove margin, set height and width to max */
