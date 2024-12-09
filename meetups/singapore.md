@@ -14,6 +14,7 @@ permalink: /Singapore
 ## Organising team
 
 * Cyber Prash, [@CyberKprash](https://x.com/CyberKprash), [Singapore@sectalks.org](mailto:Singapore@sectalks.org)
+* Indrajeet Bhuyan, [@Indrajeet Bhuyan](https://x.com/indrajeet_b), [Singapore@sectalks.org](mailto:Singapore@sectalks.org)
 
 ## Date & Time
 
