@@ -13,7 +13,7 @@ permalink: /Singapore
 
 ## Organising team
 
-* NAME, [TWITTER HANDLE](https://twitter.com/HANDLE), [EMAIL](mailto:EMAIL)
+* Cyber Prash, [@CyberKprash](https://x.com/CyberKprash), [Singapore@sectalks.org](mailto:Singapore@sectalks.org)
 
 ## Date & Time
 
