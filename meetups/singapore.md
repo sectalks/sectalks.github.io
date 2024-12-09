@@ -6,7 +6,7 @@ permalink: /Singapore
 
 ## Contact
 
-* Twitter:
+* Twitter:https://x.com/SectalksSG
 * Email: [Singapore@sectalks.org](mailto:singapore@sectalks.org)
 * IRC:
 * Meetup:
