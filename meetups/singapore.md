@@ -6,46 +6,22 @@ permalink: /Singapore
 
 ## Contact
 
-* Twitter:https://x.com/SectalksSG
+* Twitter: https://x.com/SectalksSG
 * Email: [Singapore@sectalks.org](mailto:singapore@sectalks.org)
-* IRC:
-* Meetup:
+* Meetup: [https://www.meetup.com/sectalks-singapore](https://www.meetup.com/sectalks-singapore)
 
 ## Organising team
 
 * Cyber Prash, [@CyberKprash](https://x.com/CyberKprash), [Singapore@sectalks.org](mailto:Singapore@sectalks.org)
-* Indrajeet Bhuyan, [@Indrajeet Bhuyan](https://x.com/indrajeet_b), [Singapore@sectalks.org](mailto:Singapore@sectalks.org)
 
 ## Date & Time
 
-[First Tuseday of each month at 6pm]
+We don't have a fixed timing. Visit our [Meetup page](https://www.meetup.com/sectalks-singapore) to know about the times of our upcoming events.
 
 ## Location
 
-ADDRESS
+We host events in different office locations. If you want us to host in your office, please reach out to us at [Singapore@sectalks.org](mailto:singapore@sectalks.org).
 
-## Looking to present?
+## Looking to speak?
 
-[Put details for call for presentions (online form, email address, etc.).]
-
-## Sponsors
-
-Sponsor name and link, what they offer
-
-## Upcoming meetup
-
-[Check out our meetup page or subscribe to our mailinglist, etc]
-MEETUP ID, DATE AND TIME (e.g. SYD0x01, 31 Jan 2015)
-
-## How to join
-
-Describe how someone can join. Do they need to go through an entrance challenge?
-How about people new to security?
-
-## Calendar
-
-Subscribe to [our calendar](http://www.meetup.com/[YOURMEETUP]/events/) to view past and upcoming meetups:
-
-* [iCal](webcal://www.meetup.com/[YOURMEETUP]/events/ical/)
-* [Outlook](http://www.meetup.com/[YOURMEETUP]/events/ical/)
-* [RSS](http://www.meetup.com/[YOURMEETUP]/events/rss/) or [Atom](http://www.meetup.com/[YOURMEETUP]/events/atom/)
+We will share details soon.
