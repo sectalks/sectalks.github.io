@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Singapore
-permalink: /Singapore
+title: singapore
+permalink: /singapore
 ---
 
 ## Contact
