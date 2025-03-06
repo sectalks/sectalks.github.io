@@ -6,7 +6,7 @@ layout: page
 <img src="{{ site.baseurl }}/images/logo.png" alt="SecTalks">
 </div>
 
-SecTalks is a non-profit session for technical security talks,
+SecTalks is a non-profit community for technical security talks,
 and hands-on security challenges! A forum to learn & discuss technical
 (in)security stuff.
 
@@ -16,7 +16,7 @@ and hands-on security challenges! A forum to learn & discuss technical
 </div>
 
 # What
-SecTalks meetups are about participating in IT security discussions, learning
+[**SecTalks**](./about) community is about participating in IT security discussions, learning
 from others, and improving problem-solving skills.
 SecTalks offers an avenue where you can team up with like-minded people to
 participate in solving technical IT security challenges (i.e. Capture The

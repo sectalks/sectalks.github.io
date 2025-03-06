@@ -15,10 +15,8 @@ permalink: /sydney
 
 ## Organising team
 
-* [@pi3ch](https://twitter.com/pi3ch)
-* @kat
-* [@hndanesh](https://twitter.com/hndanesh)
-* @Dank
+* @pi3ch: [X](https://x.com/pi3ch) - [LinkedIn](https://www.linkedin.com/in/pedram-hayati-07b2b525/)
+* [@hndanesh](https://x.com/hndanesh)
 * @Morton
 
 ## Date & Time
