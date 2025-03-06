@@ -72,6 +72,14 @@ RSVP to upcoming meetups.
          style="background-color: transparent">
 </a>
 
+<a href="https://bit.ly/4bykA3R"
+   title="DroneShield">
+    <img src="{{ site.baseurl }}/images/sponsors/droneshield.png"
+         alt="DroneSheild"
+         class=""
+         style="background-color: transparent">
+</a>
+
 
 
 

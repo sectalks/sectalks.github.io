@@ -54,6 +54,10 @@ SecTalks is organised in the following cities. Visit each city page to know more
 * [Gold Coast](./goldcoast)
 * [Darwin](./darwin)
 
+## Singapore
+
+* [Singapore](./singapore)
+
 ## UK
 
 * [London](./london)
