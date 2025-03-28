@@ -5,6 +5,9 @@ menu: yes
 permalink: /canberra
 ---
 
+
+# SecTalks Canberra is currently on hiatus as we try to find time in our lives and space in the real world to host you wonderful folks again!
+
 ## Contact 
 
 * LinkedIn: [SecTalks Canberra](https://www.linkedin.com/company/sectalks-canberra)
@@ -17,7 +20,7 @@ permalink: /canberra
 
 ## Date & Time 
 
-SecTalks Canberra is held on the second Wednesday of each month, starting at 7 pm.
+7th of Never, 26:00 pm (we're on hiatus! we'll be back and hopefully remember to put a real date and time here!)
 
 ## Cost
 
@@ -25,13 +28,13 @@ Free!
 
 ## Location 
 
-SecTalks Canberra is currently held at 1UP (upstairs, with the entrance between Reload and Token)
+SecTalks Canberra has been held in various places around Canberra City, but with the recent closure of Reload (we miss you already!), we're currently on the hunt for a new venue. If you or someone you know has a suitable spot, please reach out to boo!
 
 <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d814.2698470101196!2d149.1284542499129!3d-35.27915239541653!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x6b164d2635d515ef%3A0x6637b50ab5d1ccd1!2sToken%20Arcade%20and%20Kitchen!5e0!3m2!1sen!2sau!4v1676766231758!5m2!1sen!2sau" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 
 ## Sponsors
 
-### Please reach out to @boo or @syn to discuss sponsorship!
+### Please reach out to @boo to discuss sponsorship!
 
 ## Preparation
 
