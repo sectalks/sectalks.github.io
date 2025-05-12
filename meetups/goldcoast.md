@@ -12,8 +12,8 @@ permalink: /goldcoast
 
 ## Organising team
 
-* [@codingo_](https://twitter.com/codingo_)
-* [@CyberSecRicki](https://twitter.com/CyberSecRicki)
+* [@6mile](https://github.com/6mile)
+* [Paula](https://www.linkedin.com/in/paula-sillars/)
 
 ## Date & Time
 
@@ -42,24 +42,17 @@ RSVP to upcoming meetups.
 
 ## Sponsors
 
-<a href="https://cybersecpeople.com"
-   title="CyberSec People">
-    <img src="{{ site.baseurl }}/images/sponsors/cybersecpeople.png"
+<a href="https://cyberauditteam.com/"
+   title="Cyber Audit Team">
+    <img src="{{ site.baseurl }}/images/sponsors/cyberauditteam.png"
          alt="CyberSec People"
          class="sponsor-med"
          style="background-color: black">
 </a>
 
-<a href="https://www.bugcrowd.com/"
-   title="bugcrowd">
-    <img src="{{ site.baseurl }}/images/sponsors/bugcrowd.png"
-         alt="bugcrowd"
-         class="sponsor-med">
-</a>
-
-<a href="https://securestack.com"
-   title="SecureStack">
-    <img src="{{ site.baseurl }}/images/sponsors/securestack.png"
-         alt="SecureStack"
+<a href="https://sourcecodered.com"
+   title="SourceCodeRED">
+    <img src="{{ site.baseurl }}/images/sponsors/sourcecodered.png"
+         alt="SourceCodeRED"
          class="sponsor-med">
 </a>
