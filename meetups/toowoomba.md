@@ -6,15 +6,12 @@ permalink: /toowoomba
 ---
 
 ## Contact
-
-* Meetup: [https://meetup.com/SecTalks-Toowoomba](https://meetup.com/SecTalks-Toowoomba/)
 * Twitter: [@sectalks_twb](https://twitter.com/sectalks_twb)
 * Email: [toowoomba@sectalks.org](mailto:toowoomba@sectalks.org)
 
-
 ## Organising team
 
-* [JP](https://linkedin.com/in/jp-haywood-aaab68134)
+* JP
 * Perry
 * Cam
 
@@ -26,9 +23,7 @@ You may also want to follow [@sectalks_twb](https://twitter.com/sectalks_twb) on
 
 #### Date / Time / Location
 
-The [meetup page](https://meetup.com/SecTalks-Toowoomba) has the latest schedule.
-
-Currently we are hosting hybrid sessions, both in person and virtually. RSVP at the meetup page to get the link.
+We are currently taking a break - but plan to be back soon. 
 
 ## Looking to present?
 
