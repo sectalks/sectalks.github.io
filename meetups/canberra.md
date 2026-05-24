@@ -16,11 +16,13 @@ permalink: /canberra
 
 ## Organising team 
 
-* boo - [LinkedIn](https://www.linkedin.com/in/boo-brianna-gladman) [@bitter_knitter7](https://twitter.com/bitter_knitter7)
+Stay tuned!
 
 ## Date & Time 
 
-7th of Never, 26:00 pm (we're on hiatus! we'll be back and hopefully remember to put a real date and time here!)
+**SecTalks Canberra is on hiatus as we seek a new venue to host us, as well as sponsors to sponsor us! **
+
+If you happen to have ideas for either, please reach out!
 
 ## Cost
 
@@ -28,13 +30,11 @@ Free!
 
 ## Location 
 
-SecTalks Canberra has been held in various places around Canberra City, but with the recent closure of Reload (we miss you already!), we're currently on the hunt for a new venue. If you or someone you know has a suitable spot, please reach out to boo!
-
-<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d814.2698470101196!2d149.1284542499129!3d-35.27915239541653!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x6b164d2635d515ef%3A0x6637b50ab5d1ccd1!2sToken%20Arcade%20and%20Kitchen!5e0!3m2!1sen!2sau!4v1676766231758!5m2!1sen!2sau" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+The darkest of basements that are so well hidden, even we don't know where they are (yet).
 
 ## Sponsors
 
-### Please reach out to @boo to discuss sponsorship!
+We would like some! If you would like to sponsor, or know someone who would, please let us know!
 
 ## Preparation
 
