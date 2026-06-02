@@ -16,7 +16,7 @@ permalink: /sydney
 
 ## Organising team
 
-* @pi3ch [LinkedIn](https://www.linkedin.com/in/pedram-hayati-07b2b525/), [X](https://x.com/pi3ch)
+* @pi3ch [LinkedIn](https://www.linkedin.com/in/pedram-hayati-phd-07b2b525), [X](https://x.com/pi3ch)
 * [Joseph McCrossin](https://www.linkedin.com/in/mccrossin/) (slack: @Morton)
 * [Tenzin Shakya](https://www.linkedin.com/in/tenzin-shakya-82bb68259/) (slack: @shak)
 * [Chris Lea](https://www.linkedin.com/in/thechrislea/) (slack: @chris lea)
