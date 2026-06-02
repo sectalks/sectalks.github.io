@@ -10,22 +10,27 @@ permalink: /sydney
 * Twitter: [SecTalks](https://twitter.com/sectalks)
 * Mastodon: [@SecTalks](https://infosec.exchange/@SecTalks)
 * Email: [sydney@sectalks.org](mailto:sydney@sectalks.org)
+* [Humanitix page](https://events.humanitix.com/host/sectalks)
 * [Meetup](https://meetup.com/sectalks)
 * [CTF dashboard](https://ctf.syd.sectalks.org)
 
 ## Organising team
 
-* @pi3ch: [X](https://x.com/pi3ch) - [LinkedIn](https://www.linkedin.com/in/pedram-hayati-07b2b525/)
-* [@hndanesh](https://x.com/hndanesh)
-* @Morton
+* @pi3ch [LinkedIn](https://www.linkedin.com/in/pedram-hayati-07b2b525/), [X](https://x.com/pi3ch)
+* [Joseph McCrossin](https://www.linkedin.com/in/mccrossin/) (slack: @Morton)
+* [Tenzin Shakya](https://www.linkedin.com/in/tenzin-shakya-82bb68259/) (slack: @shak)
+* [Chris Lea](https://www.linkedin.com/in/thechrislea/) (slack: @chris lea)
+* [Hrushikesh Dolas](https://www.hexadivine.com) (slack: @hd)
+* Leo A (slack: @leo)
+* Riley Baird (@batterystaples)
 
 ## Date & Time
 
-We usually run meetups on 2nd Tuesday of each month. Visit our [Meetup group](http://www.meetup.com/SecTalks/) for more details.
+We usually run meetups on 2nd Tuesday of each month. Visit our [Meetup group](http://www.meetup.com/SecTalks/) & [Humanitix page](https://events.humanitix.com/host/sectalks)  for more details.
 
 ## Location
 
-Visit our [Meetup group](http://www.meetup.com/SecTalks/) for more details.
+Visit our [Meetup group](http://www.meetup.com/SecTalks/) & [Humanitix page](https://events.humanitix.com/host/sectalks) for more details.
 
 ## Want to speak?
 
@@ -41,7 +46,7 @@ fill up [Call for CTF](https://bit.ly/sectalksctf) form.
 
 SecTalks is always open to anyone who is keen to learn infosec.
 We run a mix of meetups for both beginners and people with experience.
-Join our [Meetup group](http://www.meetup.com/SecTalks/) and
+Join our [Meetup group](http://www.meetup.com/SecTalks/), [Humanitix page](https://events.humanitix.com/host/sectalks) and
 RSVP to upcoming meetups.
 
 ## Sponsors
