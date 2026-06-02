@@ -16,8 +16,8 @@ permalink: /sydney
 
 ## Organising team
 
-* Pedram Hayati: [X](https://x.com/pi3ch) - [LinkedIn](https://www.linkedin.com/in/pedram-hayati-07b2b525/) (slack: @pi3ch)
-* @Morton
+* [Pedram Hayati](https://www.linkedin.com/in/pedram-hayati-07b2b525/): (slack: @pi3ch, [X](https://x.com/pi3ch))
+* [Joseph McCrossin](https://www.linkedin.com/in/mccrossin/) (slack: @Morton)
 * [Tenzin Shakya](https://www.linkedin.com/in/tenzin-shakya-82bb68259/) (slack: @shak)
 * [Chris Lea](https://www.linkedin.com/in/thechrislea/) (slack: @chris lea)
 * [Hrushikesh Dolas](https://www.hexadivine.com) (slack: @hd)
