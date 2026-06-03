@@ -22,7 +22,7 @@ permalink: /sydney
 * [Chris Lea](https://www.linkedin.com/in/thechrislea/) (slack: @chris lea)
 * [Hrushikesh Dolas](https://www.hexadivine.com) (slack: @hd)
 * Leo A (slack: @leo)
-* Riley Baird (@batterystaples)
+* [Riley Baird](https://www.linkedin.com/in/riley-baird) (@batterystaples)
 
 ## Date & Time
 
