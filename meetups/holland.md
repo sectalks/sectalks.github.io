@@ -13,7 +13,8 @@ permalink: /holland
 
 ## Organising team
 
-* AK, [@xxByte](https://twitter.com/xxByte), [EMAIL](mailto:ak@imak.xyz)
+* Karim Zidani, [@xxByte](https://twitter.com/xxByte), [EMAIL](mailto:ak@imak.xyz)
+* [Hacktivity.eu](https://hacktivity.eu)
 
 ## Date & Time
 
@@ -33,7 +34,8 @@ Get in touch via [@xxByte](https://twitter.com/xxByte), or [EMAIL](mailto:secTal
 
 ## Sponsors
 
-BaseCyberSecurity
+* BaseCyberSecurity
+* [ExceedCyberSecurity](https://exceedcybersecurity.com/)
 
 ## Upcoming meetup
 
