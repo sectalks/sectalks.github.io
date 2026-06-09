@@ -22,7 +22,8 @@ Last Thursday of each month at 18:30
 
 ## Location
 
-Venture Café Rotterdam
+CIC Rotterdam
+
 Stationsplein 45, 
 3013 AK Rotterdam
 
