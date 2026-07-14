@@ -20,7 +20,6 @@ permalink: /sydney
 * [Joseph McCrossin](https://www.linkedin.com/in/mccrossin/) (slack: @Morton)
 * [Tenzin Shakya](https://www.linkedin.com/in/tenzin-shakya-82bb68259/) (slack: @shak)
 * [Chris Lea](https://www.linkedin.com/in/thechrislea/) (slack: @chris lea)
-* [Hrushikesh Dolas](https://www.hexadivine.com) (slack: @hd)
 * Leo A (slack: @leo)
 * [Riley Baird](https://www.linkedin.com/in/riley-baird) (@batterystaples)
 
